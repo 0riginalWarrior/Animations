@@ -1,3 +1,6839 @@
--- This file was protected using Luraph Obfuscator v14.4.2 [https://lura.ph/]
+return {
+["you ladies alright"] = {
 
-return({W=string.match,O9=function(O)end,e9=function(O,r,A,g,m,V)if g<0B110110 then m[0B111]=r;return 0x2180,g;elseif g<0X73 and g>0B0011101 then g=O:C9(V,g,m);return 42719,g;else if g>0B110110 then(m)[0b110]=A;g=54;return 42719,g;end;end;return nil,g;end,t=function(O,O)O=(0X065);return O;end,o9=function(O,O,r,A,g)A[r+0X1]=(O);(A)[r+0X2]=g;end,i9=function(O,O,r)r=(nil);O=(nil);return r,O;end,F=function(O,r,A,g)if g==0B1111 then(r)[0XE]=O.F1;return 0xAb2d,g;else(r)[13]=O.d;if not A[0X42b5]then g=-998242216+(O.R1((O.j1((O.u1(O.c[8]))))+O.c[0X7],(A[0X544b])));(A)[17077]=(g);else g=A[0X42b5];end;return 0X92A8,g;end;return nil,g;end,m1=function(O,r)r[15][0Xa_]=O.U;end,W1=function(O,r)(r[0b1111])[0b10_01]=O.m;end,V9=function(O,O,r)(r[0X2])[0X2b_]=r[0X2][0b11000](O);end,S=unpack,p=string.unpack,V=function(O,O,r,A,g)if r~=0B1011111 then r=0B00;else g+=((O>0x007F and O-0b1000_0000 or O)*A);return r,0X486C,g;end;return r,nil,g;end,J=function(O,O,r,A,g)g,r=A[0b1][0X1C]('<i8',A[1][0X16],A[1][0B1__00__0_1]);O=(0B001101000);return g,r,O;end,F9=function(O,O,r,A,g)O=nil;r=nil;local m=(0b11_00001);repeat if m>0X004c_ then m=(0X4C);O=g[0B10][43][A];continue;else if not(m<0B1100__001)then else r=#O;break;end;end;until false;return r,O;end,Z9=function(O,r,A)A=(0b1011__001+((O.g1(O.c[0x0__7]-O.c[0B1001]-r[0X48C4],(r[0x2581])))+r[0X007845]));(r)[13641]=(A);return A;end,I9=function(O,O,r,A)O=A[0x2][0X26]();r=A[2][38]();return r,O;end,K=function(O,r,A,g)if A==0X33 then r[0X13]=O.C;return 63915,A;else A=O:A(g,A,r);end;return nil,A;end,o=bit32.rshift,g=function(O,r,A,g,m)for V=0x0,0B11111111__,0X1 do r[0B100_00][V]=A(V);end;r[22]=(function(A)local V={r};A=V[0x1][0B1110](A,"\x7A",'\z \33\x21\x21!!');return V[0b1][14](A,'.\.\.\u{002E}\u{002E}',V[1][0B1101]({},{__index=function(A,Y)local f,K,n,b,E=V[0B1][0X9_](Y,0X01,0X5);local p=((E-0b100001)+(b-0X21)*0x55+(n-0X21)*0X1C39+(K-33)*0x95EeD+(f-0X21)*0X31c84b__1);n=V[0X1][19]('\62\x49\u{034}',p);A[Y]=(n);return n;end}));end)(r[0X3]([=[LPH@JtE,FLB_m=E+*6lLB;I93WK-[:s-Ag5rnuGJ>uiYej2=sz!&Qr%!!#7i`8T-1LBM(3FCg42@VKp?15>p'Eea[);$d4&z!'1)[J1jellp6C/Eb03F!afu'!FLT_H9)$+zn3B#7zi,:l9!Hj/!6un%`:f6<Sz!!%cTG>SJCz!!%cTFGC31?Z^4-FE2)5B0$"mz&3s(tz!!!![!!#9D(162iLB0h)!!!"oH+hQjLB2HW!!%Q8ZC0lALB0t-!!%OJ5B#[MLB27I!DcSMz!!!![!!%NR?lRT]LB0b'z!!)LSLB2@L!DJ7LAPi^5z!!%cT98<OKLB2Bl"TSN&zLB2XT!dSgA!a'J(!!!"lKVQRRLB/NQ!G$rd7lgVM!4WZ=U-XP9D/tC4:-&@T!,e<QfKhOu!2.3[=6r46z!!$t'3WK-[!!!!Q6&,JU;%!@(z!'1)[!3clkm6QL.>)*/HE]O1#z!!#%[z!'*<"!^^p_!b$,)!D%tH<B:*[!!"2PLI!s$z!:W4.!E;nsz!!!"S!Hs5!DMJ7*LB9tdLB;X>LB;+/LB;11LB;U=3WK-[7TXW;5u@^az!!%c[FDl5BEbTE(3WK0<n^U7j6&,JWLB1;.!^Uj^!GR;jE,p^7;`XmY^i_+Pk<Xk);K=euz!(fF:z?mFu&LB0\r!Ek0Y9f`7Sz!'l;?D`Rju!!%P3aZr])z!!!"S!c2n4!ci=:!EY$\F*)G:DJ)!1!5SIkCu@U7!Fplc=NCJt!DtlXz0R5p=!GdGkAl/a4z!!%cU;f[WoEeag?@:F%aLB0k*z!!#8LLB1gEz!!"-,3WK-[5b(2L6&,MWEea^6E]O1#_#OH7ha*#*3[c:b.k+[`%16Br#[^qKDf0&nFGC$,?X[JULB*)4FEqh:3WK/Q\<A/q6&,YSDf0&nFGC*2Dfor>CjLj@Bl8!'Ecd'AEcQ)?@<?)%!J^hc?Z9q-3WK-[!!!!`5_fJL?Yjg]r(Y3_zLBVX,@;Kb8!AQV8z!&[#&z!!$t(LB_g2Ch7*u3WK-[!!!!Q5_fJT@;TS2#'+-rB4Z1?"^bVRDe+V-B5M(!@q^W%EcYo.Aore2B6/3)LBr!?DKTf*ATEP.F*1rI!@*A=+ED%8F`M@BF(KH*ASuZ>Ap&!$FD5Z2-n[,).3NYBFEMVA+=2(W/hSb*+D#G$/0K"FFDYT2@<>peCh5#A+Bp$9F!=m44Wl@0/g,Qn+F>5<?YOCgAU#=\+D58-An>k'-n$]#/h&4lI46TfLB9(mLBML+G]Zda('"=6s8W+S!I9G$8icqP!!!#sT0S/9?XIo#E+Oe-D..O"LB_R9BPD(#3WK-[0Gsk06&,eS?Z'G!Bl7HmG_ZE6Bl7I:"^bVRF_jq+UtJiLs8W+S"E7dZCPN75Ddd0tFE2)5B86[u?XmM\Cki9i8S`3VDKo-9HWb90EZe%u@3B-!G%ku8DJ`s&F<G+4ATJu3Dfd+CF`;;<Ec`F?Ddd0!DfQt:Ddd0tFE2)5B.P0IBOu3qAoD^$+F.mJ+CT;%+E_R1@VfTuFDi:EF(HIfF`Lo0BI@jD-VR?-?VXC(<DZ^^9N=M[-Qm87@rcK?3WK-[!!!#g^H)>p!!!"MlTg46@rH7,AU&<(FEqh:LBqL7DI[d&Df1=8F(KH*ASu[H##'/[@;on8#'49pBlJ0L%!-!%D.RftFCAWpAVU=fEeaa+DfUU:D..NrBSQh"?YOCgAU&t6?XIks@YY1tDf9H'@;\pYz!!!"S"^bVIBm*>Rz!!!"S#%hdoD..OA#'>-0AT)19!GI5lATDg0Eej9%$6UH6+<VdL+>#0L>7(][+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL/jL^20.JM*/hSb//hS7h+<VdL/hSb-/1N;$,:+[%5V<Bd+<VdL+<VdL+<VdL+<VdL+<VdL-n6>^+=o/o,:+W_-9sg]5UId*-nd5,0.84s,9nKZ,9nTb0.JG&/1r%f+<VdX0/"_#/d`^D+<VdL+<VdL+<VdL+<VdL+>52e/gWbJ5X7S"5X6VH+<W9b-9sg]-71&d-71uC5X7S"-6jog/1rP-/hSb//h//45X6_M+<W3[/d`^D+<VdL+<VdL+<VdL+<VdV0-Dko5X7S"5X7Ra+<W'Y/0H&X.OZVj5X7S"5UId*.P*1p+<VdL+<VdL+<VdL/hAJ#,:+`f5X6YG+<W-b$6UH6+<VdL+<VdL+<VdL+<rE[00hcf5X7Ra+=\]d+=nid0.ne/,:+Z`5X7R]-mh2E5X7S"5X7S"5X6PD/1rP-/hS\.-9sg]5X7S"5U[a-,mkb;+<VdL+<VdL+<VdL+<r!O,="LZ5X6eP5U@O*,:+rq-nHu%0.JM+0.JM*/2&D$5X7S"5X7S"5X7S",sX^\5X7S"5X6PH,="LZ5X7R]/g)GI+<VdL+<VdL+<VdL+<W<[+=9?=5X7S"5X6_D5U.C$-712h5X7S",;1B/5X7Rf,pb/p,sX^\5X7S",qhMK-7CDf+=o&p/hSb!+=\[&5X6P:.LI:@+<VdL+<VdL+<VmO+>,!+5X7S"5X7S"5X6kK-m_,D5X7RZ/g)8Z+=nj)5U/NZ-7U,j-9sg]5X6YI/gEVH5X6tL5X6VD5X7R]-nd,"-7g8m/.*LB+<VdL+<VdT0-DA[-pT++-7(!(5X6YL/0HK/,:GfB5X6kC+<VdL+<VdO5X6tR-9rn#00hcf5X6kH,:,T?5X7R_+<VdL+=]WA5X7R]/0uSp+>+!D+<VdL+<Vd[+<Vm^/0dDF5UI^(0/"P85X6tF,sX^\-9sg]-nZVb+<W3^5X6_M.PE7o+=09<.NfiV,sX^\5X7R\+<VdL+<VdT5X6YE.P<>+,pk5O+<VdL+<VdL+>5B$5X6YI+<W'Z5X6PF+<Vd[5VF62.OIDG5X6P@5X6V?,q(/f5UIs'00hcf5X7R]/g)B(5X6P@5X7R],pbfA5X7S"-7geu.R5X3$6UH6+<VdL+=/<d-9rdu/g`hK5U.C)5X7S",pklB5UJ-:+<VdX0.85%.P)\b/h\P:5X7S"5X7S"5V+B3-n[/!5X6PD-9sg]-mL,m/hSb--6k!*0+&gE+<VdL+<Woq/g_nf/g`hK5UIs'+<Vd[-9sg]5X7S"5X7S"5X7S"5UJ`],;1Gk5X7S"5X7S"5X6YI+<W't5X7S"5X7S"5X7Rf/3lHc5X6PH-7T?F+<VdL+<VdR-7gGh+>+uj+<VdL00hcf-nZVb/1<bK5X7R]0.8J,0/"Ou+>5',5X7S"5X7S"5X7S"5X6_?+=nj)5X7S"5X7R]/0H?+5UIs65U\8m+<VdL+<VdL/gVtl5U[a.5X7S"-m1!)5X7S"5VF6&+<VdV,sX^\5X7S"-8$i7-6Oia/0HPl5X7S"5X6P:/gDhl-8-np5X7S".NfiV.R66G0.J:u$6UH6+<VdL+<W9`0.nJ75X7S"5X6kC+<W-\5X6VJ/1*VI-7CDf+<VdX-m_,)-9sg]5X7S"5X6_M.P)\b00hcf5X7S"5X6YI+<VdL+<Vsq5X7Re/d`^D+<VdL+<Wp!+>+s*5X7S"5X7R_+<VdL+<VdZ+<VdT5X7S"5X7S"-m0WT+<VdL/h/7q-9sg]5X7S"5X7S"5UIm1+<W9i/h0+4+<Vd[5X6V</h[PS+<VdL+<VdL+@%D!/g`hK5X7S"-8$D`+<VdL+<VdL+<VdZ0.&qL5UnB55X7S"5X7R]/0HJn.P*1p+<VdZ/1N%p-nZf25U.Bt5Umm!/3lHH+=n`E+<VdL+<VdL+<VdL-7g8m5X7S"5X6eA+<VdL+<VdL+<VdL+<VdL+<VdZ,="LZ5X7S"5UnB45X7S"5U\0K5X7S"5UIU),q(Ag+<VdL+>,!+,p4``$6UH6+<VdL+<VdL+<Vd[+=]WA5X7RZ+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdQ5UJ*7,75P9+<VdL+<VdL+<VdL-n$2j-9sg]5Umm!+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL,=!S./0bKE+<VdL+<VdL+<VdL+<W9`/g)\l5X7Rc+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+=KK%/hA4S+<VdL+<VdL+<VdL+<VdL+<Vm]+>+s*5Umm05X6tF+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<W=&-8$ht$6UH6+<VdL+<VdL+<VdL+<VdL+>,;i+<s,t/g)H*-7g\m/0H&X+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<Vd[5X6kQ0+&gE+<VdL+<VdL+<VdL+<VdL+<VdL.OZD^,=!P-+>+cb5X7S"5UA'7+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL00hcR/h.2N+<VdL+<VdL+<VdL+<VdL+<VdL+<Vd[0-DA`5UJ$).R66a5X7S"5U[a'5UA'9+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<s-:/0H>J+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VmY+>,!+5U.m(-pU$_5UJ*55X7S"5X7S",q^;i0.n@i+<VdL+<VdL+<VdL+<VdL.P<>".P<&55V+$2$6UH6+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+@%D!/gWbJ5U@s(/2&+u5X7S"5X7S"5X6kQ,sX^\5X6V</g`hK5Umm$5UJ*9-9s%3.Ng$&5UJ*+.LI:@+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+>4i[.OIDG5X6VH+<VdV-mh2E5X6YK+<s-:5X7Ra+<s-:5U@O$5X6eA/1r%f+>5uF5X6eA-jh(>+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<Vdl,;()k,="LZ5X7R]-nHtn+<VdL+<VdL+<VdL+<VdL+<VdL+>,2p-m^3*5X7S"-8$o!$6UH6+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<W!Z/g)8Z/h\M95X7S"5X7S"5X7S"5X7S"5X7S"5X7S"5X7S"5X7S"5U\6--n#EF+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+=n`j.P;hd+<VdL+>,8t/1`>'/1`>)/hSb!+<VdL+<VdL+=o/j$47mu+<VdL+<Xrq/M.;:+<VdL+<VdL;8&'apAb0ms+^_a?Yj:7z!!#h\LC&0CEbf`8@:Nk0z!!&ZX3WK-[!!)eT5WSlFz#XD6!z!!!"S#&\R#@V'S8#A7UiAn>k'3WK-[!!!!Q6\beO?Y+54!CV\D6AGt^ATVd#FCB9"@VfV2!b67J2ZNgXzLBh=-F`);AHA;l8?Ys@r@<>peCh8A+@<6L$Ecd'>@X)g3LBM+#@<.,-Eaa05ATZb"!sembQN[G&!]1NF![8Na![alL![:JCScJmL+qar$.O"p<16DYg(AS%63`.(&+pA#T!_3S1![7[S!]15k![7[Q!^@#)![86q![8Nq![7[M!]2)F![9+n!\+u]!s15T!ZE76!\=C0R0WjD;$ncS'+,'J+p%fQ$A&cY#.b[#!c.op#6KS[<Fp^^"YB]S!!!K/s-Eljjob`B!o=%]1kH.q*f:(`!r3.3AB>6h=tg$R#%D-5#@^jj!o=%]1g6RR>%Ib=!YkG7>4DYsTab2!"'K>Aq#X^0$sJ2d=TUluA7C*"@T2Lp@TkJ]#[5m_=T\R,!]7Fj@TkGe_$jd`\I)eL0UW8OOTS_f[K-Fd!r376AB=j]=toIQ>2]Wf!^6ZB_$aGW"'MT3>(H]WW=)n'"^(oS%:WkQ#@^jj!pL)%A-+Xj1]fsPA7Fd4@T0N8@TkJ-$<iPn=ighNT`eL"V?6lVR0-o%0Sp3Ad0*V2#[5mj=n)i&_#mgA`WH9!faCuG"^0dj>1!CSR0QoH!a,R/!]6k^>.FZ:!XW=Hd0F,a0X1meR06Zt"'VZ*=TZMB!]8".@TkGed0sJpM$IKn0Sp-?klb,j6"4A6fa)%ckltU#0ET&r@Utl-@TkGeecPt1!g*k"A>''6=to1L>-S97f`t^N#$KUf>0."PaU;;J"^(o8!Wk3P$!IpD!mq<`AGH@;=tg!t!]3dV!\[^Y![b5S!b)t>!Ff4dR1*8u"^(of!<P+J%9h]l=TUluA7G?B@T*>u!<P*/$<ls'=T[7]@V#!:@TkIr%9fG1=j[LYYmOV8-3?"*6"4A6fa;1e_$"4N0EOWD1m&,K8Qc*\@Urs4#\$_p#%Cai!k&.31l2TDOU,+S$<ls#=TZ\K@UoP*!s1<1"_(Xhq$L;&=T[Oi@V!"R@TkGem/d>G@KHT\f`bhg0EOOLA7Fd0@T.8U=tg"W!]9EQ>.Fl@!m(aXA:Xkm=tg$*$=[P&#\$skfa1i]!EfJp!s1<9%U,h9=b-ubM$7%=$!Q!a=d]Y$aTP`JR0d>5!lY0A1m&2Mi<NN5!F!SL=TZ,?@Ut#l@TkIr#[3W"=UA9J%9]A1>2]Zg3Eg]2TaP&O"'G]-!s1:\TaG7>OU#?!0ER@H@V!:V@TkGejT,E>!j)S,1]RLU!!!*$KpMrE/cmj2-3?"*%MC,jQ2q%D!X^Cf!Yb\m])_s?(BOpF:C7.9704e;1t_m2$;gj3!^I(o![[sq!]1Mk)FX]/$:P!t!_i_b!]8j=!YS?3!ZE!9"9KcE&ekC:!Y#2fZ5^@jq?n2Az"9A(["Tf_H1]eEo1]e-g2!PtT!pU"&!WiEp&cr+9!YPQ,z!!WGrQ3@=*!]0rg!]0r_!]0rc![RmL)A"(o![8O$!ZgPARK`Nt-34\Y!!!!$!:uK[$3C8Q&toI9(((*E=98O*>lk-11n"W[(Qntt!Z_FE!!!!0!5k-,!gWlh1]i[=!]0r[!b`2r!ZV7_!]0tm!?rlm2?G^u)=e]o(,=bN![:JK!\,+N%0A:^!X8]_+tNdb!WiF:!WiF/!k&1d-NXt`1a3P6*!2-&!]7^t3`6@n;GobH;Hc=h&kWZ9"p-Vb;BeLq>$=1#f`_]u>%1)7!\=C0$9CL=i<226$joU!5QZ'01]ej6>QToe!]15c!\Y1c":A'G!WjPi&cs$S)?Mi!"p-V*W<EVE`W@>&.0?XQ!]1Oh"D'.dMu`u:+qar$.M;e&i<03;;;hWZ3`,r&+tP43"UZ$M!?s9/YlZ[9%.OET1-G[S!]8j=!^]a>Hicb]1'/H3"p-PW&ct*4!]:$9,,#)G(.9>b.0?UP!]2)&&j[-S!ZV80!]1N6!ZV80!]3df![:e\!ZYZA!ZY)>!bP=S;G0nc)FQ&);I9J0!]7._,#SoU!`Do)nH2Ze4X*c**!1Kh1a;Gk$5U;U+rVm3`<$)t"Yg0DXT9RF!!!!3!:#mS!j2P*1]jNT!]0te"UZUY('6;o^&p,<!q$6o1]d^[BF5(J+qbLi+p%fY<WWI,1`?Ds+pnAi"UY;4,6E$D-N`E6!]0tU"]?]L:'*8@#a,;D*a3k&![7[IH<(*]!s1=<"9Jp-&cr+Y!Wj!8i<03#;$n!=7KNVmBEBF\1f=Y^,$G$L+p%gL<W]E)!]0r[>#o)6![7sQ@Kcf7;E@tg![;(T![7[I@TEP"!]0r[@TI4F![7sQC'=Y?=un-:;@cY4![:eL![7]"!<P)m!WjPQ!bql?!a7W7>#Gk4F94:.!WjPQ!b)<7!`D'_$3DD\!WjPISH/dKW<<9#;3:k\>#F5]!b,#)KE2-DV?;,G3!(E.1jTc9+p%gl<[rEA5QWeE1]kAl!]0r[JcSo0!<N<H$3H(c"aU4O;C[!5%g#c51b*fl%rrQi,'jk'+p%gl<e:>R![7sQJcQ#V!cg=/!d\:,!>5GX!egXV1]i=2!]2ZS!_+X@![alL!]!W8!<P;Zi<03K;$&TV1jTK1,(]h.![7[IJcSo0!>5GX$3H(c"TeaO3Wb$:!]4p1![7[IE`R2^[/s;/4p!PB!]jB@"9Lne1*coj!WiF:i<03;;*"a[+p'n/1i`X!+p%gd<W\6_!]0r[!b_Ys!<P)-H?'O:!WjPI!ch<C"p-W-&cs6Y!d[mn!rW1"!h98m1^"g6+W17[!!!3'r0@Kf('6;o%K\Hg"p-Ug!WjPY!Wj\e!WjPI"p-V*$3DCQ![:Yp$3DCQ"p-Ug!\+?T!ZD4L!WjU@$)/HG"<dg]OT>F^!!!K/S<jBl!Wk%6"9KK=W<<8H;$*Tq!]2)>1-$O6!ZV:(!<P*o#"hL#)Hsr]#mr]p*"kjF*#_u^*!-<G1]g\Z1^Z8n,f'[G3bK't1*co`!]3(J&jl_$!]2)>3]SBF!ZV89!]5cVne6TZ3XS$L"=jOk!]15oW<=^QL&h?4.O"p6!\+76$5*C[!]:$9$8MZ&)F=KF!_i_Q$8O(V_$2YMB,X+Q"pk>o!]1OS!N?2P_$15r4i%=81-IC7.L#sM!<P*o"puhC.UB"V.fpst1]RLU!!!*$oTfX^('6;o%K\Jm&AeO,&c`7?!\XT^!^?_f!aPjI!]0opz#lp0U"TmN]!]0u0!<P(Zc2du'OqRU2_?(8u&cs74+p&bS$j&Ie!_*5J_$L00;)/1SAhl.3!spG4.QK6s![7\H!]2A^.QIP[!^%q6!bNo3YmC^l&cs7<)?LoC#6I4h1'.Mh1,=[e#m+-/1cbsF*;Kg@6;]K>!bMLU!]15c![86a![?S+!ZFqh!<OHB+t<p'![Ih(.P`J61(jX43YDK6!^m)H!sK8Oz$35mK"TjDZ!]0t-!]1fV69q+C64,/.\H`HW!^ZrN!WiF:+qar$![7\A!WiF/.KTYq1?eoK(-2Ku!WiEQ3oL2C1/S)W!]2)Z!_*4u![S`d![])m!Wj8A!`It[![:JC<!"lX'I"n+1]fMn';?K#&PN7+!]0us"c36[!!!!&!03BL!kn[:1]k)d!]8ULRN$hs4p%S^!]16&&e>WF!<O#T$3DCY)A3PnTa(W7)@?Ni!\OO2'&`ln()!#?$3UtS![86Y&fLfu!]16&&e>Vs"9K>W$3DCQ7KPF*";2=U$5*t8&de[[!YPPs$3C8U'%$g`()dM]+p'"k1^Y-6%hctg!Yu[]![7si&e>%K!]0u_M#iS:z#QTFB"TiiK1]hOr1]eR>4"Ane$5OO0!Zrm)![7[U!]0s.!^&4^!ZWZk!a#dB.R4%e!]2+S"UZ"H+p'l!g((+r,n^7\0,gem$<%iU)F,2B4]DIs!]1!a"iUKB!!!!1!03EM!knsB1]k)l!]0t]#m)r`#,2U5+$1Cg"9K>O$5sEnnGr\,&dfNf)W:`!('=I=!]2)6![9)q![]Z8!ZWBc!bNo#![9B<!ZX6F!ZV9e!s1:l$5sEnf`M9k&dfNf)R0JJ('<V&!]2A.!bNW++qH.A![7]s!<P(Z.KUY@)?M*<)?Lm>+p&_c^'4Wq3[+VF66ZIN8g4<V;Bc/^=s="f!WlP+!lb6B1ci/P!Z!6e!bNW++qH.A![9B<!ZX6F!ZW]l65K^s!s1:tW<!&9&dfNf)VG/n((prm%iV,H!Ytj%!<P)5)?Lm&,!%tU+p&`>!Wls8SH/dK)GpPO&dfNf)M%nj((prm%g%Fc!]4@1!ZYr!!ZV8N!]Oj<!ZZ5)!ZV7G!]53I!ZW*[C'=Y?63RDl1-.J,#6GYBV?6lV66ZIN8g4<V;Bc/^=s="f!d4W%8kMuk6:+9i1'.Mh3k5Is('4[A1]f-.*\&'0+u1&<*!1cp!]2q^!ZXNN!ZWrs!bOL(#6GYB]E&'j@Nkjn!a5Xa@Nkjn$3FZ?!Wk[l!Wk,<3k5Is('5re*\&'0+u1&<*!2E,!]2*P!Wj,M+rUuM!<O/U!`T4X8g4<V;Bc/^)?N5/!Wk,<3k5Is('5re*\*Q]!Yut01-d$=.M"9H!Z!7@!ZW]C"TfIe!@e^9!WiF/3[+VF66ZIN8g5Hd!fd9_1]f-.*\&'0+u1&<*!4Xl!]1Ms)@mas!<O#L$5sEV,Q]eH,!n:^+sL)\,"`:g,#U<#jT>Q@&dfNf)W:o&((prm%g(5_!]3fC"TfH;,#VcOR0<X->$<+W+p((7!Wk,<3k5Is('<7l!]2,'$5X<V![\i-"p,Pa$3DCa+rUt1aTMY\&dfNf)OU^0(':T=!]1#`M#e?Z!<<*"!!WH!Q3@=2!]0ro!]8%<iXs$1<!!7*1_Kik0,aln-6e!B!Yu[u$4e>k#6GYZ+qbD)$5u/2)?N#%!WW3#!!<5oQ3@=*!]0rg!]0r_!]0r[!_F%,$5X<V!Wi]1![ER<U'Q>]?2ss*!!!?+X-Wtkh?!a8!nIDS1a8n%%P7aR!<P+:"9L&MW<<8@;$(&*1b-<K<\4@g!]25b!]U8\!Wk2&W<>7U3W^U,!aYpb!]gBF)F?bN3]]T/!]gBF.Z"Tq(cj^o"rTHW3`iQq66^%D705;$3iN5g!]gBF1-4@s$)n%g3bJLf!]2A>!Z^/%!]!V%!]j0[+sJQ^,09lm!X8]_+poMS.LH5$1(jX.W<iVe;1T#T6;[e6+tPJV![9Z<!Z^G0!^]`c-3?"2!WjPI!X_s@!WjPI/cmjb!Wlsh1>r?R!\uN9.]EP5/HR7#1]d^k<oF/_)Gq[c![7^,!<P(Z'EU*H3iN5gW<>7CB**/V1o^_j%AFOE!Z`-Y!!!!2!:#mS!j2b01]jNZ!]2q^![7\,!`&mK!Wk2N+p&qi8chcic2n&(8id"t;@3IFi<1?.$j%IO1eJqn':o7<!]U79!<P)-i<3U,+p(@?!Wk\L8jWS';@3IF>2]Ym(0^iL(BRkD1cd)f,!lV<*8q#E8dkb*!]2Cc"B$'<3[-+A1'/X$6io1H/-7Y#+p&qi8chci2?G^-+p&qi8chcirW<3Y;Bc/d!`B(q!q$*k1oUTr8dsPX1'0E:2$,Tq+p&qi3W`(Y]E&'j]E'J`3!(Z51nFdf!]U78!<P)M+p&qi8chcimK*GHJcRn6*!1-^*cajS,'l9O*.e2X!ZV8*!]4p1!ZZM)!ZV8V!Zn<D1275<8cg2_)?Ll[D#uNqEWR;&8cg2_638,.V?$`TH:e5YJcT$V*!1-^*WcNI1ic1i,'mDo*.e3#!ZV8^!ZlAS![7[M!]544!ZZdmC'#@VEWR;&;?@g>EWSA&";4T@W<>7c%&j@r@LR!D![7^E!<P*0!AX]r!ce>`E_6BWH;XeaJcSIF*!1-^*cajS+p-j,!]8+&639+JKE;33*BF6]!h9>o1b&h6*&?IW$5ONu+pA#P!]2[c"UZ%C![7\*!cA&r&cr,H)A3)q+pnAk.cCR=()d5UAc`#P<[&F`+p*/o1^X9c0+n<f+rUdi*$X>G$5N\[!]0rm!]5cPMAjnW/IH=uBk<,%8NAq"R/m9f!!!9)Od?4QL&qE5!r`3%1]f-.4;-TU+rDLJ_$1c$+pnbti<1VI'&`sK(b.!j,Q\/O1uSQe.L[dV_$1c$+t@*]"<o<Y+t>&f!Yb\mi<033;$'c"1oUTZ.T$7J!]1PK"<n[,,/FI$+sJKs!X8]_$7[N8+t>&s.KU)Z!bDEi%OqN>!Y,8g!\+76!d+Q$g'Q1@dLI`F!Wk"n!e"#L*!.qsz4TL/*"Tmg#!]0u8'EU*0)Y*q5ncAli!`T4J!]9HLWW</@q?$Ko!ZZdol2h#,!Yb\m!hKVu1nk)\$N_7KL*HaVW<<:.!`9#r+p'Ud!oX/(('944!]8U4XpN5P"p3?u!]71b@KIO\"0)G)*!3DJ!]R[mq#q+(\c_@0Z3(:4Q4*gORKK5fncDaA"!Rd[!eqcu2#7:$#4_goJci"R!Z[("_?'cYOostN!Z[X2q>p^<!X8]_Jcd1u'7p<a!Z[("q>p^<OoqB\$<%"K!]8U4nH:$O!j3(91]f5V![e'C,6B^M!b)3Ng&fCu!ZV9i!Wk=7!q?I%;oT[.!n%-!!knj?1]kB!dK1ctp)sJoiW?q$+r8l6g&g78,h`<^$/,Gbg&e]"dK0USFojMk!qHEh![OHJ!r;sql2h"gAcgrn!]L27!Wk:^>llk2![7[idK0Ku!ZKboklqJniW?@g$<-3k_#t*DncJ%W+r:"Vi;k,<!d+Q$!nIYZ1nk)T!<O2ASfRqi!jVn02qe>="0)G6YlTFYWWNa9!ic@&!t=]%WWT7'4TYfh1kGh0!s0GD^'Xoui=2dhJcf#Y"*+G_\c[Nd!ZV8Q!]6kZdK@&_0[^&+Z3+%)"O[Ch"#'c\!]8=-klS-m;lKoJ"3L^"dK:s#*!._o1qEdG"L8,._?8HqZ3+%J"2P5J"&mVMi;p4d;Z^e;1ti&C!s0J%"-N`f*!4Oj!Zobl.KUUD"2Y-A*9%'`!s0GDdK9Ol!Ytho!n%/P*WiGF!]8=-.KUUD"3L]I*9%'`!s0GD2$,V_!r;ug!t"N"q?$3h3V!7J!f6pa!]C*:M#jUXdK2S3!nm_(![NU'g&ft0B@6k@!iZD2g&ggHW<W_2<<>#R!oa:X!]e@(q?$Kp4fSS[!Wj>CrW3-Xq>p`:!`T5e!<P(Z!Wm&(!WiEMmMW;2R0GDJecu75Jcc)R"]PQc"9LFN!]gB,!qHBo:BL5-!]6Jdg&ehe.0>/'!]7Iil2pMX5k4sXrYJN8g]7I5ao]E]WWGhn!m1QG*.\R!!pp!g!nIGT1kGg=!Z[("q>p^<!eLLU2i7_-"q";I!f@)3""=;;'`p5O!f@![*9mUJ!Wj>CiW90?l2oWB$<-3k^(]K-"p3?f!]9HL!j3SD!fdHd1qEdt!Wj;Bp&Y:Ph?_g:!]U7g!Wk1s!pTh"ncAjo.cLNt!s/Sa!h',k*#\nD!b(X$JHQ<Yq?"b>$<)NY\HWC>!_i_QZ3#^]!ZM3t"9LC]d0memA-)hT!]A+%!k&Y>!]C*:!WiF:Err';(J=h0!Z,VRZ2tiR!WiEM!`]:Y!n78Q1qj1Z!Wk=_rYGVmRN8s?Eaf*i!n%,t!gX`+1]i@6!]90Df`iW9!_!/I\c\B%!Z]&ZZ3(.Jao_\H.KTeU1qEe&!WiJH"5*hb;mHMJ"2Y-N!n@>R1q"(_!Wk=_F94;!!m1T'$44fUao]]e4fSS+!Wj>CSH8jL!WiF:!`T4XM?B"C!ZV9!!s27"IKD@3!b)3N\cSl5!ZV9I!Wk<l!q?=!;n<&0$aKg<!ZhD"1BOia(TISC!s0GD^&\9lZ3$0j!ZV9I!Wl.!`X;i)dK5R5!ZV9i!Wl.!c4'h3iWANY!ZM33!s1=M!\+6q!qHBo:BKVZ!]9HL1'/X$ncAkg!e^XW1o^TYI8g9m!<P*X!b)3NZ3$a%!ZV9A!Wk:^"p-We!q?=!;mm"<!ic;N!i?&$1a8q%!Xl:9dK0Ii!jVn049C0>M?>4-c3XP/!WiF:l2dmdZ3!;"'=%Z@3!*Ul1nk&7!Wj>CU&kBl!r`c51kGgm!Wj>CJcc'M!eqNn1kGf2![c;!q>u6N0Y.=;"8W'0\cRHcl2hIt"p-W="!RddOotO^!Z[X2T`b^$M?<n]At]Ed"+gV/M??`X*0LF#!Wj@1"/,i);kaAW!Wj>C%K\Hg_u]usM?>%('8cml!Wj>C!f@(\\cRHcM?=BP"0)A'*!-<G1n"N`!Wj@9"6oph*3'*u!s0I*"!Rd[!bDEi\cV^0Jce9L!eLO>!Y5@N!Wk1[iW90?l2pJY+r8l6!Wluf!iZO\!a>^1!]8j=!oa8YdK5((!_/mc!kJFO.CoT["TSUi%K\K@!oX/(('<S'!]8m<nH:$Og&g78g&a:o!oX/((>8iL!nm]9iW@d;+r8l6g&g78,Q\/O1ti#i%,(bei<05A!`@AIrXK!!C>&^B!C3Ue!oa5Xl2^qf-F!^=!T=,`R0MpWM$@)a`W?2uR0MpWR0$NZ#3l6"!a1oql2d"M=d]KZ!U0\h!p0Rd1m.n0"U\1COo^^H5ah_9#7=D(!J(F^;Zc@h!]2Z`!t%sfM$FAd63738=[LdG=lBBJM$-r_ScJmL$3C8^,5D?K;_"1;$<%"+!]4AS!=Db?nHTD"EiB6M;eg>n5^I\_;egW)5_9$q"U\1CJcUH(5`,TI#7=B2blIl&R0MpW)-N@3l2cGA=d]KZ!U0VfR0MpWaTGZINWB2<klO2f#?a[P"U\1+_#asB>1!Q^;Z`cr!]6;Ll2fQ@=g8+p!N?0(R0MpWd03[@#3l6""^(nT!]7apT`PR"aoT<\$<(]^!QkF.dK._s$<(]f!R_!6g&[$6$<%#V!s1<I#3l5?#?dH!l2`VBR0MpWq#OWd#3l44=TZhM!]1htM?4S%!g3U$RKAoY!Z[p9q>gX;!Wo(t<iQ3&!\+6U!]6>I?314s#3l4t=d]KZ!Jpk\!iZY*!G$c`q#Un%C4ZM=!^Hg0!]4Yd!MTT[WW@YS$<*o,!jVi(\cLIf$<%$)!<P*H!pp9q)ZopB!]6&BU'$hd&"3UB#7=D(".B5l*!-<G1o^XM!Z\KJ!WjjG"1/14!s/N*BKH9Q!uI+&!Wj^;"475Y;gSS?!uD#U!]71a!Wj^[!WiEM_?,i$$<,(K\H<1;!Ythop'9"I_?).f^&\9l\cU"U_?(7b!\+6kao\jM!ZV7o!]8=,Z2t(I!m1QG2pqbi!X_lS!gsM/!X&Qg!]8=,\cMpQ!l>!?*l7tf!Z]>aZ2t(I!l>!?2p)2Z!<O5BAHF^:!b)3Ng&eP]!ZV9i!Wk=7!f@![*9%%*!Wj>Cg&_=7!mL`I1]e^"1suGg!Wj>CdK0JG!mUfJ1l_d_!kJF^!lP?G1uSQ=dK3;"!pKjq;rRju$<-3k_$;/"ncHW.+r14a!]90Dl2pMX,k;#Q#9jrK!qHEX!]ffQ_$)"ul2pMXl2kAY!WpRS<!)1a!]0u,!WjEq!<UCF(X`B-!Wj>C"p-U_dK0JGdK6EL!Z]nq$3DCQ2?G_`!Woe7<!$q=1suFT!Z]nqaoVVaiW@d:$<%"K!]1N.dK0U3!ic8&*9mS<![7[M!]1N.iW9;S!ic8&*;T^T![86qncAsrI0)5,NX5bDq?!Yt!ZZdo+p&aA"7cKp*0LC*![[sQ!]2)>q>pis!Wnl%<!&Qq!]7Iiq>u6N5j\u3!s1F`bmje3g&_<W-@u?i"1\dO.KYJ0+M%T2!s0GT!f@(&8r<]P*!-TO1l;CJ%g#5""9OG_;3:k\OonS?"9P"o;$&<N1]d^[BEHT`!a5X,dK3GNK`M63!nm]"/D:/V$ebYdi<05A!`@AIj9l#YYm^^)!`@qY!Wm!!!a-]_ncJ%W+r15S!]90D_$)"u!mD&S1]m:W!]7aug'"\^2=_0-#3lt,g'cUH_@]iNe-OJ(-N^^^!]8")!ic<!Z3$Hq!Z\cQ!Wj^c!dXnfao\:=!Z^/%!n%-IYmUWe!`:-C_?'nP!WiF$_?'c?.KTeU1pR2D$3C<]"-N]e*!1]o!`&ma#m)sC!g3Td*!5+$!`&m)$3E&Y!ic8&*!5pFWWH_:!eCC[;Z[.)1`@:,!X7p"U&kBU!o+7e1]j`adK1ctK`_B5WWS[k!Z\KJ!WjjG"&o=(!WiF:U&tGu.Oq.p!Xk_)f`_^]&u#I0$_d`l!<O5B<<>"_!O;d4!]dOeZ2t(Ii<8-@Z2tHo!O;b.*9%"l$CM)K!f[9`1u\Q<lj6VmN<0/<l2nd&+r179&HXcj!Wm&0"0)A'*3'+X!<O7H"/5et*4c5D$<%!1!]7ard/s_Saog#n$<%#3"!T;%".B=t"(/VAOTc(j_?8Hp$<&DmU&tRn!s6s]<!'3(!]8U4g&g78,iSmY"sOi:!oa:8!`%GN!fRIc!\OO2!WiF:i<051!`@YQM$"q;iW<7,('7J;1]lGF!]9HLl2p5P1$SfAbR7AOD?;Zc!pKjq;u-R3"X4]`ncAkO=T\F$;<e2a!bV!)M$"q;!`]:Y!WiF:i<051!`@YQ\HE7<iW?@g$<-3kOTl.k!c7uq!rNE-1suHm"Th-p!Wm&`!m1QG*!4Oi!`,cu!n%-If`;0.!`@nZ!oa8Y!_!/I_?6eEOr-!T!s6s]<!&9b!]5K2Oob\)!eLLU:BKnc!]6&BJcc&oRKMgV!ZV9)!s1EM"+gUV*23Q3!Wj>CRKEUMU'%\&!Z\3BM?<o"!`f@Z!hobu*iT8DdK3;!!<UsV;;hWZiW;sYIKD@$!<RiT(Q&<H!s0I*"53eX*!2!"!]L1O!<P*`"-N`f*!2i:!Zn'<Z2t(IWWSCd!Z\KJRKEU2!hobu*hibB!Wj@A".B;n*3o[(!s0GDV#^WSdK7>g!_*4m!bg!`+p&t:!Wn#b<!)Cg!]1/c#n7Ii'cA"l!!!!,!/[$G!d4W%!cA&raofcoU'hGDBbF>g&cs&X!s0rLq$-sV;'H&CAlAa\(TRQ<1)FF%3Z"7d!^[\)"p-VK!_O717KPCJ!Wkppq$%1:$98Gl!r3$5A-*_P1f?pI*!0">:BC_%1f?pI*!-1><`/u/<!#2a1]d^[>lXj)!!!XPPd*S9OlAShrsnaJ%d-&hoAs2G&`l6)Yc%Rp_SAA9$,fFX#/NP'EXb&1'^.cuIc1uObO.TpTM`Ur)XUNWh"?><3pgrAWm_G+""+p9?>g'Bi<dt>`Lm=Y3WK-[!!&+$^cDGqz5/92Zz!%>WDz!'k243WK-[!!%O:^kW*:-9F9U3WK-[!!%O?^cDGqzi4k$OWjX&Cp"h_0z!&;8Mz!!$3<3WK-[!!#8`^cDGqz<5:Npz!&hVRz!!"@]3WK-[!!!!`^cDGqz28D6Qz!#WM,"c[MW"!WL,^YKbm/cCS]^4urdTtT%rp:<9bz!!pA$z!.[_XLC+`n)Y51bEOX[_3WK-[!!!!]^cDGqz!5LVqzJ5!b6"fnpBNQm4eUXe1Z5q0OG*Ork\3WK-[!!!#g^P<#.b\T0K(-2Eq!!!"L:r#*lz!'n=\z!'j`'3WK-[!!'f6^cDGqz'YoJ4Ks"/tL85<A[D$6u3WK-[!!!!U^cDGqz8&..cz!'.hUz!!""S3WK-[!!!!\^cDGqz1Vc$Oz!*d6o"GnubVM>[qK[=>WFDthE?P?(%RLM:Xz!*-gi"PLL!XZ?F^z/AO:Hz!%PcFz!!"^g3WK-[!!!!c^cDGqz8\g)fmZBjIlUuNVB88!DW_5`k%3Zt1*Dg\GFR6HDSQASK6"Z<gBk/eU)9cqLT.?R(kYC!Uo.rE-z!)gTnz!!$0;LC6GT)MaQYBTuYPOZEIB!!!"L7)1h`zJ6'I@#=3;Zjc(kP3WK-[!!!!A^cDGq!!!!a>eiB#z!!!![z!!#=#LBTV&YMV@]!'1)[z=MT\!1%_?IL.V[:6>hPa!m"]o`T=LbLBmXl0?7#G%>PN^[i^I!^2BN1K:C7l-[W%`LB_MB7m/[oLBWFdX4`/]$PJ-f'CUCu$\G[-LBSo->T1jJz!!!SG3WK-[!!!!o^kW5qEl,]mVUh?VLC2_(&>5f(H:ihDLCo/U2g;X6r!IHWMABC:pop<E#_4I^V.Wh`4$!?A!!!"L:V]!kz^ehg-z!!"4Y3WK-[!!!!E^kW/Cf,;m:%7#[M)'h6Cz!&q\Sz!.[STLBY&[\=6]X#VLEBe?p_XLcPM9z7DLqaz^eqm.z!!#F&3WK-[!!'f4^cDGq!!!"L7_jc_7KhigfS:!%16?ma`lpPIW++1]KF'[>z!(t%^$'1=o_@rG0^$Ic[z5ZPUT#LtiLa)fs:3WK-[!!#8b^kW04$KaKc9;srPzJ3gt31G^gC1GeX;3WK-[!!!!O^kW_?\IB/pi!RmG%8cGbmOf9(MXH-3PgP6sH;TuI.bALt)RC?SK!05Vz!!#L(3WK-[!!#8e^kWQYme&^$AcO=p_39#fq-!1^mY;:]`ZdgV7,1+`%O1bm#<Dhb!!!#7=MQrtz!'7oN"Vd%8jt8[pz^fS<4z!!#g1LBsd_]*asj\T<N6i(n$<i1YK3[PLa8#je'E98(".U,i8Sz1;GpNzJ6BZKz!!#!o;&fQ8s8W-!s2Y4r"(-YVLCAALDj^3Y*MhIiH8^Nc(GUZY&Yl_A@:=op!MF9Wa+jlmM7@tDOu`RC!!!#7@_b#)zY].BT&H;_0s8W-!3WK-[!!!")^cDGq!!!#WHGG:`44#,U=h/>5](r!k%I.&5c66dY$nO`25&#dgYR1:^Kq,>0fGKl7z!3gU];5aEns8W-!s#L,[!!!"lGec??zTP;2&z!$GadLC_e.d7j[jYCZQVBIK)W7u%D"eo9XMX:g,NLCm13]<l'_K\WhF#+Rn\nO]?6z!)RaP3WK-[!!(qs^cDGq!!!!aCVY]1X1&h5h*?$Bz!"aIl3WK-[!!$DQ^cDGq!!!"L8\dBUR@0J2RAmq^z!5MsWLBpqa)+2=;Ul%25z?uNhAz!8q;$LD=&c&t`6Pg%W7B^h7!l43]E-Yg,g$z!8r%9LEJj/g%W7B^h6IG2W#r4rlGX$Hm5G47T0E.[i/h?0kiZKz!,TH+'iP45[@aoLP)*lRc-lQf,I-O^O$JI/W*"U#Ma%n8nIaU[3\rQJ1G^iI^H)>p!!!!aG//k<r^?7*JNJ^D"KoS,:59>`,/pJh/rh\B55<eA6QnJjzd!3?]$H,b)a*R_IYT8?Wz!.[MR3WK-[!!%Oq^cDGq!!!",D8:o9-_Vu\#p1&E$Hiq[;*"[WzDnq,ea1Y*K]HRp.pZ\h=q>8s-8L^4l%^*=RB6DkRX(4r(@2eH&ai!r<fo*o&'oOZTo>!It\5J)Cz!.[>MLK%Ha'*_$rGYr])4$rEA6:LPlnGVCq$58KEM]O$IFsSOP\j1=g3qRnaqbGP"J"9o0QeP/H0BJLQM4DK;/7QKr]u7p,?TgI*1*Esu:OR,!aW<JCz+D8JNz!)RsV;(gQ%s8W-!s+_Y%W_5`k%3Zt1*Dg\GFR6HDSQASK6"Z=&BlZ6u)*.`t!!!#e^-F^Zz+EYDS(&@,2i*P+<K:%$_J0`^poSW5"J!i=tzOEeQr&!?AoR!bdu`&^5k:]3V23WK-[!!%OE^cDGq!!!!1H,)H@zTOko"z!'kYA3WK-[!!%Od^kWa.Zk<5llb;29L?]\LID,$d3^U/KO<*>9"]BZ,jHVb+z+FLt[#1Y8tfltb'z!'kP>LK./)Bem#-,99%tU`!a5-n[a_mfPfuqggH8_0a^7+)*-';AN-#*r@*h8X[^Rdo4m;_M)VkKdkU'\r?XR@`?[l4Q:=,1_[lh.bs)kmIfr1Tu.L(z!+9ESLC_[7W:%ej:7G53IYJn"k;iSCz<kp`rzi+g%gz!!$9>3WK-[!!"-M^kW0jkUseX_[VAr%Q\sDQ2OQ9:5BZmKCQO7_06n'-JKt&^;L[JF#*-,G$dN*WW>>G,We,dru"Z^k*g7`d!3V6=`5Wl%LGmq&H#pI?fB3`^f6^'SZt3Uz:isK6z!.\OoLC(7uJ&lV%GWRoHz!0D?=3WK-[!!$D?^cDGq!!!"L<PXA!kq7RVUhGff`h_-a2hqYB-cMkg/rh\Jz!'ju.3WK-[!!'f<^kW3je&ja@\7j`S#sA/Y3`ZXhJ%[lCz!+Wf*z!5MjT3WK-[!!$DH^kW8:J9uB)"3%MQ08Bq_\'[Jg9Ws<3))$aL\2+k<SFS]@z?t$j+$E_7I^XEt`N`Yp8z!"a.c3WK-[!!!!q^eoIYs8W-!s8Ri]3PYBX%_KhYF$D\czd!EJgz!!#s53WK-[!!%OS^cDGq!!!!aB#'0+E(h6>:Q^D=5RkN>p4.lF-9;,,!!!"<EPR>6l=K=l[Xa,H!PW,,aa3"OZ5SdgR:;%HO+>W5(@Sa!"SME=cY4ncU^jK<UL@W!RI1/<z!)S!WLCC?WUiIT=V%p)&JjDEtzJ3q%4z!.[t_3WK-[!!(Ab^kW;kP)%1s$6CAj4=N;kzJ5*g?z!2+5F3WK-[!!!"A^cDGq!!!"LBu#K1R'^8Ps)7,Zni?aN!!!!qFhg$<z!+N`)z!5MpV3WK-[!!)M-^cDGq!!!"\FMKp;zJ7u_Zz!$H*n3WK-[!!"-L^cDGq!!!"\G/--=zJ9&Fdz!5NKf3WK-[!!#8l^cDGq!!!!1G/--=z?u*P=z^_GTi3WK-[!!(Ae^kW-F1RcEXF#j:$!!!!AG/--=zJ:,-nz!!#m3LCK![W7HgCblH6_[d_(f#CEhu"[.,gLCa*8UM##+`j]=a\8ZQ_'fl<p!!!#gEPOU8z!,KA2z!.]F33WK-[!!#8c^kW<q2Nj>n9k0IDTPQXhz5ZkgW%:8*o;.'r[ACV&dH/L^`zJ69TJz!&/c8LCB_JE_[ja@XLF0MU+<`z!)(*gz!.]=03bDu9AnGZ+^H)>p!!!"\EPOU8z^gt69"h]<PrpDfIz^i.#D"dWou41U+_kQ=-N=3&t^kf]R<d1OrPU>a:'6**O:z!0DQCLBd'WaB"!#3WK-[!!#F25WSlF!!!#7E575AZ]IoH0U+,[9HPSP=O%-T;4!&#+<W[2K6MBr0]X7T(65#fDNmo;OkX)(@(=DI"E@1q7L.cGZA6YD:_tt;4sdMR#qI2XYB>.m-H*>k3WK-[!!$D<^kWe%UrP`A4:4cV\=]H9Lp&L7K"SbYZO7$F3WK-[!!%OR^cDGq!!!!aDnnC6z?t7!-$7NkKSN_Ur^1*"U$OD$&++.eY$UoKK3WK-[!!%OZ^cDGqz6bnH[1`ItM;0(Xqs8W-!s#L,[z?bhF'*L!u(ZS(tL^kVrgLBjGrAMt<3k(a*gg^pt+3WK-[!!(qm^cDGq!!!!aE54L7zi,$1iz!+:)f3WK-[!!'f8^kXDAZ+HgU(:j2VY@tjib=WQsobH6p?=_ZqW@8TWK'n4$S&o"f2$HG=RQ:EK!!!"o`'??`z!)10hz!!$EB3WK-[!!$tc^cDGq!!!!qE54L7z0Qb)kz!5MaQ3WK-[!!$DJ^kWBU.a,clU$:fLT>KnCLC@<=R5-cKiV`g]/*Aqnz5Z5BYz!.\CkLBc8H=?Cr;3WK-[!!&[$^kW(V&6T]FLCX'UjpGcRPn6a4jHQq-LBJbC&PG.bz:j0WO"j$`Ds8W-!3WK-[!!!!7^cDGq!!!"LE54L7z5[D/dz!.\XrLBgagkDP_=>)*@ln)!i6s+nu^z!!#a/LBJ"7kkdDf'WssbHF1FJz!"a1d3WK-[!!'f[^kW.e7ok-PrB5oP(!g?X31_2n,Noou$6WU+VTh+9Dj^!K%"UA)\l/->N"DEY'Sd'YcPr6p]_'f'7CtS\z5]XYq/-25Z4jn/H>4E#jL?*KD?]'fd(GT="b397Q"Gp5bg%V2%Q?!WN2VSimm"Yk@Y4q<sO4EPWz!"aCj3WK-[!!#8g^kW,3)o@/8bD-7UhP.fB;1ac,s8W-!s&%2Cs8W-!s8P+[zTPqV,z!2+AJ3WK-[!!'6K^kWJc0plCHm_T;tY!gr1JH@elz!.\ImLMu%B58(B#hrS=9bP<E\9f4aDo#Ms0U'@=+jMEQ.dA3:0qI5pYQ3g3!U'nG`j-H*gr$<.3U=e4(d`a*2e&D^?R[polWP:G\Qh\\;1\%6'b#;(E9A\WsZtj-'h68=Q\2=f2*lsK3VSS:oWB("Z!!!"lG/--=zi+9]Z$"Ao>$C@>_Cak,\S([eIaGudL>E3:)Y1FggYYN%QMZPuQ_[*GL6TR7.z?t-o4z!+9?Q3WK-[!!)M1^cDGq!!!#WEkj^9z^hgeIz!!$oPLBQH:f#0TLz?uWo:#gRF_ma3ORW&anY!!!"L;ntEozi-<%m&]g*2::I&T99ZXOW,2Iuh17Tezi,laqz!5N`m3WK-[!!#9!^kXDfW#0XrT1U)qVQ8(510GARbVh&LQT$gK@&djC>91Vc!\04X4>u:"'06*n!!!!qEPOU8z&9YcLz!$GdeLO+8QLN#9$-,3Wp&tb>`Fds,!N7et&J#UTd%Xn_L(dm/jim=)S8jHgDDL1?+;JRS%odq=-(Aa4B'<3<n3l/cFHk3l?Ejk@Pb^*/]'RC:+;9^NA+@p4X`u3f<KH#ZU@XOe#cK2pGai$H8h8q/85VNp<^pHko3WK-[!!&[/^cDGq!!!#gF23P?4tsPm;!N/>iqfOuP>PB[s8W-!s8P+[z!.)FAz!8qh3LBSha"[qNN7K3>es8W-!LBC(I%6=Ih!!!"LAAEs*E*ErG5a;d>z!'k\BLCLdRBE4><6-.$LL"g6$z!.\%a3WK-[!!!#o^H)>p!!!"L?,24,C\:oY-A%t<6@^69`;Gbj3WK-[!!'fE^cDGq!!!#GG//k@\L_e:OqpLTq7hG@z!5N6_3WK-[!!(qj^kZ;DVtAA#=QU*Y:k9KJk/Kob:gH+5FCXD:6@$!gn[lE)5T$M+C<J5CE\9NnRpd_bCqgh%&q\uDIFiUsO4#"U5E(Qb%QRJ171GldOH&(+)\kB&Bmc#^!\.ntY%0"Cz!'k553WK-[!!(qq^cDGq!!!"lFhm+1!u1h"QN[H!#6H^`Xp5"b!i?2(1]dj_1nk!P!b1[%U&hM&=eYou!^`jiU&jK]=eYou!\4$W&cs&H$3EgC&ctB'!WkDD65fnF8eM1F!ep^W1]dj_1nk!P!b1BsU&i(3=eYou!^^n$!E!!o!<N<P_Z9fO(S_!4)Ah*7)?Lm.&cs'+'`p-6&csNd!WjQ,.N/@.1(jX.!q$*k1]dj_1nk!P!_B9oU&jK^=TY;u!XPJ$U&jK^=eYou!^c\dU&gAa=eYou!\/a3!`C0S!kJeC!Wk\L@ff7=3s&:rdfBMR(ZPMt@MeV:!brMQ"p-U_"p-U_U&b<$aT\C>_%0\C!<N<nR00/anH<!h!<N<hf`@fJW<6:t!<N<PRfNS2(V9\LHCk3>8_OJ]b5h[%!>g=g!WlI*8V-tRCBB@o(P2Yh!a$*;JcQZT!f@!pOo]k1*!29(!`&khOo])4!h'-+OoYUc=9;'W!G&53!h'-+OoYUc=98[.1]d^[>lk331nk!P!b.8mU&i(7=TY;u!XQmKU&i(7=eYou!^a-rU&g)f=eYou!\1_r!]hJ;!\so\!\-8%"W@Gs!BLhp*;KpC66QsC3X#Qd1-.H7!ZV7]!]0r_!]0tQ!<NP##,2.W#?dc%!Wk]>#GM6m"BhH"!WjhQNWB2HWX$BDqA]Tj!=Alf!\k$m$HWM[;Z_UQ!]0r_!]0tQ!<NPK"/5hD%U#M,!Wk^a"/5hT!a25u!WjhQOTu5+!\k<u'$1@k;Z[.)1]e!c2Ze[6!]0r[!_EHU#7=uK!hB?k!egXV1]T92zzz!!!<*!!!H.!!"#>!!#+]!!#+]!!#+]!!"5D!!!f8!!!6(!!"2C!!"eT!!"#>!!!o;!!"nW!!"nW!!"nW!!#@d!!"ML!!"&?!!#=c!!#gq!!$O0!!%$>!!%TN!!%TN!!$R1!!#%[!!$+$!!'q;!!'5(!!';*!!'5(!!(:F!!(@H!!(:F!!",C!!#1a!!!'&!!!'&!!!9,!!!?.!!!9,!!!Q4!!!W6!!!Q4!!!Q4!!!Q4!!&Pi!!$+$!!!r<!!'>*!!$:)!!!u=!!#%[!!#%[!!'h8!!$U2z!!)iq!!(CH!!%3C!!!-%!!!'#!!!9)!!!9)!!!H.U6l)cjp;)G!o=4b1]l57!]2Zm#m)%IV?[/Z6MV'O;aQ<U6=iIb!a#MI!]0r_!]4?f!Ypgu@bCuh!b)4-aT5l(#?bL;!YnRAYm"9>!WjiLU&b>!!Ep*;*!//N/4._e3b:VZ!a#LT!]0r[!aPj3!]0sf!`8[s@Y"P_@KHTG&RrQX=^hF6.KV@Le,_T3![9\q$p%rl$3D1K9EI'@!<P;Z!knpA1bo+6=9:5Z>llb_?%E+[3`,r1!]5oC3W_8B"p-U_@KKB"#%FP6=^hF6'ffb!#$GC:!\+7`!^d"n!]4?f!b.8m@dsS(!b)4-R0$jf"Bf18!YsZ/@`\pZ@KHT\!ndo9A?l^0!]#N33Z8&>!i5o!1]lb>!]0r_!]4?f!b.8m@_i.L!b)4-M$.;("'K(7!Yt5/@]9i?@KHT\Jd2>Y.D5a;!]U7Q!Wk1["p-Vj!Wli1"_(nC@KHTGBjuVt=^hF6.cL^`!Z],Z8cgsR"p-U_@KKB"#%GCQ=^hF6("!G!R0$N#!WjhQ%K^Lq"nE@Z+&r@H!]0sf!`6u@@[RI(@KHU%W<Hb!#?bL;!YsB#@Yke%@KHT\!oX9V%^Q1.M&/c_9!K%%;Zal<!]0r_!]4?f!b.8m@`]Bg@KHTGi<!K1'NnlH!\0?6*!-3D"p-Vj!WkoT!FikN=^hF6($Q0:q%?h>!WjhQq%U[IA3(>)*"jGN"TjYa!]6t[3W_8B<WY)Z"p-U_@KKA/@]:&E@KHTGfa2-X'NnlH!\+6Q!f$dXf`a-A3Z8&>!bDEi!X8]_!b)4-Ta"uB%9[-A!Ysr.@Z_I0@KHT\!lP-AMu`ta!]0sf!`6u@@eg:4@KHTGnIK)k%U!6B!\+91"@ALW6AYt7;aQlX6;mpi!]0u."9LC]"p-Vj!Wj,,"(Ir;=^hF6'o<T5W<cX9!WjhYOp3rX!ZV7u!X8]_!b)4-d04!Y)-LDM!Yrfn@d+b5@KHT\.KT[j!W3$,!]U5c!]0sf!`5Qp@`]?f@KHTGkn7Hf&m8ZF!\+8a!Wm6@"p-Vj!Wj,$"Cf1U=^hF6("j(+q$U>7!Wji<\cr3Ue-&)>3!.n;!]0oq.0'>Jzzz,Q[rG,Q[rG2?EjY2?EjY2?EjY2?EjY'`\46'EA+5)$'^;1]dXW1]dXW1]dXWz1B7CT*rl9@(]aU:1'.FU1'.FU1'.FU1'.FU0EM4S0EM4S.KTSM/-5eO+9DNC.KTSM.KTSM<r`4#56(Z`(]aU:JH,ZM8cShk&HMk3QN.!c=TAF%(]aU:?2ss*[f?C.AcMf2(]aU:cN!qFG5qUC&cht4.KTSM.KTSMo`+slJ,fQL&cht4!s&B%M?!VV'`e:7(BFL9PlLda(]aU:/HGhOSH&Wi'*/(54TPN_U]:Ap!<<*"9*#"mX8i5#&-2b2>6+^(ZiC(+(]aU:!s&4a"Tf_H1]eEo1]e-g1]dj_1]dj_1]e9k:q7/NOTS`!!Wj+A"VRL1=V:c;.LH4Y+p&)Q:BCS!h>s>baqW8@8c_?azzzz!!!!,!!!!.!!!"Q!<<*&!;;]^![[t*!ZhD"!Ytho\fAj6nea[p"p-Ug!WiT6f`VXn)@?NN)@?No!Wif:zzz!!!!ez!!!#s!!!#s!!!#s!!!!%!/6aC!\OO2![[t*!ZhD"i<]Pm+T_uP4PBqt'9WtF!X8]_)?Kt2nGsPj"'HND!YlRkaT>T`!WjhQ_$#>sA-rAX<!#Mj1]dj_1]eQs:rreXEEO1]!YpOm)OU\1)?Ksi!l5!HrrE0&$46i/!]0l_zzz!!!!W!<<*X!<<+o!!!!0!!!!0!!!"d!!!!B!!!!8!!!"e!!!!'!/$UA!fd9_1]iC4!]0t-!]0t%!]90IJf<nT$j$V71b&P.8C7GfR0-Rn.KWGg!@grL.KTYdOTR(q!EglR!\+Nai=[pJ0bS"0i<>q[AKhH_nGsO@![n+)$=jLk#7=Cl'FG1R!\=C0!"Ao.zzzz!-eJD!"Ao.!"Ju/!/ggW!#P_:!#P_:!#P_:!#P_:!#>S8!#>S8!#>S8!!`L[QN[G.!]0sj!]0sb!]2)&!\+6q!^$Mg!]0s6!XQmK1)X4M!Wk]616DT?1'.M,+rUOA!<OGH49@&81]dj_1]fE6#gif2M#ga7!Wk]n!]&^==Y^$[.LH4Y49A(eA:jma)Aa#)&d8mL*)luU!]7b%Or'8a3<0Kgzzz!!$7(!!$7(!!!H.!!!H.!!"PM!!$%"!!")@!!!`6!!!$"!!#gq!!#ms!!#gq!!$%"!!$%"!!!o;\!dI%2?G]:/cmj2-3?"*W<$aEEaf(i&gD&oC=Wdp!t#)2+pnC3##kZD)?M_s)?O2Zd0*?YC'"H=!ZV7u!X8]_aoMPF8<F"s!Jph[aoMPF'sRh_!T=5caoMPF.R=-9$rMQY!ch->;CX5k!E)ND!gWoi1f=AVAuPi08h^=g"B&c.klOa]nGr\p;1SiO@Sm2K!]3g>!`Dte!<QG%5ltLm!aPja!qm?11]dj_1]kf#!`59daoTln=ipaH!b/D<aoTln=ipaH!YpOraoSIT=ipaH!\+9I"B&dq$0_Lhj8kY^!a8G&;?AdL;?@g>Q3%+E!X8]_aoMPF8?i?@!T=braoMPF("iW1!MK^#aoMPF.T5dQ\cGaG!E)ND\HP#d0ETK"!]0r_!]8%#!Wkn1aoR&*=ipaH!YqC4aoT$X=ipaH!\/a(!eLeWnGr]+;1SiOE_um9.P0NZ;G&VEi<3%h;S`B3;Zao=!]0r_!]0u$!<Q*>"3LYd)-P)_!Wj*FaoTTo=ipaH!\+8n"B(0Z;X"6\;lL**>#>@?!<P+J!D;S\=m6JI8hfc98r3dU!jMl+A-.Dc!]4X)![;YW!ZZLf![dF<HAMl0!X8]_f`hM0!E!SU!YYXT&HXcj"p-U_aoMQ?d/qGkOTJ\.!<N<;=ipc5#?f1M!WjidNYMW9!<TtM!]0r_!]8%#!Wj,,!QkH="'NbI!Wj+q%*AUm%9^gS!Wjj['7p_r3!,rh!]9`WMA;!d.^C+q++aS/!X8]_!m1NF:q6VL!Vm7/aoMPF(%E!\!PoLRaoMPF.KY2&!`SUiJcY*?=kOR:JcRP,i<5#=A;UDU!K$nV!r`3%1]kc%M?.7F!U0ZC!E7AP!g3R]JHQ%C!Drpl!<P+J!J1?/"^(o3"H!4jM?2rCM?-Y,"9O_e;1SiORK69C!<N=7W<.qXJcRP,D#uNqklZeDA;UEP!f@"WnGr]S!E&@f!h'-enGr]c!DroU!?s(G%Z1:=!AFS/!<P(ZM?,1XT`L#OJcRP,i<5#=A;UEX!f@"WM?2ZLM?-ZG!f@#1!AM%f3e@Ad!X8]_@Y+W$%g'0@!]5c8q&,%j;jdZD!J1>+W<7_Qi=B&m[/g=c!X8]_\cLaqnHU\X!P&lT!F*AJ\cKAC%'fm8!_B:,\cK);0X:]\!YrflZ2ppB=gA&0!\/6\!MTT3U&gthnJ)A)!J(l`#[;i_!ic8u!p'Fa1]dj_1]kf#!`6u@aoNYgaoMPF8=9S&!?kUg!<N<;TaT!Dfa_0-!<N<P!r2tV#F5CB!U0Z;!E6N=!f@"U!mLiL1]dj_1s,h#!b/D<aoRV9=ipaH!YqC<aoR&3=ipaH!\31<!ZY/@>QQ`sXT8JB!k&C:1]mIU>%Ch$!a8Nr#QeI4!a5Xa;Ha,Ad1%j/0_#0AYmFP7"p-Wl"VO]e!hK]"1]dj_1s,h#!b.8oaoSIR=ipaH!YsAsaoSaa=ipaH!\2V/`X;he!k&=81]dj_1]kf#!`4^VaoRV3=ipaH!Ysr5aoSIJ=ipaH!\.pt!i#d:8cfuY!Wj^""F>n0=g7u/JcS_`+p&DZ"p-U_"p-U_aoMQ?Ta&X?i>>_?!<N<;M%%N-q%HoR!<N<P!eg^X^&^jj!_QD]!<Q.rJHQ$X;=OYg@Sq[Z!btR68h)@n"p-U_"p-X(!<N<;W<LEFkm:M8!<N<;JJ60,aU_Os!<N<Pi;rcU68/J_"A32sklOIUJHQ$P;1SiO>#BhR!b,#X"9N=8!i?&$1b&h6,-_a^1/[iU!]j1.!Wls8ScJmL!X8]_aoMPF@\EkG!Jq[saoMPF'sS:l!P&qJaoMPF.]O!\Xp7o-"p-U_aoMQ?Ta&X?_&-=t!<N<;YmebUJIku,!<N<P!kn^;-G^Q\OTnta#<MAl=d]CRaUD=_"VNjM!_reR1("(,M$a;F;3;au6;]K>!bMN0"?L'SklNnER199b;$&c[2Ze+'1]dj_1]kf#!`6u@aoV;R=ipaH!Yl$a!N?i;aoMPF.K]DK6>/^M!^]i%&ct[&!^ZrI!pKeZA4l(f8lL9D!`DmH"9Mb(JHQ$`;$'?6/<L6268/J_"A32+ble))!_OpnT`IbP0_#01klt;$"Zet(8cf&D!j)P+1]dj_1]kf#!`5QpaoT<m=ipaH!YrfbaoUH4=ipaH!\+8Q!WpdNC'"H=!iZ38A9),\*"jH1"Tel01]dj_1s,h#!b.8oaoTm+=ipaH!YqCGaoR>1=ipaH!\0oTPQh0k!WiF:!nd`lAFT[%E_uml!<P(Z"p-X(!<N<nR01S4W>\p^!<N<;R17:>\J\Pm!<N<Pd2<#.#Z5=\!Y\0-r<ZF)2?G]:!Wm%M&cs7t638-Q!Wj^""FB;:=TX9X!]0u7#Qcga"p-Wm!LXh1%PG<ni>0!*>M0S!!P/:?!jVh.:k8tb!O;_[Z2k".(%E0I!ML62Z2k"..N/@lnc>-j!b,$[&cufF!\OO2!iZ38A9(iT*"jH1"Tel01hr!X!X&6)!ch-V!a64G!Wj\M9`d.d&cs7t638-Q!Wj_=!IEu7=kNu\JcS_`+p&EmOTddWC'"H=!WiF/;??nL1'3F:<!*"+!]0rk!aPj3!]0u$!<Q)+aoRVA=ipaH!Ys)iaoV;M=ipaH!\1Gi!f@!pJcPoS=9AF/!]5K0&cs87!I=eeOoYUc-@l;_!Jpt_!X8]_!X8]_aoMPF8D+'e!J)"haoMPF'nI1D!J(qfaoMPF.bP"-q?KlL!?qRY!nda/!Fu8N!<P(Z"p-X(!<N<;d/hAj_$O8e!<N<;OUoS8JJhV5!<N<PV$aL<!]U6^!]0r_!]8%#!Wkp_!QkGb#[,:N!Wj+Q%a"h:$<bLP!WjhaR0KZ$AUt!d,#JsS!bMM!!<P(Z<!"lX"p-X(!<N=3nH$c5\Ir&f!<N<;Yn>+Zi=T58!<N<PdL#.=!Ytje"p-W5!>5GXM?/#)*0L=(![dF<Oo^CC=n)LoRK69;!?qRY!gElj1]dj_1]kf#!`3%B!Vm:0aoMPF'sSIq!MKp)aoMPF.KTYQ\cGD)r<-($e-,n1!u3g^PQ1[`zzzfE)$QfE)$QfE)$QfE)$Q4ot]a4ot]a4ot]a6im>gdK0CKdK0CKdK0CK*rl9@)#sX:4okW`H3+'HH3+'H3<0$Z+92BA4okW`H3+'HH3+'HH3+'HH3+'HJcYoP9`P.n1B7CT3<9*[B`J,53rf6\5QLibJcYoPJcYoPI/j6I8,rVi561`aJ-#]NJ-#]NJ-#]NR/d3e<<*"!561`aF92FBFohXDGQIjFH3+'HH3+'H[f?C.@K6B.GQ@dE`rH)>C&e56Erc7@f)PdNEW?(>+9;HBZ2ak))uos=lMpnbHN4$G;ult!WWE/#X9&A%Xo\S'Xo\S'Xo\S'!s&B%K`D)Q>QFg)ZiU4-%flY1N;rqY>6+^(*<?-?PlLda=TJL&\,lX1\,lX1\cMj3\cMj3\cMj3\cMj3]E/'5]E/'5^&e97^&e97Xo\S'Xo\S'YQ=e)YQ=e)8HAekYlFb(>QFg)AH;c2]`8$4;ult!I/s<J`;fl<BE8)5V?-_tV?-_tOT>F^bQ%VC7KEJhNWK1\O9,C^O9,C^OobU`OobU`V#^Prf`2!PC]OM9[/g7-m/R+dAH;c2h#RKUqZ$Tr1'%@Tq#LHq!W`9$1B@IU:'(Cq8-/bk:'(Cq:'(Cq:'(Cq&HVq4'`e:72us!Z<WW7$=98I&=on[(>QOm*>QOm*:]^Us8cetm:]^Us:]^Us56:fb,67cE.KKML8HJkl/HGhO0ED.R>lk!+1][RV0`_7SA-)`2A-)`2Ac_r4Ac_r4BEA/6C'"A8D?9e<D?9e<HNF0I6NI/e2us!ZiW9)[MZNkY:B:FqErc7@fE)$QiW9)[iW9)[iW9)[W<*&">6+^(@K?H/a8u>Aa8u>AV?-_t^B+B8@fZQ0@K?H/a8u>Ab5qYDD?0_;9E>+nRK<HhS,rZjS,rZjjT5D^Fo_RC;ZQjuScSllQi[6fU]LMrU]LMrpAt<pJ,oWMHN=*Hq>pWsq>pWszL]RPVM?3bXM?3bX5QUoc&H`"5O9#=]D?0_;,6IoGSH/]jD#jV:g]@HUg]@HU5m%)eVZ?bt+oqZD;$-duYlOh)+TVQC6im>gB*/,6\cDd2*ru?AG67gF_#XN9F9)@AK`_;Ta8l8@Erc7@mK*@g#lqH$"TnZ)!]0uP!Wk1[mK*GH+p%fN+p+&2<!!7*1]fuF:rrf+)-K9-!YouIOTATO!WjhQ8Kp&;!\,!!)Bo>/!_-,j-3?"ZW<XnO1@YB#;_k<V1/e60!^%q6(/t?q!s1<:(8;S]&J5'K!]34F!_DPY6AYbH!^Zrb@7#eP=[E/k'nHBPkm(?X!Wjj^!s8<,nc8e9!^&6;#:`Y-nGtCD18tI5;Z[.)1]dj_1]fuF;#(/Zq$'tg!Wj+q$::^*=[E/k.P_(-!OMk/KE2-2!c7uq)?RPP<!"$@1]dj_1dV6F8?i1^f`>5B!Wj,,&OJK\6373<$3C8^!_F#8Err'G(BOdB1_L]>"VLmL!E9,K!]0r_!]34F!_B!d6@f_O6373'T`mcn#?a@p!\,t)#Drmf1@YB#;_eEe!E9-N!<P)5W<XnO1'5)h<!$n<1][q(zzz!!!#o!!!#o!!!!.!!!!-!!!"I!!!#s!!!#qz!<<*"!<<*$!<<*$!<<*$!<<*$!<<*"!<<*"!<<+O!!!!R!!!!B!!!"P!!!!f!!!!O!!!"L!!!#o!!!#o!!!"/!!!!X!!!!"!!!#e!!!#g!!!#g!!!#e!!!#o!!!#o!!!"I!!!!j!!!"L!!!!%!;r,d!Ytho!Y,8g!WiF/!X8]_!ZD+GM$+`B=W.>C'r_?Tklb--!WjhQd/s_d&cr-g!=Al0=990<1kH.A+'K9Y*!.qt"U"f*zz!!`K(!"Ao.!':/\!5JR7!!E<#Q3@=:!]0s"!]0ro!]0rg!]8=DWX&qk!X8]_)?Kt2nGsOG=W.>C'mU^[!Eg<B!\+7CU'>0*!<NlM$3C92!X8]_!WiF/!b#XHzzzz!!!#m!!!!.!!!!-!!!#G!!!"n!<<+m!<<+m!<<*'!/?gD!ZhD"!Ytho!Y,8g!YPQ?!X8]_+p%g4nGsgO=X!nK6Ep\<T`S@@!WjhY!Wk"bWWrSb!aYpb!X8]_![7[OaTE`l!a-]K!^bQA,)HD)+p%fq!_F#n!S[VV)Aa"f!a#L*!aUC"WZ::<;?@g>1]Rpazzz!!#=c!!!B,!!!B,!!!$"!!#=c!!#=c!!"#>!!!]5!!"2C!!#Ig!!#Ce!!#Ce!!"nW!!!E-KpW#FmK`kN!p0ai1]lM>!]0tm#6H^`"p-U_=oqNW"Bpoi=]tk.@Z^[pOTS`i!Wj)S>+l"#=onaTl2h:o@6,k>*&7Qs=9@mk!]0r_!]0s^!`8[o>0-qN=ona?EEZ4B=onaT&d"@%Y5n]*!]0r_!]0s^!`4FQ>(H]W=ona?&R*!P=]tk..MA-R$8R/9![8d#!Wls8KE2-2!X8]_!a5Y%Ta"]R"'Je/!YtM7>1!OW=onaT!o=(^M?-$N!XD=Y!ZXN.!a#Mq!s1:\"p-U_=oqNO#?mf*=]tk.(!-bc\H5o;!Wji,R0F;b!Ke#s66S)c!bO1h?;q!7!s1:\"p-Vb!Wliq"Bq2s=]tk.'tFQQf`>5Z!WjkJ$jm%[.N/@.+p%gJ!i?&$1]dj_1g0q^@`\[TJHf6Y=oqNO#?lZ_=]tk.'r_^IT`nS&!Wjj_"doQ-<8e2d8g-4s!bOIpQ2sqd[/pCd!X8]_!a5Y%M$."]%9Zj9!YqsE>%q,C!Wji$$3E(?+p&`6!WlI*L'%K6!X8]_!a5Y%\Ii#="Ben0!YqsF>2]Qd=onaT!WiGo!<NH,1g0q^8C7HAOTJZh!Wlj$"'Ufg=]tk.'j4_^&Qr9=!\0oQR0Jf^AW[]/;Gfa^!bOb#SH2[k/cmj2jT5K?3XPp468AT^3W]@b!\FI18dYVD;F1F)8cf&r!pp!i1a8=l&nRIA!]!Us!WlsX!e+)MjT5K?!X8]_=onb7nGuh0&6W0<!YqC?>/:kT=onaTU&sQ[!Yu+EeH/\O_uTor)OUdBA`4L..T%)c!bN>PPlXhc_ug&t.[^JRA^Lke3`.@.!bNn`liL,f,Q]e("p-U_=oqNW"Bp?k=]tk.'o<B'nHi?%!WjhY!WnYg$3KSs<!"$@1tie0$1\Kp!Ym"8zzz!!!#G!<<*-!!!!1!!!#p!!!!D!!!!9!!!#c!!!!T!!!!C!!!#b!!!!h!!!!J!!!#c!!!!'!WW3)!WW3)!WW3)!WW4+!!!!W!!!#s!!!#q!<<,r!<<+@!!!!c!!!#f!!!"S!!!!n!!!!"!<<*&!WW3'!WW4o!!!"%!!!#k!!!#,!!!",!!!#_!!!#:!!!"7!!!!'!<<*0!WW31!WW5V!!!">!!!#u!!!!1!WW33!WW33!WW33!WW5]!<<,\!<<,\!<<,^!<<,^!<<,q!!!"N!!!#`!!!#K!<<,L!<<,R!<<,R!<<,R!<<,T!<<,T!<<,f!<<,f!<<,f!<<,h!<<,h!<<*A!<<+d!!!#_!!!!'!.^C>!d4W%!cA&r!bMKj!aYpbJcs41l3&=5"p-V2!Wkp?!@esi.KTYdGq+pW=XjIS.KV?Q#%SA*"VPAj$3D1c&csHg!WiV;(^^UV$4;Ut1BK*/1][adzzzz!!!#-!!!!.!!!!0!!!"E!!!#g!!!#g!!!#g!!!!&!</8f![[t*!ZhD"!YthoMA<u:Z5HjJ"p-U_"p-V*!Wkp_!?rCa+p%g4Gp8@O=X!nK.KZRPl3q29!WiTF$3CG6"p-U_$3D7M!WlX/"UPA5zzz!!)9az!!!H.!!!Q1!!"hU!!!-%o9KO]0a_Fui<9R")?KsF)@?No!X&Q]Jd%S[iYWI4"U+l+!)`ds!)`ds!)`ds!)`dsz!!NB#Q3@=:!]0s"!]0ro!]71cl5meR+9D`K1]dj_1a2u&@^,qXM$$m)!Wk]6,*;n/+p%fq$3C86!\k<ul4"(%+rUdi-isGR"onW'zzzbQ%VCz%0-A.%KHJ/#QOi)"T\@a"UY;4#7B,e$=t+_!XBVN![u1tao\:E#Qb231]ej&:n\(;)-J-b!You)OTAT/!WjhQ"9O#R$8D_b!!",B!!",B!!",B!!",B!!$g8!!!H.!!!B,z!!!9)SX0K]"p-VB!Wliq"?NLc=ZQTc'p/MXnGucR!Wjha!Wk"n!WiVD!t#)L.M;e&!X8]_)?KtP)?LCJ!mUfJ1`?Ds.KULi4GjmM!nmZb)B'Lt)?MKi!`f@Z!X8]_!]gAgaTFTO!a.Pc!YqC63f*l?3W]@4!_F;i!<Vcq,%N/1!ZV8Y!]0r_!]0r_!]2q>!YqC13[n2m!Wj+1%m#OK=ZQTc.OlVD*!1uu!^$Mg!]0s>!XQmM3k5;p3W]?tM$?$:"^*kf!\+9A"rb;Y)?P"[!i,hu1]]HB!!!!$!!!!(!!!!"!!!!2!!!!/!!!"$!!!#3!!!#3!!!!O!!!#)!!!#+!!!#+!!!!L!!!!?!!!"%!!!#+!!!!b!!!!H!!!"'!!!!r!!!!P!!!"$!!!!(!1&rT!bMKj!aYpb!`f@Z+rUM&![7\.!X8]_!\sf_nH:V0"'IA\!^_/fOTAT?!Wjha$3D1K&ct$"!Wk"VYlbVL&csU`!`f@Z!X8]_1'.MdYlQWE#?`e`!^b!41>)n81'.M,M@BV<<!!O21r9Ej#P&-N!ZV7u!X8]_1'.MJd/c"r"'G[\!XQmM18+eQ1'.MDd0;AJ!Eh/Z!\+7Cl3(AoYlbnT+pnAk)B'4l&csU`!fR-]1]S$dzzz!!"DI!!"DI!!!H.!!!H.!!!f8!!!'#!!"2C!!"2C!!"2C!!";F!!!l:!!!Z4!!(:E!!">G!!#"Z!!"AH!!!W3!!">G!!!3'J<pE@Acadj?32qb"p-V2!WkpW"=gAS=XjIS(%DAUYlRuW!Wjj^$j)"e;&TKK"Te`43W]Wi:BCS!>lp]8$=j2m&nDX6"VPAJ'EU)m/HRd"*RY4^"pFu0zz!!!!(!!!!2!!!"U!<<*"!!!!D!03KO$3C86$3JKf<!"*B1]jZX!aPki%Di-V!eqQo1]leT!]0sM6=fB_!_O7A)F=T/"p-VJ!qm7+!o=Ok1]dj_1m.nA!_DP\OofW+!g3Td:rrg&!c_A+!WiE<M#ib@M$$nD!WiEQ!l554%+#$l!Po#X!E0&[$j&6e"p-U_Oob\]q#Z]\JH8o:!WiE<&X!43!a1Zf!Wji<!o=Mq!j2P*1]iL?.V(<V$49]5.KVOYR2%2_M#dZ=+Tb[G1]dj_1m.nA!_Dh^OogIE=crgf!YtM8Ood(8Oob[d.MCDJg'gmuR2--.,*<':;Z_XR!]2A.!bO3u%gl7?%0AR664*c!!lP*@1]fc@1]dj_1]igA!`4^VOoh$T=crgf!b.8oOoh$T=crgf!Yr6NOoi/p=crgf!\0':&cuBS!mUmI!i?A-1]dj_1m.nA!_A.MOoiH%=crgf!Yt5/Oog19=crgf!\/Mq#D*=^H3/g'<!(nh!]0r_!]6&A!Wkp7"d/pq=crgf!YoF4!eCPYOob[d.Y.[oZ2u`-(:jOP!AM(c!Wj\MaTfT_A-20(!]7Ih!Wj^""&c]20TcXP!O;_[\cDj6-3Al%!]0r_!]6&A!Wj+)"-N`-&Qt7u!Wj+1"HihC'NpS#!WjhQU'1TW!\oQ5A;UE8#DrO\M?/S8\JI&b!>;pN1BK;"!G%W"d0H*@;Z\\J!G%o*q#R2j;ka;e!RVK8RK8iXU&eVi!La%o(,MZc!Wj^r';>MY(g-op"9LC]"p-WE!WiF4km*@QfbmqU!WiE<_%i+7i=&kP!WiEQM?^ouaoPkd!Q"ko%l:ct\cKYK?NSLR!]2D/C):o*!ZV7CE`N6m#^U$-OT]u/kmdcH!?hMj!]L13#_E(fJcUu:JcSfD)$5Zr+Tg0q!]9HK1'/Es\cG,K!m(Y`!G'%J\H]nO;je!paoNXeh>m[7OV+SoU&csJ!>5G=Se%h%!]U84"9LEb(BVGS+Tf4U!]Tob\cK);0EUVD!]0r_!]6&A!Wj+Y"d/r7(g3"'!Wj+q%?^e/(Kln&!Wjj_!HO;21Z9%Z!O;_[!m)+e!Fu7S!]6;R_?%4K0Y%P%!O;_[$3I4.&d#HA!]90CEWR6O!La#j*!3tX3\1?S#0HsW!ep^W1suD^!<O7p!BL9%!\r[8AE!X;#N>b_!`]:YM&*Z'Z2lW\aTf<WA@_fP#.ah6R25qA!?hNY!<P(b!ic90Z2k".-Fs3Z![dFM\cIp2=b-[4!P/:c!aPjaaoT$WaoPG/$3JWV+TaCP!Fu69!]0r_!]9EPq&"\b!J1BX$\AFaR1t5SJcZAW!<N=3TacSTq>i;H!<N<;R2Yo&+^+XB!Wjjo"o/2Q!E7,A!WluV!QkH-&MjL%"TgL^"p-WE!WiF4_#fc$nH`9\!WiE<faj5IM&KN[!WiEQ_?H)'!Z]Vh)?Lo4!?qRbiW0Yn*9mPS!ZV:7"9LEs!P&EO!E7AO!m1NedK+Xq*81FF!<O5B_>ti3!p'Lc1]eWu1nG#j!<P4^"p-U_Oob\]Ta$Y]R1NMa!WiE<OU@6Qd1BHD!WiEQ!mV/T\,cZI#JpLP!i>u"1i`ZR##kY_"9LC]"p-WE!WiEoM$&nBM%!OM!WiE<nHtE\i>5X[!WiEQHDq/G"B0X:!I@[jW<RZI!X8]_!X8]_Oob[d(#]@[!kAkFOob[d(!-uL!pLM(Oob[d.T3P^!ZV9c#6H^`"p-U_Oob\]TbNXkTb:Lk!WiE<nJ78hJI>VD!WiEQ`X0K_!^Hek!]0tA!Wl2l#*K%u'NpS#!Wj,,'9WEj)Hi4)!WjhQ,Q^R>"p-WE!WiEoOTUaJd1TTF!WiE<Ym?Koq%m1s!WiEQ!_JOWA<R#qEYf?,C'A>RbQh)Km/d>G!X8]_!g3Td;#(0U!q?b'Oob[d(%D`r!hg*,Oob[d.UiJ'#93fP!s1:\"p-U_Oob\]q#Z]\Tb1Fj!WiE<Ta?k`M%WsS!WiEQH32:qB*)ZH1]dj_1m.nA!_A.MOobqm!g3Td:mhBJ!XW"m!WiE<Yn3'"q%[%q!WiEQHDq/G!c<8R!I@[jW<RZI!i5o!1]kW!!]0r_!]0tA!Wl2d!g3W4'NpS#!Wli9"d/r7'NpS#!Wj+)$'GAC(Kln&!WjjG!g*[Z1ceM9*!-lW1eIfZ<!$n<1eRm:(J7!q*)[CN*!0.B1]dj_1]igA!`6uBOog1D=crgf!Yp7pOojkb=crgf!\,u-@Z1=#)Hm;J!mCmK!bMKj!X8]_Oob[d'r_A"!m)9^!g3Td:q6Ui!m)9^Oob[d("!PT!f7IkOob[d.K[a%!h9;%!s2@D!_HR+!jr%11]dj_1]igA!`5QpOoj;B=crgf!Yq[QOojkY=crgf!\+9-"9PM&!X8]_!g3Td:n\Sd!q?h)Oob[d(!.#M!i[#>Oob[d.^T6a!cnFG!s1:\"p-U_Oob\]aTI\-Tbgjp!WiE<W=Y3oYmOWs!WiEQ!f7E8!NcB,!nmYkdK'CN=98O*?-30L![cS;aoU`A=d]o&!QkEsW=m>Sd1ofp%CuS_!AFS/!<P(bklCi$!n@;Q1jZ,+E`7;S!I@[j!mCmK!mLlM1]l>E_?"2D#f6TD3!.A+!]6nX!WluF!<N<LR2EL9M%Nkl4T[GA"p-U_Oob\]\H7oqkm1FT!WiF4M#rhAkm1FT!WiE<q%8bk_%p1:!WiEQ!X8]_M@6s#kn\,f!iZod!aEbZJc^N*$j-8+!`5j(JcbcL0_teO!Yt55q>o7W=o&.#!\12N&cr<<!PoAJ!G/hCU&b<8!mL`IR/mAk$N`0X$c2oG3!*mt1]e9k?/cLV)4D%>!X8]_Oob[d'u9s7!kAV?Oob[d'nI6c!eD.jOob[d.K\$.!aPm0"q%4-!!("=!!("=!!("=!!%HK!!%fU!!%fU!!("=!!(dS!!(jU!!(dS!!(dS!!)!Y!!)!Y!!"#>!!!i9!!'q;!!"eT!!",A!!$j9!!#@d!!">G!!$^5!!#dp!!"SN!!$U2!!(:E!!(@G!!(@G!!(FI!!(LK!!(XO!!(^Q!!(^Q!!(^Q!!$p;!!#:b!!&#Z!!%]Q!!#Uk!!&/^!!&>c!!#ms!!'S1!!%0C!!%0C!!%0C!!%$?!!%$?!!%$?!!%*A!!%*A!!'J.!!$F-!!&Yl!!#=d!!#=d!!#=d!!#Cf!!(7D!!$g8!!&bo!!#Ul!!#[n!!#[n!!(sX!!%0B!!'D,!!$I/!!$C-!!$C-!!"\R!!#+^!!#+^!!#1`!!#1`!!#1`!!#1`!!#7b!!#7b!!#7b!!#7b!!$=+!!$1'!!$O1!!$O1!!$U3!!$U3!!#ap!!%HK!!%HK!!%HK!!$s=!!$s=!!$s=!!$s=!!"AI!!&Gf!!')#!!$s=!!$s=!!%0C!!%0C!!#ap!!#ap!!$[5!!$[5!!$O1!!$m;!!$m;!!#^o!!'#!!!'A+!!#gr!!$1'!!$1'!!$7)!!$7)!!#ap!!#ap!!#gr!!#mt!!#t!!!#t!!!$j:!!'q;!!'J.!!$g9!!$g9!!&&\!!(FI!!'2&!!&nt!!(XO!!'V2!!%HK!!'D-!!(sX!!("=!!%fU!!%fU!!"8F!!"8F!!(7E!!)`n!!&2_!!)Ni!!!0'!!'q;!!!H0!!!E.!!&&[!!",B!!"&@!!"8F!!"8F!!"5F!!!i:!!&#Z!!"eV!!"SO!!&/^!!$:+!!"tZ!!%$>!!)!Y!!)!Y!!)Ee!!!K0!!!K0!!!K0!!%KM!!#Fg!!%oW!!!]6!!!u>!!!u>!!&2a!!#js!!%cS!!!W4!!!]6!!!]6!!'&$!!$4(!!&#Z!!'P2!!$L0!!$O0!!(+B!!$a7!!(=F!!&Ym!!&Sk!!&Sk!!&)]!!&/_!!&5a!!&;c!!&Ae!!&Ae!!("=!!("=!!"8F!!"8F!!"8F!!"8F!!%fU!!%fU!!%fU!!%NM!!%`S!!%`S!!%`S!!!*'!!&8b!!'e7!!%fU!!%fU!!%fU!!((?!!)os!!"q[!!&Ym!!("=!!!-%rK[Tg-3?"**We/"('6>X(:"mr$TnIl!aPj3!]0rs!XPJ()W:m')?KsTGoDeG=W.>C.KW0KA?u:<&f1lV!a#LL!e(2%!]0uo+WUggzzz!!&kr!!!B,!!!E-!!$I.!!("=!!'q;!!'q;!!!6(Pa;OTc2du'!lb6B1]kAl!]0sJ!]1es:/h9!!]0s6!XPJ(1)X4M!Wk]616DT?1'.M,!ZV9X!?rE`*!.;c4<ah..KUdq4JEeK#.bZu!X8]_!\sf_T`R"6#?`e`!^b!41>)n81'.M,&fMBn&cu?<!bMKj!X8]_1'.MJd/c"r"'G[\!XQmM18+eQ1'.MDM$,T]!a.8[!\+NY!\XUHOp*V!!<O/U!fR-]1]ep(1][akzzz!!!!*!!!!-!!!!+!!!!7!!!!7!!!!;!!!!;!!!!I!!!!F!!!!9!!!!(!!!!5!!!!5!!!!X!!!!D!!!!"!!!!/!!!!1!!!!1!!!!'!25__!cA&r!bMKj!aYpb!X8]_!X8]_.KTYdd/b^7=XjIS'sRolT`S@H!Wjhi$3CGVOpM10)?KtB!ZhD"$3C86$3C]:!Ytho!WiF/M?AGMZ2l]^"p-V2!Wlj$!@lIu=XjIS'u9r$Yl\&X!WjhY!WiV<!LX-!A_@Lo)Bf.d!]0r_!]0s.!`7h\.\QrI.KTYdd0;'4=XjIS.LH4Yg&VN^*`NaZ!XBVN!ZVgS!a#L.!]2A.!_DPY.QLW]!Wj+I!\2k*=XjIS.M;da#83F/&nR1@!r<'t&cr,H&d"!m<!"$@1]e78&HDe2zzz^]=E8$NL/,%KHJ/i;`iXZ2jq*Z2jq*Z2jq*Z2jq*PQ1[`.0'>J,QIfEg&M*Q[K-@.\,cR0\,cR0\,cR0;ZHdt1&q:ShZ*WV^]=E8"osFF"Th-p1]fiB1]fQ:1]g5eA:"A%(E*>V=98O*?*Y8u+2S:Y!ZD,G!X8]_!\+6Wd02"f"'I)T!^biM.^9.[.KTZ$&cr-\!<T5')Isg+!]U5c!]0s.!XPJ(._u0h.KTZ<km&]k!a-uS!\+7>!Xo-(!]0lbzzz!!!"2!!!"4!!!"2!!!"2!!!!5!!!"0!!!!6!!!!1!!!!"!!!!D!!!!:!!!!S!!!!&!;r,d!ZhD"!Ytho!Y,8g!X8]_!X8]_![7[OM$,#J=X!nK6Ep\<T`S@@!WjhY!Wl:-OTc)'$3C92!WiF/dMJngOqS!""U4r,zzzz!"/c,!"Ao.!$_IDz!!NB$Q3@Ts!\XW&!to,W!Y/024p!PB"p-V*!Wk]>"<r+o+p%g4Ylu>F!a-]K!\+92%g$#<8J5Q4!ZDjf!WlI*,Q]f[!K%QM%SQj,!!!!#!!!!&!!!!,!!!!Z!!!"@!!!"B!!!"@!!!"@!!!!'!;i&c!X8]_!\+7JM$,<M!a-uS!Ypgu.e*OB.KTZ$$3C9,$@rKjAHFS)A/`i#)H-\A!]1f&![to-iWG>G&-;t91][d^!!!!$!!!!-!!!";!!!!%!!!!-!7mJ?!q$'j1]le?!]0u8!<P(Z"p-U_=onu'#?i!J=ona?W<HJi"Ben0!\2"i!]hLp!<PS2+p(B@!D;k_8f.UZ.P(W*!]2Y>!XCb9!ZWrs!a#N,!s1:\"p-U_=onuO"'VB'=]tk.'u9rTYl\'3!WjhQi=7=P.^9j@;_fNu*!.)]1]gqa1_Kik0*8Ze)Is`f?;q!/!<P(Z"p-U_=ont<>1j!\=ona?q#ssL#$G+2!\0T@!ZF`6)?N$h"9L%r!\+76!X8]_=onb7klb1`#$G+2!Yq[:>)<Gd=onaT)?KsFiXQS&*!.#[2kC'h!]U79!Wk1[\HEg]+pnAk!ZD,!!X8]_)?PTn<!!7*1]gh^#b_H+T`nS&!Wj*f!a=gr=]tk..KYS2!_EI("=dq;$3D1K.KU;6!pp"f!d4W%!X8]_!a5X2M$.!j=]tk.@\Ej,@9Hb8!YoEQknI9(!Wjj?!>5HJ1("(&3Z8&>!\+6m!kAF`A-.Gc!]0tT!<P+R#6H(m![7\.!X8]_=onarklb1`"Ben0!YqsF>2]Qd=onaT!m(Z;#@o$X$mJV"$3D3`"TgG&+p%gX!X8]_+p'54.fBD<!@n6<!<P++%?_[i%6=S?0eFXNzzz!!!<*!!!N0!!#[m!!&Gf!!&Gf!!&Gf!!&Gf!!"GJ!!"#>!!#[m!!&;b!!!'#!!%TN!!%TN!!%TN!!#Lh!!"JK!!#=c!!&qt!!&qt!!$4'!!"kV!!#Ff!!%rX!!%rX!!%!=!!#@d!!#:b!!&ep!!&ep!!&ep!!&_n!!&_n!!&2_!!#su!!#gq!!&_n!!&_n!!&_n!!&#Z!!&#Z!!'D,!!$R1!!#Uk!!&;b!!&;b!!&;b!!!-%q3D0k!WiT>$3CG>!WlI*!WlZ]"e#q<'O1\D!]0rs!`5Qp)AuZr!Wj*^)Nb&')?Ksi!X&S&!<N<,"onW'U&b5oU&b5oU&b5oU&b5oQiI*d%0-A.$NL/,z!<<*"]=],0X05__));if not(not m[0x5c42])then g=m[0x5C42];else(m)[0x6eB9]=(0b110010+(O.j1((O.K1(O.c[1]+g-m[7470])))));(m)[18628]=-78629+(O.g1((O.f1(g+O.c[6]-O.c[2],(m[0x544b]))),(m[0X42B5])));g=0XEB45+((O.c[0X3]-O.c[0B100]>=m[0X3eaf]and O.c[0B111]or m[17077])-O.c[0x7]-O.c[0X001]);(m)[0X5c42]=g;end;return g;end,m9=function(O,r,A,g,m,V,Y)local f;if g==0X115 then V[Y]=(r);return 17174;else if A~=135 then while 0b10110111+(0B110~=114)do local r=(0x4e);while true do if r>0X4e then f=O:z9();return{O.M(f)};else if r<0x55 then r=O:s9(r,A,m);end;end;end;end;end;return 0X5aB8;end;return nil;end,L9=function(O,O,r)r=O[0X2][30]()~=0X0_;return r;end,T9=function(O)return{};end,C1=function(O,r,A)r=0X53+(O.R1((O.u1((A[0X1d2E]==A[0X544B]and A[15699]or A[0X1__D2E])+A[0X40eC])),(A[0x442a])));A[0X3e__14]=r;return r;end,W9=function(O,O,r,A,g,m)m=(g%0X8);r=((g-m)/0b1000);A=O[2][38]();return m,A,r;end,v=function(O,r,A,g)(g)[23]=(error);if not(not r[15699])then A=O:y(r,A);else(r)[8854]=-0x20+(O.u1((O.u1((O.f1(A+r[0X48C4],(r[0X00544b])))))));r[30973]=(-1237892806+((O.A1((O.g1((O.f1(O.c[0x004],(r[17077]))),(r[21579])))))<=O.c[0X00__2]and r[21579]or O.c[0X4]));A=-0XEBe6_370+((O.g1(r[7470]<r[17077]and r[0X544B]or O.c[5],(r[0x42B5])))-O.c[0B100]+O.c[0X9]);(r)[0X3d53]=A;end;return A;end,v9=function(O,r,A,g,m)local V,Y=(0X23);repeat if not(V>0x26)then if V<=0X23 then V=0B100110;Y=#m[2][29];continue;else(m[0X2][0B011101__])[Y+1]=r;V=(0X4d);continue;end;else if V==0x4D then V=O:y9(g,V,m,Y);continue;else m[0x2][29][Y+0X3]=(A);break;end;end;until false;end,h9=function(O,r,A,g,m)local V;for Y=21,0X0091,124 do if Y>0X1__5_ then if A[1]~=g then if A[0b10][0X1__B][V]then(r)[m]=(A[0X002][0X1b][V]);else O:x9(r,A,V,m);end;end;else if not(Y<0x91)then else V=A[0x1]();end;end;end;end,c={60163,3313656971,2489090384,1237892810,637757248,751259150,3470785999,1694239756,1485231725},f9=function(O,O,r,A)if 0B101101__10 then A[0x2][0X2A]=O;end;r=(0B1110010);return r;end,E9=function(O,O,r,A)r[0X2][0X1B][A]=(O);end,g9=function(O,O,r,A,g,m)if A<0B1011001 then g=m[2][43][O];return 53569,g,r;else if not(A>0X9)then else r=(#g);end;end;return nil,g,r;end,d1=function(O,r,A)r=(-0X49c8BE5d+(O.K1(A[0X3EAf]+A[0X3d__53]-A[16620]>O.c[7]and A[29840]or A[0X7845],O.c[4])));A[0X5466_]=(r);return r;end,u1=bit32.countrz,a=nil,E=function(O,r,A,g)local m;repeat m,g=O:K(A,g,r);if m==63915 then break;end;until false;m=O.e;A[0X14]=(nil);(A)[21]=4503599627370496;A[22]=(nil);(A)[0x17]=(nil);(A)[24]=nil;(A)[25]=(nil);g=0B10__1111;while true do if g<57 then g=O:g(A,m,g,r);continue;else if g>0X2f and g<0X42 then A[0B11000]=O.I.create;A[25]=(function(m)local V=({A});for Y=0B10010,0x64,0X5__2 do if Y<0B11001_00 then V[1][0X16]=(m);else if Y>0b10010 then O:f(V);end;end;end;end);break;else if g>0B1110__01 then g=O:v(r,g,A);continue;end;end;end;end;A[26]=(coroutine.wrap);return g;end,M=unpack,d9=function(O,r,A,g,m,V,Y,f)if A==0b11011010 then m=O:_9(Y,m,f);return m,g,0X8b__b,V,r;else if A==0x7_b then r=f[0x2][0X18](Y);elseif A==0x1c then g=f[0X2][0X18](Y);return m,g,0X8Bb,V,r;else if A==313 then V=f[0X2][24](Y);return m,g,0XE6__D_E,V,r;end;end;end;return m,g,nil,V,r;end,a9=function(O,r,A,g,m,V,Y,f,K)local n;A=(nil);V=(nil);m=(nil);for b=0X15,0B10000110,0X21 do n,m,A,V=O:p9(V,m,r,b,A);if n==0x38E8 then continue;else if n~=39533 then else break;end;end;end;K=V%0X8;Y=(nil);f=nil;g=nil;return V,K,Y,m,g,A,f;end,b=function(O,O,r,A)r=(0x7C);A=0;O=(0X1);return O,A,r;end,u=function(O,r,A,g)local m;(A)[0B1011]=O._;(A)[12]=(type);(A)[0Xd]=(nil);A[14]=nil;r=112;while true do m,r=O:F(A,g,r);if m==37544 then continue;else if m~=0XaB2d then else break;end;end;end;(A)[0Xf]=({});(A)[0B10000]=nil;A[0x11]=nil;A[0X12]=nil;(A)[0B10011]=(nil);r=(36);return r;end,_=pcall,e1=function(O,r,A,g)g[0X2C]=function(m,V)local Y={g,g[0X1],g[0Xb_],g[0b1111],g[5],g[0X4],g[26],g[0X6],g[0B1100],g[0X1F]};local g=(m[10]);local f,K,n,b,E,p,G,i,_=m[0X0__01],m[0X9],m[0B1__0__],m[0b1000],m[0B110],m[0X7],m[0B100],m[0XB];_=function(...)local e=Y[0X1][0x18](g);local g,W=Y[0b01][0B101001](...);local l,M,q,d,Z,B,R,J,s,z=0X0,0X1,(Y[0B10]()),0X1,0B1;local w,U,Q,k=Y[0B11](function()repeat local H=G[Z];if not(H>=0X34)then if not(H<0x1A)then if not(H<0X27)then if not(H<45)then if H>=0X30 then if H>=50 then if H==0B0110011 then e[K[Z]]=i[Z]..e[b[Z]];else if not(not(i[Z]<=e[b[Z]]))then else Z=(K[Z]);end;end;else if H~=0X31 then(e[p[Z]])[n[Z]]=e[b[Z]];else e[b[Z]]=(e[p[Z]]>=e[K[Z]]);end;end;else if not(H>=0X2E)then if e[K[Z]]~=E[Z]then Z=(p[Z]);end;else if H~=47 then(e)[K[Z]]=(E[Z]-i[Z]);else for P=0X1,K[Z]do(e)[P]=W[P];end;end;end;end;else if not(H>=42)then if H>=40 then if H==0X29 then if e[p[Z]]==e[b[Z]]then else Z=(K[Z]);end;else local P,j=b[Z],K[Z];d=(P+j-0X1);if not(B)then else for I,v in B do if not(I>=0X1)then else v[0x2_]=(v);(v)[0X3]=(e[I]);(v)[1]=(3);(B)[I]=(nil);end;end;end;return true,P,j;end;else local P=false;z+=R;if not(R<=0X0)then P=z<=s;else P=z>=s;end;if not(P)then else(e)[p[Z]+3]=z;Z=(b[Z]);end;end;else if H>=0B101011 then if H==0X2C then local P=b[Z];d=(P+p[Z]-0B1);(e)[P]=e[P](Y[1][0b1010](e,d,P+0X1));d=P;else if not(i[Z]<e[K[Z]])then Z=(b[Z]);end;end;else e[K[Z]]=(nil);end;end;end;elseif H>=0B100000 then if H>=0b100011 then if H>=0x25 then if H~=38 then l=b[Z];for P=1,l do(e)[P]=W[P];end;M=l+1;else(e)[K[Z]]=({});end;else if H==0b10010__0 then(e)[b[Z]]=(e[K[Z]]-e[p[Z]]);else if B then for P,j in B do if P>=0B1 then j[0X2]=j;j[3]=e[P];(j)[0B1]=(0X3);B[P]=nil;end;end;end;return true,K[Z],0X0;end;end;else if not(H>=0X21)then(e)[p[Z]]=Y[0X00__4][K[Z]];else if H==0B1_00010 then e[K[Z]]=(V[b[Z]]);else local P,j,I,v,y=0X0,4503599627370495,25;P*=j;while true do if not(I>0x19)then j=Y[0b100];I=(-1107296220+(Y[0X4][0XA]((Y[0X4][0xB](H==H and I or H))+H,(I))));else if I==0X33 then j=j[y];break;else y=0B1011;I=0Xf+((Y[0X4][0xb]((I<=I and H or I)+H))==H and I or I);end;end;end;y=Y[0x4];local t,C=8;I=0B1110010;while true do if not(I<=0B1_01001)then if I~=0b1110010 then C=13;break;else v=(0xB);y=y[v];I=-0B110_01+(((Y[0x4][10](I-H,(30)))<=I and H or H)+H);end;else v=Y[4];I=(0x53+((Y[0B100][7]((Y[4][0b1111](H+I,H,I))))==H and I or H));end;end;I=(0B10000);while true do if not(I<0B10_1111)then C=(Y[0x4]);break;else v=(v[C]);I=(15+(Y[0B1__00][0b1__101]((Y[0x4__][0B1101]((Y[0X4][0X6](I,I))+I,(I))),(I))));end;end;I=(0X1A);while true do if I==0x1A then C=(C[t]);I=(0x31__+(Y[0X4][0Xb]((H-I<=H and H or I)-I)));elseif I==0X31 then t=(G[Z]);I=-4294967187+(Y[0X4][0X8]((Y[0X4][0X9_](H,I))-I+I));continue;elseif I==0b1011100 then C=C(t);I=(0B1_000__110+(((Y[0B100][0Xd_]((Y[4][0B110](H,H,H)),(6)))>=I and H or H)-I));continue;elseif I==0Xb then t=(H);break;end;end;C-=t;I=(0B10_00100);while true do if I>83 then v=v(C,t);break;elseif I<125 and I>68 then C-=t;I=(-0B1011+((Y[0x4][14]((Y[0X4][9](I,I,I))+I,(0B1111)))+H));elseif I<68 then t=(26);I=26+((Y[0X4][15]((Y[4][6](H)),H))+H+H);elseif I<83 and I>0X16 then t=(H);I=(0X53+(Y[0X4][0xF]((Y[0B100][0B1__000](I+H))+I,H,I)));end;end;I=(118);while true do if not(I>24)then if I<0X18 then j=j<=y;break;else y=H;I=-4294967215+((Y[0X4][8](I+I))+I-H);end;else if not(I<=93)then y=y(v);I=-4294967202+((Y[0X4][0X8](I+H))+I+H);else j=j(y);I=(0B111000+((Y[0x4][0X9]((Y[0B100][0B1011](I-I)),H))-H));end;end;end;I=(0X15);while true do if I==21 then if not(j)then else j=G[Z];end;I=(0x70+(Y[4][0B1011]((Y[0B100][14](I+I,(I)))-I)));else if not(not j)then else j=(G[Z]);end;break;end;end;y=H;t=(0xf);I=(0X6b);while true do if I>78 then if I==0X6B_ then j+=y;I=(0X35+(Y[0B100][7]((Y[0X4][15](I-I-H,I)))));continue;else t+=P;G[Z]=(t);I=-0X33+(H+H-I+H+I);end;else if I~=0X4__E then t=(e);break;else P+=j;I=-0X4+(Y[0X4][0X8](H-I+H-I));continue;end;end;end;P=p[Z];I=0x75;while true do if I==117 then j=n[Z];I=-1342177155+((Y[0B100][0b1__001]((Y[4][12](I,(0B11100)))-H,I,H))+H);continue;elseif I==0X50 then(t)[P]=j;break;end;end;end;end;end;else if not(H>=29)then if H<27 then(e)[p[Z]]=(#e[K[Z]]);else if H==28 then(e)[K[Z]]=(e[b[Z]]);else local P=K[Z];local j,I,v=z();if not(j)then else(e)[P+0B1]=I;e[P+0x002]=v;Z=(b[Z]);end;end;end;else if not(H>=0B11110)then if not(B)then else for P,j in B do if not(P>=1)then else(j)[0B10]=j;j[3]=(e[P]);j[0X1]=0B11;(B)[P]=nil;end;end;end;local P=b[Z];return false,P,P+K[Z]-0x2;else if H~=0X1f then local P=b[Z];(e[P])(e[P+0X1],e[P+0b10]);d=(P-0B1);else local P=V[p[Z]];(P[0B10][P[1]])[e[K[Z]]]=(e[b[Z]]);end;end;end;end;else if H<13 then if H>=6 then if not(H<9)then if H>=0Xb then if H==12 then(e)[p[Z]]=(e[b[Z]]+n[Z]);else(Y[0B100])[K[Z]]=e[b[Z]];end;else if H~=0xa then(e)[b[Z]]=(e[K[Z]]*i[Z]);else if B then for P,j in B do if P>=0X1 then(j)[0X2]=(j);j[0b11]=e[P];j[0b1]=(3);(B)[P]=(nil);end;end;end;return true,p[Z],0B1;end;end;else if not(H>=0b111)then if e[p[Z]]~=e[K[Z]]then else Z=b[Z];end;else if H~=0x8 then local P,j,I,v,y,t,C,X,c=0x3c,9;while true do if P==60 then C=0B11011;P=(-0xeE19__c+((Y[4][0xA]((Y[0X4][10](P,(H)))-P,(H)))+H));elseif P==0x6B then t=(0x0);P=0x2e+(Y[4][0B1__11]((Y[4][11](P))-P+P));elseif P==78 then I=4503599627370495;t*=I;break;end;end;P=(0X77__);while true do if P==0B11__10111 then I=(Y[0X4]);P=0B1_100011+((P<=P and P or H)+P-H==H and H or H);elseif P==0b1__10101_0 then y=0B110;P=-41+(((P<=P and P or H)+P<=H and H or H)<=P and P or H);continue;elseif P==0b1000001 then I=I[y];y=Y[0B00100];P=(29+(Y[4][7]((Y[0B100][0x0C]((Y[4][0Xc]((Y[0x4][6](H,H)),(H))),(H))))));continue;elseif P==0x2c then v=0b111;y=(y[v]);break;end;end;v=(Y[4]);P=4;while true do if P==0X4 then c=0X8;P=-4294967268+(Y[0X4][0X9]((Y[0x4][0B1001_]((Y[4][0X8](H))-P)),P,H));elseif P==19 then v=v[c];break;end;end;c=Y[4];c=(c[j]);j=(H);P=(0B1011100);while true do if P<0X5_c then c=c(j,X);break;elseif P>0XB then X=G[Z];P=(0Xb+(Y[0x4][0b1101]((Y[0X4][0B1_010]((Y[0X4][0X6](H-H)),(H))),(H))));end;end;v=v(c);y=y(v);I=I(y);P=(0X26);while true do if P==0b100110 then y=(G[Z]);P=(0B111000+(Y[0x4][0X6]((H==H and H or P)+H+H)));continue;elseif P==0X4d then I+=y;P=(0x4_8+(Y[0B1__00][9]((Y[4][0b1001]((Y[0x4][10](H-H,(H))),P)),P)));elseif P==0B1001000 then y=(H);P=0x7+(Y[4][0X7]((H<P and H or P)-P-P));elseif P==7 then I=I<y;P=(51+(((Y[0X4][0b1000]((Y[0X4][0xD](P,(H)))))==P and P or P)==H and P or P));elseif P~=0X3a then else if I then I=(G[Z]);end;break;end;end;P=0x60;while true do if P==0B1100000 then if not(not I)then else I=G[Z];end;P=0X38+((Y[0b100][10]((Y[0B100][0X8](H-H)),(H)))<H and H or H);continue;elseif P==0B111111 then y=(G[Z]);P=0B1011+((P+P>P and P or P)+H~=P and H or P);elseif P==0x12 then I+=y;y=(H);P=0X49_+(((Y[0X4][13](P+P,(H)))~=P and P or H)-P);elseif P==73 then I-=y;P=-0B111100+((((Y[0x4][10](P,(H)))==P and H or P)>P and P or H)+P);continue;elseif P==0B10__100 then t+=I;P=(0X56+((Y[0X4][0x7]((Y[4][0b111](P))))-H-H));elseif P==99 then C+=t;P=(0X58+(((Y[0X4][0B1__110](H,(H)))-P==H and P or H)+H));continue;elseif P==0X6__6 then(G)[Z]=C;C=(e);P=(-0X59+((Y[0X4][9]((Y[0X4][9](H,H,H))+P))-H));elseif P==13 then t=K[Z];P=0b100_0+(Y[4][7]((Y[0x4][0b001001]((Y[0B100][0XF__](P,P,H))-H,P))));continue;elseif P==8 then I=V;break;end;end;P=(0XC);while true do if not(P<=0xC)then I=I[y];break;else y=b[Z];P=(0X87+((Y[0B100][0B1001]((Y[4][0B1110](P,(P)))+H,H))-P));continue;end;end;C[t]=(I);else local P,j,I,v,y=0x77;while true do if P==0X77 then j=72;P=0X62+(((Y[0X4][0b101__0]((Y[0X4][0X9](P,H,H)),(H)))>=H and P or P)<H and P or H);continue;elseif P==0B1101010 then y=0x0;P=(-0x29+(P+H+H-P>H and P or H));elseif P==0x41 then v=4503599627370495;break;end;end;y*=v;P=(0X1c);while true do if P<46 then v=Y[0x4];P=19+(((Y[0b10_0][0X8](H-H))==H and H or P)+P);continue;elseif P>0x35 then I=0b1111;P=0X2E+((Y[4][9](P+H-P,H,P))-P);continue;elseif P>0X1c and P<0X35 then v=v[I];P=(0X15+(Y[0X4][0xB]((Y[0X4][15]((Y[4][0b1110]((Y[0X4_][0b1011](H)),(H))),H)))));elseif not(P>46 and P<0X4B)then else I=G[Z];break;end;end;v=v(I);I=G[Z];v-=I;P=0X4E;while true do if P==0x4E then I=(G[Z]);P=0X55+(Y[0b100][15]((Y[0X4][9]((Y[0x4][7](P)),P,H))-H,H,H));continue;elseif P==0B10101_01_ then v=v<I;P=(48+(Y[0X4][0XD](P-P+P-P,(H))));elseif P~=48 then else if v then v=H;end;if not v then v=G[Z];end;break;end;end;I=(G[Z]);P=0B101011;while true do if P>0B11__10 then if P==43 then v+=I;P=(0B110+((Y[0X4][14]((Y[0X4][0B1011](P>=H and H or P)),(H)))+H));continue;else v=(v<=I);if not(v)then else v=H;end;break;end;else I=(G[Z]);P=(13+(((Y[0X4][0X6](P-P,H))<=P and P or H)<H and H or H));end;end;if not(not v)then else v=(H);end;P=(31);while true do if P<0X46 and P>0X29 then v+=I;P=94+(H-H-H-H-H);continue;elseif P>109 and P<0X7_4 then v=v>=I;if v then v=G[Z];end;P=(40+(Y[0x4][0B110]((Y[0X4][0Xb]((Y[0X4][9](H,H))+P)))));elseif P>0x07__2 then I=(G[Z]);P=0X3B+((Y[0X4][0b1111](H))-P-H>P and P or H);elseif P<0x29_ then I=G[Z];P=(-4294967196+((Y[0X4][0X8](P==H and P or H))+P-H));continue;elseif P<0B01110010 and P>0B100011_0 then v=v==I;break;elseif P<0B1101101 and P>0B100001_1 then I=(G[Z]);P=(0X1F+((P-H+P==H and H or H)+P));continue;elseif P>0x1F_ and P<0X043 then if not(not v)then else v=H;end;P=-4294967171+(Y[4][0x8]((Y[0X4][0B110](H-H,P))~=P and P or H));continue;end;end;if v then v=(G[Z]);end;P=19;while true do if P>0B11110_1 then y+=v;j+=y;P=(61+((Y[0B100][0B1111](H-P,P,H))-H+H));continue;elseif P<86 and P>0X13 then(G)[Z]=j;j=(e);y=(b[Z]);break;elseif P<0X003d then if not(not v)then else v=G[Z];end;P=86+(Y[0B1__00][0b1110]((Y[0b100][0B1001](P-H,P))-H,(H)));continue;end;end;P=(89);while true do if P<0B1100100 then v=(G);P=(-4294967187+(Y[0b100][0X8]((Y[0B1__00][14](P==H and P or H,(H)))+H)));continue;elseif P>89 then j[y]=v;break;end;end;end;end;end;else if H<0X3 then if H>=0X1 then if H==0X2 then local P,j,I=g-l-0X01__,K[Z],(0B0__);if not(P<0B0)then else P=-0B1;end;for g=j,j+P do e[g]=W[M+I];I+=0X1;end;d=(j+P);else e[p[Z]]=n[Z]+E[Z];end;else if not(e[b[Z]]<n[Z])then Z=(p[Z]);end;end;else if not(H>=4)then J={[0B100]=R,[0B11]=J,[0X2]=z,[5]=s};d=K[Z];local g=Y[0X7](function(...)(Y[0B1][0x12])();for l,P in...do(Y[0x1][0B100_10])(true,l,P);end;end);g(e[d],e[d+1],e[d+2]);z=g;Z=b[Z];else if H==0X5 then local g,l=p[Z],K[Z];if l~=0 then d=(g+l-0X1);end;local P,j,I=b[Z];if l==1 then j,I=Y[0x1][0B101001](e[g]());else j,I=Y[1][0x29](e[g](Y[1][0b1__010](e,d,g+0X1)));end;if P==0B1 then d=g-0B1;else if P==0X0 then j=j+g-1;d=(j);else j=(g+P-2);d=(j+0X1);end;l=(0x0);for P=g,j do l+=1;(e)[P]=(I[l]);end;end;else e[p[Z]][e[K[Z]]]=(E[Z]);end;end;end;end;else if H<0X13 then if not(H>=16)then if not(H<0B1110)then if H~=0x0__F then(e)[p[Z]]=n[Z]*e[b[Z]];else e[K[Z]][e[p[Z]]]=e[b[Z]];end;else(e)[K[Z]]=e[p[Z]]/e[b[Z]];end;else if H>=0x11 then if H==0b10010_ then local g,l=p[Z],b[Z];local P=(e[g]);Y[0X6](e,g+0X1,g+K[Z],l+1,P);else e[K[Z]]=(i[Z]%E[Z]);end;else e[p[Z]]=(W[M]);end;end;else if not(H<0X16)then if H>=24 then if H~=0X19 then(e)[p[Z]]=(e[K[Z]]-E[Z]);else(e)[K[Z]]=(i[Z]^e[b[Z]]);end;else if H~=0X17 then e[K[Z]]=V[p[Z]][E[Z]];else local g=(n[Z]);local W=(g[0X3]);local l=(#W);local M=l>0B0__ and{};local P=Y[1][0B1011__0__0](g,M);(Y[8])(P,q);e[p[Z]]=(P);if M then for j=0X1,l do P=W[j];g=P[0X2];local W=(P[0B1]);if g==0B0 then if not B then B={};end;local l=(B[W]);if not(not l)then else l={[0X1]=W,[2]=e};B[W]=(l);end;(M)[j-0b1]=l;elseif g==0X1 then M[j-0X1]=(e[W]);else(M)[j-0B1]=(V[W]);end;end;end;end;end;else if not(H<0X14)then if H~=21 then if not(B)then else for g,W in B do if g>=0B1 then W[2]=(W);(W)[0B11]=e[g];(W)[0x1]=0B11;B[g]=(nil);end;end;end;local g=b[Z];d=(g+1);return true,g,2;else(e)[K[Z]]=(b);end;else local g=(K[Z]);d=g+b[Z]-0x1;(e[g])(Y[0X1][0XA](e,d,g+1));d=(g-0b1);end;end;end;end;end;else if H<78 then if not(H<0x0041)then if H<0X47 then if H>=0x44 then if H>=69 then if H==0X46 then J=({[4]=R,[3]=J,[2]=z,[0B101]=s});local g=K[Z];R=(e[g+0B10]+0X00);s=(e[g+0X1]+0);z=(e[g]-R);Z=(b[Z]);else for g=K[Z],p[Z]do(e)[g]=(nil);end;end;else(e)[K[Z]]=(V[p[Z]][e[b[Z]]]);end;else if not(H>=66)then(e)[K[Z]]=(not e[p[Z]]);else if H~=0X43 then local g,W,l,M,P=0b0,4503599627370495,0x4c;while true do if not(l<=0x3B)then g*=W;W=Y[0X4];l=-0X81_1+((Y[0x4][0xA]((Y[0x4][0X7](l-l)),(0B110)))+l);continue;else M=0Xe;break;end;end;local j;W=W[M];l=0X1C;while true do if l==0X1c then M=Y[0X4];l=73+(Y[4][0xb]((Y[0x4][12](H+H>=l and H or l,(l)))));elseif l==0X4b then P=15;l=(-0X06_8+((Y[4][0x6](l,H))+l+l-l));elseif l==0X2e then M=(M[P]);l=(-39+((Y[4][0B110](H-H<H and l or l))+l));continue;elseif l==0B110101 then P=Y[0X4];break;end;end;l=125;local I=-0Xa8;while true do if l~=0B11__11101 then P=P[j];break;else j=0xf__;l=(56+((Y[4][0X9]((Y[0x4][0Xf](H,H,l))>=l and H or l,l,l))-l));continue;end;end;j=H;P=P(j,H);l=(77);while true do if l>0X48 then j=(G[Z]);l=6+((Y[4][0xB]((Y[4][0XA](l,(0X01B)))-l))+H);continue;elseif not(l<0X4D)then else P+=j;j=(H);M=M(P,j);break;end;end;P=H;l=(0X4c);while true do if l>0B01001100 then if not M then M=(H);end;break;elseif l<0X5e and l>0X3b_ then M=M>=P;l=-0B10001+((Y[4][0x008]((Y[0b100][15]((Y[0X4][7](l)),l))))<l and H or l);continue;elseif not(l<0B1001100)then else if not(M)then else M=(G[Z]);end;l=(0x23+((Y[0B0100][0XC]((H==H and H or H)-l,(0X6__)))>H and l or H));end;end;l=(25);while true do if l==0x19 then P=(H);l=0x4+(Y[0X4][0B111]((Y[0B100][0Xf](l+l-l,H))));continue;else M-=P;break;end;end;P=G[Z];l=0B1001100;while true do if l<59 then(G)[Z]=(I);l=-76+((Y[4][6](H,l))+l-H+H);elseif l>64 and l<0x5e then M-=P;l=(0b011011_+((Y[0B100][13]((Y[0X4][0XE](l,(0X5))),(28)))+l-l));elseif l>76 then W=W(M,P);M=(G[Z]);W-=M;g+=W;I+=g;l=-0X39+(((l<H and l or l)+H<=H and l or l)<=l and l or H);continue;elseif l>0X25 and l<64 then P=(0b1_1000);l=0B1011010__+(Y[0X004][0Xb]((Y[4][0b10_10](H-H+H,(0X3)))));continue;elseif l>0x3_B and l<0X4C then I=e;break;end;end;l=(70);while true do if l==0b1101101 then(I)[g]=W;break;else g=K[Z];W=(b);l=0x71+((Y[4][0B1_0__01]((Y[0X4][0xd](l,(0X14)))>H and l or l,l,H))-l);continue;end;end;else if not(e[b[Z]]<e[p[Z]])then Z=K[Z];end;end;end;end;else if H>=74 then if H<0X4c__ then if H==0B100101_1 then e[K[Z]]=(Y[5](e[p[Z]],e[b[Z]]));else if B then for g,W in B do if g>=0X1 then(W)[0X0_2]=(W);(W)[0X3]=(e[g]);W[0B1]=0X3;(B)[g]=nil;end;end;end;return false,b[Z],d;end;else if H==0x4D then(e)[K[Z]]=(m);else e[p[Z]]=e[K[Z]]==E[Z];end;end;else if H<0x48 then local g=b[Z];(e[g])(Y[1][0XA__](e,d,g+0X1));d=(g-0X1);else if H~=73 then e[K[Z]]=(p);else end;end;end;end;else if H>=58 then if H>=0X3D then if not(H>=0X3F)then if H==0B111110 then(V[p[Z]])[e[b[Z]]]=e[K[Z]];else e[p[Z]]=e[b[Z]]%n[Z];end;else if H==0B1000000_ then e[p[Z]]=e[K[Z]][e[b[Z]]];else local g=(V[K[Z]]);(g[0X2])[g[0X1]]=e[b[Z]];end;end;else if not(H>=0X3_B)then local g=(p[Z]);e[g]=e[g](Y[0b1][0B10__1_0](e,d,g+0b1));d=(g);else if H==0B11110_0_ then if B then for g,m in B do if not(g>=0B1)then else(m)[0x2__]=m;m[0B11]=e[g];(m)[0b1]=(3);(B)[g]=nil;end;end;end;local g=b[Z];return false,g,g;else local g=(V[K[Z]]);(e)[p[Z]]=g[0B10][g[1]][e[b[Z]]];end;end;end;else if H>=0X37 then if H>=0X38 then if H==0X39 then e[p[Z]]=e[K[Z]]+e[b[Z]];else if e[b[Z]]then Z=(K[Z]);end;end;else local g=(b[Z]);(e)[g]=e[g](e[g+0X01]);d=g;end;else if H<53 then Z=(b[Z]);else if H~=54 then e[p[Z]]=e;else e[p[Z]]=e[b[Z]]^e[K[Z]];end;end;end;end;end;elseif not(H<0X5B)then if not(H<98)then if not(H<101)then if not(H<103)then if H==104 then z=(J[0X2]);s=(J[0X5]);R=(J[0X4]);J=(J[0X3_]);else e[b[Z]]=(e[p[Z]]/n[Z]);end;else if H~=0B1100110 then local g,m=K[Z],(e[p[Z]]);(e)[g+0x1]=m;e[g]=m[E[Z]];else local g=K[Z];e[g]=e[g](e[g+0X1],e[g+0X2]);d=(g);end;end;else if H>=99 then if H~=0b1100100 then(e)[b[Z]]=e[K[Z]]%e[p[Z]];else(e)[p[Z]]=q[E[Z]];end;else(e)[K[Z]]=K;end;end;else if not(H>=0x5E)then if not(H<0b101110__0)then if H~=93 then e[b[Z]]=-e[p[Z]];else if B then for g,m in B do if not(g>=0b1)then else m[0B10]=(m);(m)[0x3]=e[g];(m)[0B1_]=(0B11);(B)[g]=nil;end;end;end;return;end;else(e)[K[Z]]=E[Z]+e[p[Z]];end;else if H<0B1100000 then if H==95 then(e)[K[Z]]=e[b[Z]]..e[p[Z]];else(e)[p[Z]]=(e[b[Z]]..n[Z]);end;else if H~=0X61 then e[p[Z]]=e[K[Z]]<=e[b[Z]];else(e)[p[Z]]=Y[0x001][24](K[Z]);end;end;end;end;else if not(H>=0B1010100)then if H>=81 then if not(H>=0x52)then(e)[p[Z]]=(n[Z]);else if H~=0X53 then local g=K[Z];local m=e[g];local W=(p[Z]);(Y[0x6])(e,g+0X1,d,W+0X01,m);else e[K[Z]]=e[p[Z]][E[Z]];end;end;else if not(H<79)then if H==0X0050 then(e)[b[Z]]=G;else d=b[Z];e[d]();d-=0B1;end;else(e)[K[Z]]=(e[p[Z]]>e[b[Z]]);end;end;else if H<0b1010__1__11 then if H<0B1010101_ then if not(not e[K[Z]])then else Z=p[Z];end;else if H==0x56 then d=p[Z];e[d]=e[d]();else(e)[b[Z]]=(Y[0X5](e[p[Z]],n[Z]));end;end;else if H>=0X59_ then if H==90 then local g=(V[p[Z]]);(e)[b[Z]]=g[2][g[0X1]];else(e[b[Z]])[i[Z]]=n[Z];end;else if H~=0X58 then e[K[Z]]=(e[b[Z]]*e[p[Z]]);else local g=(K[Z]);e[g](e[g+0X1]);d=g-1;end;end;end;end;end;end;Z+=0X1;until false;end);if w then if U then if k==0X1 then return e[Q]();else return e[Q](Y[1][10](e,d,Q+1));end;else if Q then return Y[0B1][0XA](e,k,Q);end;end;else if not(B)then else for g,m in B do if g>=0B01_ then(m)[0B10]=(m);m[0X3]=(e[g]);m[0B1]=(0X03_);(B)[g]=nil;end;end;end;if Y[0X9_](U)=='\s\zt\x72\105ng'then if Y[0Xa](U,"\u{3A}(\x25d+\x29\91:\r\n]")then(Y[0B1][0B10111])('\x4Curap\x68 S\u{063}r\z \105p\x74:'..(f[Z]or"\z \(\i\110\u{74}e\z  \114n\97\108)")..":\x20"..Y[0B1][0b111](U),0X0);else(Y[0X1][0X17])(U,0X0);end;else(Y[0B1][0X17])(U,0B0);end;end;end;return _;end;if not(not r[15892])then A=(r[15892]);else A=O:C1(A,r);end;return A;end,Z=getfenv,q=function(O,O)local r=O[0B1_]();O[0B10__][0B10001]=O[2][0b10001]+r;return{O[0x3](O[0B10][22],O[0X2][17]-r,O[0x2][0b10001]-0X1)};end,R9=function(O,O,r,A)O=#r[2][0X1D];A=0x2a;return A,O;end,J9=function(O,r,A,g,m)local V,Y=99;while true do if V<102 then V,g=O:D9(V,A,g);continue;else if not(V>0x63)then else Y=O:l9(Y,A);break;end;end;end;for O=m-m%0X1,g,0X1 do r[O]=(Y);end;return g;end,U1=function(O,O,r,A)return{A[0b101100__](r,O)};end,R1=bit32.lrotate,t9=function(O,r,A,g,m,V)if V==0B100000 then r,V=O:H9(V,m,r,g);else if V==82 then return{A},r,V;end;end;return nil,r,V;end,S1=function(O,O,r,A)(A)[r]=O[0X02][0b1_01101]();end,D=function(O,O)local r,A;for g=0X064,172,0x3__0 do if g>100 then(O[0B1])[0X11]=(A);return{r};else if not(g<0X94)then else r,A=O[0X1][0X1c]('\60\d',O[0X1][0B10110],O[0X1][0B10001]);end;end;end;return nil;end,s1=function(O,r,A,g,m,V,Y,f)local K;V=0X44;while true do if V<0B1111101 and V>0X44 then m[0B101101]=(function()local n,b,E,p,G,i,_,e=({m[0x25],m,m[32]});e,p,_,G,E,i=O:B9(i,n,G,E,_,p,e);local W,l,M;G,W,_,l,e,i,M=O:n9(_,E,G,e,M,i,l,W,n,p);local q,d,Z;b,d,Z,q=O:Y9(G,E,_,n,q,W,d,Z,i,e,M,l,p);if b==nil then else return O.M(b);end;(E)[0B1]=q;d=(0x20);repeat b,Z,d=O:t9(Z,E,n,q,d);if b==nil then else return O.M(b);end;until false;end);if not(not g[0x1263__])then V=(g[4707]);else V=(-0X6+((O.P1((O.g1(g[0X2912],(g[9601]))),g[30789],g[29840]))-g[0x359C]+g[16047]));(g)[4707]=V;end;continue;elseif V<0X38 then A=(function()local n,b,E,p,G={m[0X25],m,m[0B1111]};G,E,p=O:b9(G,n,p,E);local i,_;G,_,i=O:X1(E,p,i,_,G,n);i=(98);while true do b,i=O:_1(n,i,_);if b==nil then else return O.M(b);end;end;end);if not(not g[21606])then V=O:n1(g,V);else V=O:d1(V,g);end;continue;elseif V>0X38 and V<0X53__ then V=O:e1(g,V,m);continue;else if V>0X53 then r=(function(...)local n;n=O:I1(...);return O.M(n);end);if not g[0x608d]then g[2184]=-16353+(O.g1((O.u1(g[0X2__296]))-g[21758]+g[10514],(g[30789])));V=(-2489090334+(O.K1((O.u1((O.y1(g[0X3549],(g[0X1263])))))<=g[23618]and g[4707]or g[21606],g[0x1263],O.c[3])));(g)[0X608D]=(V);else V=(g[0X608D]);end;continue;else if V>22 and V<0x44 then Y=O:p1(A,Y);break;end;end;end;end;if m[0X20]==m[0X15]then return A,Y,{m[0x28]*A},V,f,r;end;V=0X35;while true do K,V=O:z1(m,V,g);if K==12335 then break;else if K==19472 then continue;end;end;end;f=(nil);return A,Y,nil,V,f,r;end,u9=function(O,O,r,A,g)(g)[O]=(A[0X2][0X2B][r]);end,h=function(O,r,A)(A)[29751]=-0XfFfF117+(O.g1(A[15699]-A[29840]-r-O.c[0x1],(A[30973])));r=-824181234+(O.A1((O.u1(A[0X1__d2_e]))-A[0X22__96]>O.c[0B10]and O.c[0X9]or O.c[0X7]));(A)[26168]=r;return r;end,R=function(O,r,A,g)(r)[0B100]=O.X;r[5]=O.P1;r[0X6]=(setfenv);r[0X7]=(nil);(r)[8]=nil;(r)[9]=(nil);r[0XA_]=nil;A=80;repeat if A<0B101000__0 then r[0x9_]=O.B;if not g[0x1d2E__]then A=0X69+(O.j1((O.R1(A,(g[21579])))+A+O.c[0X1]));(g)[0X1D2e]=A;else A=O:G(g,A);end;continue;else if A<121 and A>0b1010000 then A=O:j(r,A,g);continue;elseif A>0X6f then r[0XA]=(function(m,V,Y)local f={r,r[0X2]};Y=Y or 0B1;V=V or#m;if(V-Y+0B1)>0X1F_3D then return f[0X1][0b100_0](Y,V,m);else return f[0X2](m,Y,V);end;end);break;else if A>0B10 and A<111 then(r)[0B111]=tostring;if not(not g[13724])then A=(g[0X359C]);else A=-2489239329+((O.G1((O.R1(A>=O.c[0x6]and O.c[0X3]or O.c[0B111],(0B10000))),O.c[9],O.c[0B101]))+O.c[0B11]);(g)[0X359c]=A;end;end;end;end;until false;return A;end,X=table.move,i=function(O,r,A,g)if r<62 and r>0b11011 then g[30]=(function()local m,V,Y,f={g},0x26;repeat if V==0X26 then f=m[0X1_][0b1001](m[1][0X16],m[0B1][0X11],m[0X1][17]);(m[0X1__])[17]=m[0b1][0X11]+0b1;V=0X4d;continue;else if V~=0B1001101 then else Y=O:x(f);return O.M(Y);end;end;until false;end);return 0X7AA7,r;elseif r<0x20__ and r>0x5 then g[0X1b]=(nil);if not A[0X6638]then r=O:h(r,A);else r=O:r(A,r);end;return 0xb7Da,r;else if r<0B11011 then r=O:Y(r,g,A);return 0XB7__da,r;else if r>32 then g[0x1C_]=O.p;if not A[17450]then r=-0xebE1734+((O.c[8]+A[18628]<=A[0X6638]and A[17077]or O.c[0X9])-A[0X3eAf]-O.c[0X4]);(A)[17450]=(r);else r=(A[0X442A]);end;end;end;end;return nil,r;end,N=bit32.band,N1=function(O,r)(r[15])[0Xe]=O.o;end,X9=function(O,O,r)(O)[0XA]=r[1]();(O)[0X5]=r[0X1]();end,r9=function(O,r,A,g,m)for V=0x1,m do O:h9(r,A,g,V);end;end,G=function(O,O,r)r=(O[7470]);return r;end,k=function(...)(...)[...]=nil;end,v1=(function(O)local r,A,g={};g=O:T(g,r);local m;m=O:R(r,m,g);m=O:u(m,r,g);m=O:E(g,r,m);m=O:O(m,r,g);m=O:H(r,g,m);local V,Y,f;m,Y,V,f=O:w9(r,m,g,V,f,Y);local K;V,f,A,m,K,Y=O:s1(Y,V,g,r,m,f,K);if A~=nil then return O.M(A);end;K,m,A,f=O:T1(K,g,Y,f,r,V,m);if A==nil then else return O.M(A);end;end),n=coroutine.yield,r=function(O,O,r)r=O[0X6638];return r;end,x=function(O,O)return{O};end,T1=function(O,r,A,g,m,V,Y,f)local K;f=(0B0111100);while true do K,f,r,m=O:M1(g,Y,r,V,f,A,m);if K==63607 then continue;else if K~=nil then return r,f,{O.M(K)},m;end;end;end;return r,f,nil,m;end,z1=function(O,r,A,g)if A==0x35 then if r[34]~=r[0B101000]then local m=0B1110110;while true do if m==0B111__0110 then(r[0xF])[0B1111__]=O.N;m=0B101110__1;(r[15])[0B1100]=O.z;continue;else if m==0X5d then m=(0X18);(r[0XF])[0X7]=(O.s.countlz);continue;elseif m==0X18 then m=O:a1(m,r);else if m==0X17 then(r[0xF__])[0XD]=O.s.rrotate;m=(10);(r[15])[0B100__0]=O.A1;else if m==0xA then O:W1(r);break;end;end;end;end;end;end;(r[0B1__111])[0X6]=O.s.bor;if not(not g[4679])then A=g[4679];else A=(0x24__+((O.u1(g[3296]~=O.c[7]and g[13724]or g[0X7490]))+g[9601]-g[0x2912_]));(g)[4679]=A;end;return 0X4C10__,A;else if A==16 then O:N1(r);return 12335,A;end;end;return nil,A;end,L=function(O,r,A,g)local m;repeat local V,Y=(0x1_E);repeat if V<=0x1e then if V==0B0 then Y=g[0B1][9](g[0X1][0B10110],g[0X1][0X11],g[0X1][0x011_]);V=(95);continue;else V=O:t(V);end;else V,m,A=O:V(Y,V,r,A);if m==0X486C then break;end;end;until false;r*=0X80_;g[0X1][0x11]=(g[1][17]+0b1);until Y<0X80;return{A},A,r;end,k1=function(O,r,A,g,m)A[0X2][20]=(m);for V=0x001,g,1 do local g,Y=(A[2][0X1e]());for f=0X1D,0X71,8 do if f>29 then O:q9();break;else if not(f<0B100101)then else if g>0B1010001 then if g>135 then Y=A[0X2][0X1E]()==0b1;else Y=A[0b10][0X28]();end;else Y=O:Q9(g,A,Y);end;continue;end;end;end;if m then(A[0b10][43])[V]={[0x0]=Y};else O:c1(Y,A,V);end;end;r=0X79;return r;end,f=function(O,O)O[0X1][0X11]=1;end,n1=function(O,O,r)r=(O[0X546_6]);return r;end,w=string.sub,G9=function(O,O,r)O[0X2][0B10101]=O[2][44];r=0b110_;return r;end,d=setmetatable,y1=bit32.lshift,z=bit32.lrotate,g1=bit32.rshift,H9=function(O,r,A,g,m)for V=0X1,m[0x03](),0X1 do local V,Y;V,Y=O:i9(Y,V);for f=0x16,0X178__,0B1110110 do if f==0X16 then V=m[3]();Y=V/0X2;continue;else if f==0X1__02 then O:O9();continue;elseif f==140 then if V%2~=0b0 then g=O:J9(A,m,g,Y);else A[g]=(Y-Y%0X1);end;continue;else if f==0x178 then g+=0x1;end;end;end;end;end;r=(0B1010010);return g,r;end,I=table,k9=function(O,...)return{(...)[...]};end,p9=function(O,r,A,g,m,V)if m>0B10101 then A,r=O:I9(r,A,g);return 39533,A,V,r;else if m<0X36 then V=g[0B10][38]();return 14568,A,V,r;end;end;return nil,A,V,r;end,O=function(O,r,A,g)local m;(A)[0b11011]=(nil);(A)[0X1C]=nil;(A)[0B11101]=(nil);A[0B11110]=(nil);r=27;repeat m,r=O:i(r,g,A);if m==0Xb7d__A then continue;else if m==31399 then break;end;end;until false;A[31]=O.W;A[0X20]=function()local O=({A});local A,g=O[0X1][28]("\z \x3C\x494",O[0X1][0B10110],O[0B1][17]);(O[1])[0b10001]=(g);return A;end;return r;end,Q=function(O,O,r)O=(r[0Xc__E0]);return O;end,_9=function(O,O,r,A)r=A[0X2][24](O);return r;end,U=bit32.lshift,s9=function(O,O,r,A)(A[0X2])[0X23],A[2][44]=0XA6,(r);O=0X55;return O;end,P1=bit32.bxor,G1=bit32.band,P9=function(O,r,A)local g;if not(-A)then else local m=0X3;while true do if m>0x3 then g=O:T9();return{O.M(g)};else if not(m<0X6)then else m=O:G9(r,m);continue;end;end;end;end;return{A};end,F1=string.gsub,K9=function(O,O,r,A,g,m)for V=0x29,0B100101_1,0b100010 do if V>0x29 then r[0B10][0b11101][g+0X2]=O;r[0b10][0X1D][g+3]=A;else r[0B10][0B11101][g+0X1_]=(m);end;end;end,c1=function(O,O,r,A)r[0B1__0][0X2_B][A]=(O);end,B=string.byte,B9=function(O,r,A,g,m,V,Y,f)m=(nil);for K=13,0B10100,0B111 do if K<20 then m={nil,O.a,nil,O.a,O.a,O.a,nil,nil,nil,nil,nil};continue;else if K>0B01101 then O:X9(m,A);end;end;end;Y=(A[0X1]()-84845);g=(nil);r=(nil);V=nil;f=nil;return f,Y,V,g,m,r;end,A=function(O,r,A,g)(g)[0X10]={};g[0B0010001]=0B1;(g)[0X012]=O.n;if not r[0x7490]then(r)[16047]=(-230050947+((O.A1((O.c[0B11]<O.c[3]and r[21579]or O.c[0B10])+r[0x1D2_e_]))-O.c[6]));A=(1438016751+((O.K1((O.c[4]<r[21579]and r[0X42b5]or O.c[0B100])>=O.c[0X1]and r[0X42B5]or O.c[0X7],O.c[0B101],O.c[0b100]))-O.c[0B10]));r[29840]=A;else A=(r[29840]);end;return A;end,s=bit32,j9=function(O,O,r,A)O[r]=r-A;end,B1=function(O,O,r)O[0X2][27]=nil;return{r};end,c9=function(O,O,r)O=r[23231];return O;end,S9=function(O,O,r)O=r[0X35_49];return O;end,M9=function(O,r,A,g,m,V,Y)if g[2][0x14]then local f=g[0x2][0X2b][A];local K=#f;for n=0X53,0X0136,0X6c do if n~=0X53 then f[K+0X3]=(0X6);break;else if r==0x87 then O:o9(Y,K,f,V);end;continue;end;end;else O:U9(V,A,m,g);end;end,a1=function(O,r,A)r=(23);(A[0Xf])[0XB]=O.s.countrz;return r;end,l9=function(O,O,r)O=r[3]();return O;end,H=function(O,r,A,g)r[0x21]=(nil);(r)[34]=(nil);r[0B100011]=(nil);g=103;while true do if g<0X06__7 then r[0x22]=({});r[35]=function()local m,V=({r});V=O:D(m);if V==nil then else return O.M(V);end;end;break;else if not(g>26)then else r[0x21]=function()local m,V,Y,f,K={r},0x6D;repeat if V>0x27 then if V~=104 then f,K,V=O:J(V,K,m,f);continue;else if m[0B001][0B10101]==m[0x1][0X10]then Y=O:l();return O.M(Y);end;V=(0X27);end;else m[1][0x011]=K;break;end;until false;return f;end;if not A[0x40eC]then g=(-3313657043+((O.P1((O.K1(A[23618]))+A[0X25_81]))+O.c[0B10__]));(A)[16620]=g;else g=(A[16620]);end;continue;end;end;end;return g;end,b9=function(O,r,A,g,m)m=nil;g=nil;for V=0X32__,0x137,0X57 do if V==0B0__10001001 then m=A[1]()-52896;elseif V==0B11_100000 then O:V9(m,A);elseif V==0X137 then g=O:L9(A,g);else if V~=50 then else A[0X2_][27]=({});end;end;end;r=(nil);return r,m,g;end,N9=function(O,O,r,A)O=((A-r)/8);return O;end,w1=function(O,r,A,g,m,V,Y)if g>0X30 and g<85 then for f=0x1,#V[0X2][29],3 do V[2][0X1D][f][V[0x2][0b11101][f+0X1]]=Y[V[0X2][0X1D][f+0X2]];end;g=(0X62);return 60652,g,A;elseif g>0b1__0011__11 and g<98 then g=O:Z1(r,g,V);elseif g>0X55 then if m then for m=0x003F,0X66,0X27_ do if m<0X66 then(V[0B1__1])[0B101]=(V[0X2][0x2__b]);continue;else if not(m>0X3F)then else(V[0x3])[0X2]=(Y);end;end;end;end;A=(Y[V[0X1]()]);return 0x35B_,g,A;else if g<0x4_f then g=(0B010011_1_1);for m=0X1,r,0X1 do O:S1(V,m,Y);end;end;end;return nil,g,A;end,f1=bit32.rrotate,x9=function(O,r,A,g,m)local V,Y=g/0B10_0__;for f=0X38,0Xb4,0B1111100 do if f==0X38 then Y=({[2]=g%0X4,[0X1]=V-V%1});continue;else if f~=180 then else O:E9(Y,A,g);end;end;end;(r)[m]=Y;end,m=bit32.bxor,D9=function(O,O,r,A)O=0x66;A=r[3]();return O,A;end,C9=function(O,O,r,A)r=0X1d;A[4]=(O);return r;end,Q9=function(O,O,r,A)if O~=0X3A then A=r[0X2][0B1_00001]();else A=r[0X2][0b1_00011]();end;return A;end,T=function(O,r,A)r=({});A[1]=O.Z;(A)[0X2]=O.S;A[0B11]=O.w;return r;end,y9=function(O,O,r,A,g)r=(0B10__01000);(A[2][0X1d])[g+0X2]=O;return r;end,K1=bit32.bor,C=string.pack,M1=function(O,r,A,g,m,V,Y,f)local K;if V>78 then if m[0X19]==m[0X10]then else for n=0X3A,0X45,0X0B do if n>0B111010 then f=m[0x2c](f,g)(A,O.k,m[0X2a],r,m[0X23],m[0B11110],m[0B100000],O.c,m[25],m[0B101100]);else if n<0x45 then O:m1(m);end;end;end;end;if not Y[0X3e11]then V=(0B1001010+(((O.G1(O.c[0X2]~=O.c[8]and O.c[0X7]or Y[0X6eB9]))>O.c[9]and Y[0X2912]or Y[0X2296])~=Y[0X48c4]and Y[0x78fD_]or Y[16047]));Y[0x3E11]=(V);else V=(Y[15889]);end;return 0XF877,V,g,f;else if V<0X4e then g,V=O:o1(Y,V,g);return 63607,V,g,f;else if not(V>0x3C and V<0X6_b)then else K=O:U1(g,f,m);return{O.M(K)},V,g,f;end;end;end;return nil,V,g,f;end,p1=function(O,O,r)r=O();return r;end,y=function(O,O,r)r=(O[0X3D53]);return r;end,A9=function(O,O,r,A)if O[2][0X8]<0X8 then return{-0Xc7},r;end;r,O[0x2][0b01_000]=0X4_d-0B1011111+0B11_000001,O[0x02][0X7]<A;return nil,r;end,e=string.char,o1=function(O,r,A,g)g=({});if not r[11002]then A=(-2492858597+((O.y1(r[0X2296]+r[0X3E_14]+r[9601],(r[0X42_b5])))+O.c[0x3]));r[11002]=A;else A=r[11002];end;return g,A;end,U9=function(O,O,r,A,g)(A)[O]=(g[0B001__0][43][r]);end,P=function(O,O,r)O=r[0x544B];return O;end,Z1=function(O,O,r,A)r=(48);A[0B10][0X1D]=A[0x2][24](O*3);return r;end,Y=function(O,r,A,g)A[0B11101]=O.a;if not(not g[9601])then r=(g[9601]);else r=(0X13+((O.A1((O.A1(g[0x1__d2E]-g[15699]))))-g[29840]));(g)[0X2581]=(r);end;return r;end,_1=function(O,r,A,g)local m;if A==0X62 then A=(0X59);(r[0B10])[29]=O.a;else if A==0B0_01011001 then m=O:B1(r,g);return{O.M(m)},A;end;end;return nil,A;end,X1=function(O,r,A,g,m,V,Y)local f,K;g=0X2;while true do if g<0x79__ then g=O:k1(g,Y,r,A);continue;else if g>0x2 then V=Y[0x1]()-0XCF46;K=Y[0X2][0X0018](V);break;end;end;end;m=(nil);g=(0b1010101);repeat f,g,m=O:w1(V,m,g,A,Y,K);if f==859 then break;else if f==60652 then continue;end;end;until false;(Y[0X2])[43]=O.a;return V,m,g;end,A1=bit32.bnot,Y9=function(O,r,A,g,m,V,Y,f,K,n,b,E,p,G)local i;V={};(A)[9]=n;f=0b11100__1_1;repeat i,f=O:e9(E,r,f,A,Y);if i==0XA6dF then continue;else if i==0X21_80 then break;end;end;until false;for _=0X1,G,0B1 do local e,W,l,M,q,d,Z;W,M,q,l,Z,e,d=O:a9(m,e,Z,l,W,q,d,M);local B,R=0B1101__1__0;while true do if B==0x36 then q,Z,d=O:W9(m,d,Z,e,q);B=(0B11101);continue;else if B==0X1d then R=(l%8);break;end;end;end;B=((W-M)/0X8);e=(nil);W=nil;for J=47,367,46 do if not(J<=0X8b)then if J>0B10111001 then i=O:m9(e,W,J,m,E,_);if i==23224 then continue;else if i==0X4316 then break;else if i~=nil then return{O.M(i)},J,K,V;end;end;end;else n[_]=d;continue;end;else if not(J<=0B1__01111)then if J==139 then if W~=0X8__7 then else local J=0B1_01111_;repeat if J<0X0042 then J=66;(Y)[_]=Z;else g[_]=(B);break;end;until false;end;else W=(0x87);end;else e=O:N9(e,R,l);continue;end;end;end;if M==0x01 then O:M9(W,B,m,r,_,A);elseif M==0X0__04 then g[_]=B;elseif M==6 then if m[0B10][0X1__9]==m[0X2][0b10101]then i=O:P9(m,W);return{O.M(i)},f,K,V;end;(g)[_]=(_+B);else if M==0X5 then O:j9(g,_,B);else if M==0X3 then Z=(nil);l=0B110111__;repeat if l==55 then l,Z=O:R9(Z,m,l);else if l==0B101010 then(m[0X2][0x1_D])[Z+1]=r;l=(1);else if l==0X1 then l=0X6c;(m[2][0B11101])[Z+0X2]=(_);continue;else if l==0B1101100 then m[2][0x1d][Z+0X3]=(B);break;end;end;end;end;until false;end;end;end;for r=0X51,131,0X32 do if r==0B10000__011 then if R==0B1 then if not(m[2][0X14])then O:u9(_,e,m,p);else Z,M=(nil);M,Z=O:F9(Z,M,e,m);(Z)[M+0b1]=A;Z[M+0B10]=_;(Z)[M+0X3]=0Xb;end;elseif R==0X4 then(E)[_]=e;else if R==6 then(E)[_]=_+e;elseif W~=0X87 then i,d=O:A9(m,d,G);if i~=nil then return{O.M(i)},f,K,V;end;else if W==0B11110111 then if not(-0x0FA)then else return{},f,K,V;end;elseif R==0X5 then(E)[_]=(_-e);else if R==3 then l=(nil);for Y=15,0B10101001,0X66 do if Y<0X75 then l=#m[0X2][0x1D];continue;else if W==0x0ED then else O:K9(_,m,e,l,p);end;break;end;end;end;end;end;end;else if r==81 then if q==1 then if not(m[2][0x14])then if W~=0B101__1 then else local r=(0x1f);repeat if r==0x72 then if-0X2 then(m[0X2__])[16],m[0X2][0B1__00010]=W,-0X91*W;end;break;else r=O:f9(W,r,m);end;until false;end;b[_]=m[0X2][0X2b][d];else B=(nil);local r;for Y=9,0B1011001,0X50 do i,B,r=O:g9(d,r,Y,B,m);if i==0Xd141 then continue;end;end;if W~=0X8__7 then else for Y=0X0C,0x002f__,35 do if Y<0x2F then B[r+0X1_]=A;else if not(Y>0b1100)then else B[r+0X2]=(_);end;end;end;end;B[r+0X3]=0X2;end;else if q==4 then n[_]=(d);elseif q==6 then(n)[_]=_+d;else if q==0X5 then(n)[_]=(_-d);else if q==0X3 then O:v9(b,d,_,m);end;end;end;end;continue;end;end;end;end;b=m[0X1__]();g=nil;K=nil;for r=16,0X26,0Xb do if r<0x26 and r>0b10__0__00 then(A)[0X3]=(g);else if r<27 then g=m[0B10][24](b);K=1;else if not(r>0B11011)then else O:r9(g,m,K,b);end;end;end;end;return nil,f,K,V;end,l=function(O)return{};end,w9=function(O,r,A,g,m,V,Y)(r)[36]=(9007199254740992);r[37]=(function()local f,K,n,b,E={r},0X51;repeat if K>=0X7c then n,b,E=O:L(E,b,f);return O.M(n);else E,b,K=O:b(E,K,b);continue;end;until false;end);r[0b100110]=(nil);(r)[39]=(nil);(r)[0X28]=(nil);r[0X29]=(nil);(r)[0x02a]=nil;r[43]=(nil);A=0B100_0111;while true do if A==0X47 then r[0B10011_0]=function()local f,K,n={r[37],r,r[0x2_4]},(70);repeat if K==0b1000110 then n=f[0x1]();K=0X6_D;else if K~=109 then else if not(n>=f[0X2][0X15])then else return n-f[0X3];end;break;end;end;until false;return n;end;r[0B100111]=(select);if not(not g[0X475b])then A=g[18267];else g[21758]=(0X9C+((O.u1((O.A1(g[18628]))-O.c[0X9]))-g[9601]));(g)[30789]=(-0x1d0084__e7__+(O.c[0b100]-A-O.c[0X1]-O.c[0X6]-g[7470]));A=(-2551028972+((O.y1((O.P1(g[18628],g[0X1D2E],O.c[0B00101]))+g[17077],(g[21579])))+g[16620]));(g)[0X4__75b]=(A);end;elseif A==0b1_11__1010 then r[40]=function()local f,K={r[37],r,r[0X3]};K=O:q(f);return O.M(K);end;if not g[0XCE0]then A=(0X11+(O.y1((O.P1(g[0X6eB9]+g[0X6Eb9]-O.c[0B0011],O.c[0B1__001],g[0X78fd])),(g[0X2581]))));(g)[0XcE0]=A;else A=O:Q(A,g);end;elseif A==0B10001 then(r)[0B101001]=function(...)local f=({r});local K=f[0B1][39]("#",...);if K==0X0 then return K,f[0B1][34];end;return K,{...};end;if not(not g[23231])then A=O:c9(A,g);else(g)[0X2912]=0B10100+(O.R1((O.u1(g[15699]+g[29751]-g[0X7_8F__d])),(g[30973])));A=(-3126847572+(((O.f1(g[0X475b]+g[18267],(g[0X42b_5])))>=g[0X48c4]and O.c[5]or O.c[0B1000])+O.c[0B11]));(g)[23231]=(A);end;elseif A==60 then r[0B101010]=function(...)local f;f=O:k9(...);return O.M(f);end;if not(not g[13641])then A=O:S9(A,g);else A=O:Z9(g,A);end;continue;else if A~=107 then else r[0x2B]=(nil);break;end;end;end;(r)[0X2c]=(nil);r[0x2D__]=nil;m=(nil);Y=nil;V=(nil);return A,Y,m,V;end,j=function(O,r,A,g)r[8]=function(m,V,Y,f)f={r};if m>V then return;end;local r=V-m+0X1;if r>=0X8 then return Y[m],Y[m+0X1],Y[m+2],Y[m+0B11],Y[m+4],Y[m+0x5],Y[m+6],Y[m+7],f[0X1][8](m+0B1000,V,Y);elseif r>=0X7 then return Y[m],Y[m+0b1],Y[m+2],Y[m+0X3],Y[m+4],Y[m+0b101],Y[m+0x6],f[0X1][0X8](m+0B111,V,Y);elseif r>=6 then return Y[m],Y[m+0X1],Y[m+2],Y[m+0X003],Y[m+4],Y[m+0X5],f[0b1][0B1000](m+0X6,V,Y);elseif r>=0X5 then return Y[m],Y[m+1],Y[m+0X2],Y[m+3],Y[m+0X4],f[1][0B1000](m+0X5,V,Y);elseif r>=0B100 then return Y[m],Y[m+0b1_],Y[m+2],Y[m+0X3],f[0X1][0X8](m+0X4,V,Y);else if r>=3 then return Y[m],Y[m+0B1],Y[m+0b10],f[0x1][8](m+3,V,Y);else if r>=0B001_0 then return Y[m],Y[m+1],f[0X1][0X8](m+0B10,V,Y);else return Y[m],f[0X1][0X8](m+0b1,V,Y);end;end;end;end;if not(not g[0X00544B])then A=O:P(A,g);else A=-1310815066+((O.G1(O.c[0B100]-O.c[0B110]-O.c[0X007_]))+g[0X359C]);g[21579]=(A);end;return A;end,I1=function(O,...)return{(...)()};end,n9=function(O,r,A,g,m,V,Y,f,K,n,b)local E;for p=28,427,0x5f do r,g,E,m,Y=O:d9(Y,p,g,r,m,b,n);if E==59102 then break;else if E~=0X8b_b then else continue;end;end;end;K=n[0B10][0X18](b);f=n[0B10][24](b);V=n[0X2][0X18](b);for O=0B1111_000,0x00124,0X56 do if not(O<=0X78)then if O~=0XCE then(A)[8]=(r);else A[0xB]=(f);continue;end;else A[0X2]=(m);end;end;return g,K,r,f,m,Y,V;end,z9=function(O)return{(0X2<=0X98_)%(0B10101_10*0x3F)};end,q9=function(O)end,j1=bit32.countlz}):v1()(...);
+          {Time = 0.000, Data = {
+
+              ["Head"] = CFrame.new(0.000000, 0.000000, -67.826454, 0.307826, -0.595031, -0.742416, 0.850610, 0.521708, -0.065452, 0.426270, -0.611358, 0.666734),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, -0.002095, -0.000003, 0.995962, -0.068678, -0.057829, 0.068793, 0.997631, -0.000011, 0.057690, -0.003956, 0.998327),
+
+              ["LeftHand"] = CFrame.new(0.000506, -0.008649, -0.000000, 1.000000, -0.000004, -0.001019, 0.000070, 0.997845, 0.065617, 0.001016, -0.065617, 0.997844),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.005559, 0.000828, 1.000000, -0.000000, -0.000000, 0.000000, 0.990994, -0.133910, 0.000000, 0.133910, 0.990994),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.001688, 0.000079, 1.000000, -0.000000, 0.000000, 0.000000, 1.000000, -0.000008, -0.000000, -0.000011, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000509, 1.000000, -0.000066, 0.001017, -0.000004, 0.997645, 0.068595, -0.001019, -0.068595, 0.997644),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995962, 0.068793, 0.057691, -0.068678, 0.997631, -0.003959, -0.057827, -0.000011, 0.998327),
+
+              ["LowerTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, -0.003444, -0.000103, 0.992956, 0.090638, 0.076320, -0.090902, 0.995860, -0.000023, -0.076002, -0.006903, 0.997083),
+
+              ["RightHand"] = CFrame.new(-0.000505, -0.007818, 0.000000, 1.000000, 0.000003, 0.000997, -0.000064, 0.998178, 0.060335, -0.000994, -0.060334, 0.998178),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.005234, 0.000716, 1.000000, 0.000000, 0.000000, -0.000000, 0.992392, -0.123121, -0.000000, 0.123121, 0.992392),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, -0.003432, -0.000042, 1.000000, -0.000000, 0.000000, 0.000000, 1.000000, -0.000008, -0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000498, 1.000000, 0.000060, -0.000995, 0.000003, 0.998012, 0.063021, 0.000996, -0.063021, 0.998012),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992955, -0.090901, -0.076004, 0.090638, 0.995860, -0.006907, 0.076317, -0.000023, 0.997084),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.017, Data = {
+
+              ["Head"] = CFrame.new(-0.004612, 0.072040, -67.800407, 0.308776, -0.599051, -0.738779, 0.851704, 0.519901, -0.065597, 0.423388, -0.608967, 0.670747),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, -0.002060, -0.000003, 0.995961, -0.068680, -0.057830, 0.068795, 0.997631, -0.000011, 0.057691, -0.003956, 0.998326),
+
+              ["LeftHand"] = CFrame.new(0.000506, -0.008644, -0.000000, 1.000000, -0.000004, -0.001019, 0.000071, 0.997838, 0.065719, 0.001016, -0.065718, 0.997838),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.005584, 0.000831, 1.000000, -0.000000, -0.000000, 0.000000, 0.990966, -0.134115, 0.000000, 0.134115, 0.990966),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.001653, 0.000079, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, -0.000008, 0.000000, -0.000011, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000509, 1.000000, -0.000066, 0.001017, -0.000004, 0.997637, 0.068701, -0.001019, -0.068701, 0.997637),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995961, 0.068794, 0.057692, -0.068680, 0.997631, -0.003959, -0.057828, -0.000011, 0.998327),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.000041, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(0.000000, -0.003425, -0.000103, 0.992955, 0.090640, 0.076321, -0.090904, 0.995860, -0.000023, -0.076004, -0.006904, 0.997083),
+
+              ["RightHand"] = CFrame.new(-0.000505, -0.007813, -0.000000, 1.000000, 0.000003, 0.000997, -0.000064, 0.998172, 0.060442, -0.000994, -0.060441, 0.998171),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.005260, 0.000718, 1.000000, 0.000000, 0.000000, -0.000000, 0.992365, -0.123337, -0.000000, 0.123337, 0.992365),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, -0.003412, -0.000042, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000008, -0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000498, 1.000000, 0.000060, -0.000995, 0.000003, 0.998005, 0.063132, 0.000996, -0.063132, 0.998005),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992955, -0.090903, -0.076005, 0.090640, 0.995860, -0.006907, 0.076319, -0.000023, 0.997083),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.033, Data = {
+
+              ["Head"] = CFrame.new(-0.018054, 0.282028, -67.722664, 0.311419, -0.610757, -0.728007, 0.854918, 0.514552, -0.065973, 0.414891, -0.601840, 0.682388),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, -0.002005, -0.000003, 0.995961, -0.068685, -0.057834, 0.068799, 0.997631, -0.000011, 0.057695, -0.003957, 0.998326),
+
+              ["LeftHand"] = CFrame.new(0.000505, -0.008631, -0.000000, 1.000000, -0.000003, -0.001019, 0.000071, 0.997818, 0.066019, 0.001016, -0.066017, 0.997818),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.005659, 0.000839, 1.000000, -0.000000, -0.000000, 0.000000, 0.990883, -0.134724, 0.000000, 0.134724, 0.990883),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.001598, 0.000080, 1.000000, 0.000000, -0.000000, -0.000000, 1.000000, -0.000008, 0.000000, -0.000011, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000509, 1.000000, -0.000067, 0.001017, -0.000004, 0.997616, 0.069014, -0.001019, -0.069014, 0.997615),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995961, 0.068799, 0.057696, -0.068685, 0.997631, -0.003960, -0.057832, -0.000011, 0.998326),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.000164, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, -0.003367, -0.000103, 0.992954, 0.090646, 0.076327, -0.090910, 0.995859, -0.000023, -0.076009, -0.006905, 0.997083),
+
+              ["RightHand"] = CFrame.new(-0.000505, -0.007801, -0.000000, 1.000000, 0.000003, 0.000996, -0.000064, 0.998153, 0.060755, -0.000994, -0.060754, 0.998152),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.005337, 0.000726, 1.000000, 0.000000, 0.000000, -0.000000, 0.992286, -0.123974, -0.000000, 0.123974, 0.992285),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, -0.003355, -0.000041, 1.000000, -0.000000, 0.000000, 0.000000, 1.000000, -0.000008, 0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000498, 1.000000, 0.000060, -0.000995, 0.000003, 0.997985, 0.063459, 0.000996, -0.063459, 0.997984),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992954, -0.090910, -0.076011, 0.090646, 0.995859, -0.006909, 0.076324, -0.000023, 0.997083),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.050, Data = {
+
+              ["Head"] = CFrame.new(-0.039737, 0.620767, -67.593826, 0.315335, -0.629578, -0.710067, 0.860145, 0.505709, -0.066401, 0.400892, -0.589822, 0.700996),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.001898, -0.000003, 0.995960, -0.068692, -0.057841, 0.068807, 0.997630, -0.000010, 0.057701, -0.003959, 0.998326),
+
+              ["LeftHand"] = CFrame.new(0.000506, -0.008608, -0.000000, 1.000000, -0.000004, -0.001019, 0.000071, 0.997786, 0.066511, 0.001016, -0.066510, 0.997785),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.005782, 0.000853, 1.000000, -0.000000, -0.000000, 0.000000, 0.990747, -0.135723, 0.000000, 0.135723, 0.990747),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.001491, 0.000081, 1.000000, -0.000000, -0.000000, -0.000000, 1.000000, -0.000008, 0.000000, -0.000011, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000509, 1.000000, -0.000067, 0.001017, -0.000004, 0.997580, 0.069528, -0.001018, -0.069528, 0.997580),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995960, 0.068807, 0.057703, -0.068693, 0.997630, -0.003962, -0.057839, -0.000010, 0.998326),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.000366, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, -0.003272, -0.000103, 0.992953, 0.090656, 0.076335, -0.090921, 0.995858, -0.000022, -0.076017, -0.006908, 0.997082),
+
+              ["RightHand"] = CFrame.new(-0.000505, -0.007779, -0.000000, 1.000000, 0.000003, 0.000996, -0.000064, 0.998121, 0.061270, -0.000994, -0.061269, 0.998121),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.005464, 0.000740, 1.000000, 0.000000, 0.000000, -0.000000, 0.992154, -0.125021, -0.000000, 0.125020, 0.992154),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, -0.003260, -0.000040, 1.000000, 0.000000, 0.000000, -0.000000, 1.000000, -0.000008, 0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000498, 1.000000, 0.000060, -0.000995, 0.000003, 0.997950, 0.063997, 0.000996, -0.063997, 0.997950),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992953, -0.090920, -0.076019, 0.090657, 0.995858, -0.006911, 0.076333, -0.000022, 0.997082),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.067, Data = {
+
+              ["Head"] = CFrame.new(-0.069074, 1.079062, -67.414497, 0.319957, -0.654870, -0.684669, 0.867273, 0.493358, -0.066594, 0.381398, -0.572488, 0.725805),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.001757, -0.000003, 0.995959, -0.068703, -0.057850, 0.068818, 0.997629, -0.000009, 0.057710, -0.003961, 0.998325),
+
+              ["LeftHand"] = CFrame.new(0.000506, -0.008576, -0.000000, 1.000000, -0.000004, -0.001019, 0.000072, 0.997740, 0.067190, 0.001016, -0.067189, 0.997740),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.005951, 0.000872, 1.000000, -0.000000, -0.000000, 0.000000, 0.990557, -0.137102, 0.000000, 0.137101, 0.990557),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.001351, 0.000083, 1.000000, -0.000000, 0.000000, -0.000000, 1.000000, -0.000008, 0.000000, -0.000011, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000509, 1.000000, -0.000068, 0.001017, -0.000004, 0.997530, 0.070237, -0.001018, -0.070237, 0.997530),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995959, 0.068818, 0.057712, -0.068703, 0.997629, -0.003964, -0.057848, -0.000009, 0.998325),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.000645, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, -0.003125, -0.000103, 0.992950, 0.090671, 0.076347, -0.090935, 0.995857, -0.000021, -0.076029, -0.006911, 0.997081),
+
+              ["RightHand"] = CFrame.new(-0.000505, -0.007750, 0.000000, 1.000000, 0.000003, 0.000996, -0.000065, 0.998077, 0.061981, -0.000994, -0.061980, 0.998077),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.005638, 0.000758, 1.000000, 0.000000, 0.000000, -0.000000, 0.991971, -0.126466, -0.000000, 0.126466, 0.991971),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, -0.003113, -0.000038, 1.000000, 0.000000, -0.000000, -0.000000, 1.000000, -0.000008, -0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000498, 1.000000, 0.000061, -0.000995, 0.000003, 0.997902, 0.064739, 0.000996, -0.064739, 0.997902),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992950, -0.090935, -0.076031, 0.090671, 0.995857, -0.006914, 0.076345, -0.000021, 0.997082),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.083, Data = {
+
+              ["Head"] = CFrame.new(-0.105476, 1.647716, -67.185265, 0.324569, -0.685877, -0.651328, 0.876167, 0.477446, -0.066162, 0.356353, -0.549198, 0.755906),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.001585, -0.000003, 0.995957, -0.068717, -0.057862, 0.068832, 0.997628, -0.000008, 0.057722, -0.003964, 0.998325),
+
+              ["LeftHand"] = CFrame.new(0.000506, -0.008536, -0.000000, 1.000000, -0.000004, -0.001018, 0.000073, 0.997682, 0.068050, 0.001015, -0.068049, 0.997681),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.006164, 0.000896, 1.000000, -0.000000, -0.000000, 0.000000, 0.990314, -0.138848, 0.000000, 0.138847, 0.990314),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, -0.001180, 0.000085, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000008, -0.000000, -0.000011, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000509, 1.000000, -0.000069, 0.001016, -0.000004, 0.997467, 0.071135, -0.001018, -0.071135, 0.997466),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995957, 0.068832, 0.057723, -0.068717, 0.997628, -0.003967, -0.057860, -0.000008, 0.998325),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.000998, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, -0.002942, -0.000103, 0.992948, 0.090689, 0.076363, -0.090953, 0.995855, -0.000019, -0.076044, -0.006915, 0.997080),
+
+              ["RightHand"] = CFrame.new(-0.000505, -0.007713, -0.000000, 1.000000, 0.000003, 0.000996, -0.000066, 0.998021, 0.062881, -0.000993, -0.062880, 0.998021),
+
+              ["RightLowerArm"] = CFrame.new(-0.000000, 0.005857, 0.000781, 1.000000, 0.000000, 0.000000, -0.000000, 0.991736, -0.128294, -0.000000, 0.128293, 0.991736),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, -0.002932, -0.000035, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, -0.000008, 0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000498, 1.000000, 0.000062, -0.000994, 0.000003, 0.997841, 0.065679, 0.000996, -0.065679, 0.997840),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992947, -0.090953, -0.076046, 0.090689, 0.995855, -0.006918, 0.076360, -0.000019, 0.997080),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.100, Data = {
+
+              ["Head"] = CFrame.new(-0.148353, 2.317532, -66.906754, 0.328298, -0.721667, -0.609440, 0.886648, 0.457910, -0.064607, 0.325694, -0.519148, 0.790196),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, -0.001367, -0.000003, 0.995955, -0.068734, -0.057876, 0.068849, 0.997627, -0.000006, 0.057736, -0.003968, 0.998324),
+
+              ["LeftHand"] = CFrame.new(0.000506, -0.008490, -0.000000, 1.000000, -0.000003, -0.001018, 0.000074, 0.997611, 0.069085, 0.001015, -0.069084, 0.997610),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.006421, 0.000926, 1.000000, -0.000000, -0.000000, 0.000000, 0.990017, -0.140948, 0.000000, 0.140948, 0.990017),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, -0.000963, 0.000088, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, -0.000008, 0.000000, -0.000011, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000509, 1.000000, -0.000070, 0.001016, -0.000004, 0.997389, 0.072217, -0.001018, -0.072216, 0.997388),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995955, 0.068849, 0.057737, -0.068734, 0.997627, -0.003971, -0.057874, -0.000006, 0.998324),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.001425, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(0.000000, -0.002743, -0.000103, 0.992944, 0.090711, 0.076381, -0.090976, 0.995853, -0.000018, -0.076062, -0.006920, 0.997079),
+
+              ["RightHand"] = CFrame.new(-0.000505, -0.007669, 0.000000, 1.000000, 0.000003, 0.000995, -0.000067, 0.997952, 0.063964, -0.000993, -0.063962, 0.997952),
+
+              ["RightLowerArm"] = CFrame.new(-0.000000, 0.006121, 0.000810, 1.000000, 0.000000, 0.000000, -0.000000, 0.991449, -0.130493, -0.000000, 0.130492, 0.991449),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, -0.002733, -0.000033, 1.000000, -0.000000, 0.000000, -0.000000, 1.000000, -0.000008, 0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000498, 1.000000, 0.000063, -0.000994, 0.000003, 0.997766, 0.066809, 0.000995, -0.066809, 0.997765),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992944, -0.090975, -0.076064, 0.090711, 0.995853, -0.006923, 0.076378, -0.000018, 0.997079),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.117, Data = {
+
+              ["Head"] = CFrame.new(-0.197117, 3.079313, -66.579544, 0.330115, -0.761084, -0.558369, 0.898480, 0.434710, -0.061338, 0.289412, -0.481435, 0.827322),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, -0.001125, -0.000003, 0.995953, -0.068753, -0.057892, 0.068869, 0.997626, -0.000004, 0.057752, -0.003972, 0.998323),
+
+              ["LeftHand"] = CFrame.new(0.000506, -0.008435, -0.000000, 1.000000, -0.000003, -0.001018, 0.000075, 0.997527, 0.070288, 0.001014, -0.070287, 0.997526),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.006720, 0.000961, 1.000000, -0.000000, -0.000000, -0.000000, 0.989666, -0.143390, 0.000000, 0.143389, 0.989666),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.000722, 0.000091, 1.000000, -0.000000, 0.000000, 0.000000, 1.000000, -0.000008, 0.000000, -0.000011, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000509, 1.000000, -0.000071, 0.001016, -0.000004, 0.997297, 0.073473, -0.001017, -0.073473, 0.997297),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995953, 0.068868, 0.057753, -0.068753, 0.997626, -0.003975, -0.057890, -0.000004, 0.998323),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.001922, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(0.000000, -0.002496, -0.000103, 0.992940, 0.090736, 0.076402, -0.091001, 0.995851, -0.000016, -0.076083, -0.006926, 0.997077),
+
+              ["RightHand"] = CFrame.new(-0.000505, -0.007607, 0.000000, 1.000000, 0.000003, 0.000995, -0.000068, 0.997853, 0.065499, -0.000992, -0.065497, 0.997852),
+
+              ["RightLowerArm"] = CFrame.new(-0.000000, 0.006495, 0.000851, 1.000000, 0.000000, 0.000000, -0.000000, 0.991034, -0.133610, -0.000000, 0.133609, 0.991034),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, -0.002487, -0.000029, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, -0.000008, -0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000497, 1.000000, 0.000065, -0.000993, 0.000003, 0.997657, 0.068412, 0.000995, -0.068412, 0.997657),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992940, -0.091001, -0.076085, 0.090736, 0.995851, -0.006929, 0.076400, -0.000016, 0.997077),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.133, Data = {
+
+              ["Head"] = CFrame.new(-0.251180, 3.923863, -66.204247, 0.328845, -0.802681, -0.497559, 0.911341, 0.407870, -0.055670, 0.247625, -0.435139, 0.865642),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.000850, -0.000003, 0.995950, -0.068775, -0.057911, 0.068891, 0.997624, -0.000002, 0.057770, -0.003977, 0.998322),
+
+              ["LeftHand"] = CFrame.new(0.000505, -0.008372, -0.000000, 1.000000, -0.000004, -0.001017, 0.000076, 0.997430, 0.071653, 0.001014, -0.071651, 0.997429),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.007057, 0.001002, 1.000000, -0.000000, -0.000000, 0.000000, 0.989262, -0.146156, 0.000000, 0.146156, 0.989262),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.000448, 0.000095, 1.000000, 0.000000, -0.000000, -0.000000, 1.000000, -0.000008, 0.000000, -0.000011, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000508, 1.000000, -0.000073, 0.001015, -0.000004, 0.997191, 0.074898, -0.001017, -0.074898, 0.997191),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995950, 0.068891, 0.057772, -0.068775, 0.997624, -0.003980, -0.057909, -0.000002, 0.998322),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.002488, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(0.000000, -0.002203, -0.000103, 0.992936, 0.090765, 0.076427, -0.091031, 0.995848, -0.000014, -0.076107, -0.006932, 0.997075),
+
+              ["RightHand"] = CFrame.new(-0.000505, -0.007549, 0.000000, 1.000000, 0.000003, 0.000995, -0.000070, 0.997759, 0.066916, -0.000992, -0.066915, 0.997758),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.006840, 0.000891, 1.000000, 0.000000, 0.000000, -0.000000, 0.990642, -0.136486, -0.000000, 0.136486, 0.990642),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, -0.002195, -0.000026, 1.000000, 0.000000, 0.000000, -0.000000, 1.000000, -0.000008, 0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000497, 1.000000, 0.000066, -0.000993, 0.000003, 0.997555, 0.069892, 0.000994, -0.069892, 0.997554),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992936, -0.091030, -0.076109, 0.090765, 0.995848, -0.006936, 0.076424, -0.000014, 0.997075),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.150, Data = {
+
+              ["Head"] = CFrame.new(-0.309952, 4.841986, -65.781456, 0.323201, -0.844690, -0.426662, 0.924812, 0.377527, -0.046860, 0.200658, -0.379437, 0.903196),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, -0.000530, -0.000003, 0.995947, -0.068800, -0.057931, 0.068916, 0.997623, 0.000000, 0.057791, -0.003982, 0.998321),
+
+              ["LeftHand"] = CFrame.new(0.000506, -0.008303, -0.000000, 1.000000, -0.000003, -0.001017, 0.000078, 0.997319, 0.073172, 0.001013, -0.073171, 0.997319),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.007433, 0.001048, 1.000000, -0.000000, -0.000000, 0.000000, 0.988802, -0.149237, 0.000000, 0.149236, 0.988801),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.000128, 0.000099, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000008, 0.000000, -0.000011, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000508, 1.000000, -0.000074, 0.001014, -0.000003, 0.997071, 0.076485, -0.001016, -0.076485, 0.997070),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995947, 0.068916, 0.057792, -0.068800, 0.997622, -0.003985, -0.057930, 0.000000, 0.998321),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.003120, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(0.000000, -0.001899, -0.000103, 0.992931, 0.090798, 0.076454, -0.091064, 0.995845, -0.000012, -0.076134, -0.006940, 0.997073),
+
+              ["RightHand"] = CFrame.new(-0.000505, -0.007485, -0.000000, 1.000000, 0.000003, 0.000994, -0.000071, 0.997652, 0.068493, -0.000991, -0.068492, 0.997651),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.007224, 0.000935, 1.000000, 0.000000, 0.000000, -0.000000, 0.990196, -0.139687, -0.000000, 0.139687, 0.990196),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, -0.001892, -0.000021, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000008, 0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000497, 1.000000, 0.000068, -0.000992, 0.000003, 0.997438, 0.071538, 0.000994, -0.071538, 0.997437),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992930, -0.091063, -0.076135, 0.090798, 0.995845, -0.006943, 0.076452, -0.000012, 0.997073),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.167, Data = {
+
+              ["Head"] = CFrame.new(-0.372845, 5.824484, -65.311775, 0.311842, -0.885015, -0.345693, 0.938359, 0.343973, -0.034141, 0.149125, -0.313737, 0.937726),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.000310, -0.000003, 0.995944, -0.068827, -0.057954, 0.068944, 0.997621, 0.000003, 0.057813, -0.003988, 0.998319),
+
+              ["LeftHand"] = CFrame.new(0.000505, -0.008219, -0.000000, 1.000000, -0.000003, -0.001016, 0.000080, 0.997175, 0.075116, 0.001012, -0.075115, 0.997174),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.007912, 0.001108, 1.000000, -0.000000, -0.000000, 0.000000, 0.988199, -0.153176, 0.000000, 0.153176, 0.988199),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.000091, 0.000102, 1.000000, -0.000000, -0.000000, -0.000000, 1.000000, -0.000008, 0.000000, -0.000011, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000508, 1.000000, -0.000076, 0.001014, -0.000003, 0.996913, 0.078515, -0.001016, -0.078515, 0.996912),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995944, 0.068943, 0.057815, -0.068827, 0.997621, -0.003991, -0.057953, 0.000003, 0.998319),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.003817, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(0.000000, -0.001538, -0.000103, 0.992925, 0.090833, 0.076484, -0.091100, 0.995842, -0.000009, -0.076163, -0.006948, 0.997071),
+
+              ["RightHand"] = CFrame.new(-0.000505, -0.007415, 0.000000, 1.000000, 0.000003, 0.000994, -0.000073, 0.997532, 0.070215, -0.000990, -0.070214, 0.997531),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.007643, 0.000985, 1.000000, 0.000000, 0.000000, -0.000000, 0.989697, -0.143181, -0.000000, 0.143181, 0.989697),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, -0.001533, -0.000017, 1.000000, -0.000000, 0.000000, -0.000000, 1.000000, -0.000008, 0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000497, 1.000000, 0.000070, -0.000992, 0.000003, 0.997307, 0.073336, 0.000993, -0.073336, 0.997307),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992925, -0.091100, -0.076165, 0.090834, 0.995842, -0.006951, 0.076482, -0.000009, 0.997071),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.183, Data = {
+
+              ["Head"] = CFrame.new(-0.439271, 6.862163, -64.795807, 0.293476, -0.921278, -0.255183, 0.951335, 0.307701, -0.016790, 0.093989, -0.237837, 0.966747),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.000121, -0.000003, 0.995941, -0.068857, -0.057979, 0.068918, 0.997622, -0.000955, 0.057904, -0.003033, 0.998317),
+
+              ["LeftHand"] = CFrame.new(0.000505, -0.008139, -0.000000, 1.000000, -0.000003, -0.001016, 0.000082, 0.997037, 0.076919, 0.001012, -0.076918, 0.997037),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.008355, 0.001166, 1.000000, -0.000000, -0.000000, -0.000000, 0.987626, -0.156829, 0.000000, 0.156829, 0.987626),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.000483, 0.000104, 1.000000, 0.000000, -0.000000, 0.000000, 0.999998, 0.002039, -0.000000, -0.002057, 0.999998),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000508, 1.000000, -0.000078, 0.001013, -0.000003, 0.996763, 0.080398, -0.001015, -0.080398, 0.996762),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995940, 0.069036, 0.057765, -0.068857, 0.997614, -0.005078, -0.057978, 0.001087, 0.998317),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.004576, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, -0.001159, -0.000103, 0.992919, 0.090872, 0.076517, -0.091140, 0.995838, -0.000006, -0.076195, -0.006957, 0.997068),
+
+              ["RightHand"] = CFrame.new(-0.000505, -0.007333, 0.000000, 1.000000, 0.000003, 0.000993, -0.000075, 0.997401, 0.072053, -0.000990, -0.072052, 0.997400),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.008096, 0.001040, 1.000000, 0.000000, 0.000000, -0.000000, 0.989150, -0.146908, -0.000000, 0.146907, 0.989150),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, -0.001155, -0.000012, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000496, 1.000000, 0.000072, -0.000991, 0.000003, 0.997164, 0.075255, 0.000993, -0.075255, 0.997164),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992919, -0.091139, -0.076197, 0.090873, 0.995838, -0.006960, 0.076515, -0.000006, 0.997069),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.200, Data = {
+
+              ["Head"] = CFrame.new(-0.508639, 7.945823, -64.234154, 0.266991, -0.950938, -0.156312, 0.963004, 0.269426, 0.005793, 0.036606, -0.152076, 0.987691),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.000036, -0.000003, 0.995937, -0.068889, -0.058006, 0.068840, 0.997624, -0.002853, 0.058062, -0.001141, 0.998312),
+
+              ["LeftHand"] = CFrame.new(0.000505, -0.008065, -0.000000, 1.000000, -0.000003, -0.001015, 0.000083, 0.996881, 0.078918, 0.001011, -0.078917, 0.996881),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.008834, 0.001231, 1.000000, -0.000000, -0.000000, 0.000000, 0.986974, -0.160879, 0.000000, 0.160878, 0.986974),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.001043, 0.000103, 1.000000, -0.000000, -0.000000, -0.000000, 0.999981, 0.006084, 0.000000, -0.006102, 0.999982),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000507, 1.000000, -0.000080, 0.001012, -0.000003, 0.996592, 0.082487, -0.001015, -0.082487, 0.996592),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995937, 0.069192, 0.057643, -0.068889, 0.997598, -0.007221, -0.058005, 0.003229, 0.998311),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.005395, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, -0.000755, -0.000103, 0.992912, 0.090914, 0.076553, -0.091182, 0.995834, -0.000003, -0.076230, -0.006966, 0.997066),
+
+              ["RightHand"] = CFrame.new(-0.000505, -0.007245, -0.000000, 1.000000, 0.000003, 0.000992, -0.000077, 0.997256, 0.074026, -0.000989, -0.074025, 0.997256),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.008581, 0.001100, 1.000000, 0.000000, 0.000000, -0.000000, 0.988548, -0.150908, -0.000000, 0.150908, 0.988548),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, -0.000752, -0.000006, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, -0.000008, -0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000496, 1.000000, 0.000074, -0.000990, 0.000003, 0.997007, 0.077316, 0.000992, -0.077316, 0.997006),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992912, -0.091182, -0.076232, 0.090915, 0.995834, -0.006969, 0.076550, -0.000003, 0.997066),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.217, Data = {
+
+              ["Head"] = CFrame.new(-0.580363, 9.066271, -63.627403, 0.231605, -0.971473, -0.050991, 0.972577, 0.230084, 0.033994, -0.021292, -0.057466, 0.998120),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.000201, -0.000003, 0.995933, -0.068923, -0.058035, 0.068756, 0.997622, -0.004891, 0.058231, 0.000891, 0.998303),
+
+              ["LeftHand"] = CFrame.new(0.000505, -0.007986, -0.000000, 1.000000, -0.000003, -0.001014, 0.000085, 0.996710, 0.081049, 0.001010, -0.081047, 0.996710),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.009343, 0.001303, 1.000000, -0.000000, -0.000000, 0.000000, 0.986262, -0.165190, 0.000000, 0.165189, 0.986262),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.001641, 0.000101, 1.000000, -0.000000, 0.000000, 0.000000, 0.999946, 0.010429, -0.000000, -0.010447, 0.999946),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000507, 1.000000, -0.000083, 0.001011, -0.000003, 0.996406, 0.084712, -0.001014, -0.084712, 0.996405),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995933, 0.069359, 0.057512, -0.068924, 0.997576, -0.009524, -0.058034, 0.005529, 0.998299),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.006273, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(0.000000, -0.000324, -0.000103, 0.992905, 0.090960, 0.076591, -0.091228, 0.995830, 0.000000, -0.076267, -0.006976, 0.997063),
+
+              ["RightHand"] = CFrame.new(-0.000505, -0.007152, 0.000000, 1.000000, 0.000003, 0.000992, -0.000079, 0.997098, 0.076128, -0.000988, -0.076127, 0.997098),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.009098, 0.001166, 1.000000, 0.000000, 0.000000, -0.000000, 0.987888, -0.155166, -0.000000, 0.155166, 0.987888),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, -0.000323, -0.000001, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, -0.000008, -0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000496, 1.000000, 0.000076, -0.000989, 0.000003, 0.996834, 0.079511, 0.000992, -0.079510, 0.996834),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992905, -0.091228, -0.076269, 0.090960, 0.995830, -0.006980, 0.076588, 0.000000, 0.997063),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.233, Data = {
+
+              ["Head"] = CFrame.new(-0.653853, 10.214306, -62.976173, 0.187018, -0.980633, 0.058167, 0.979280, 0.190787, 0.067899, -0.077682, 0.044263, 0.995995),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.000375, -0.000003, 0.995928, -0.068960, -0.058066, 0.068665, 0.997615, -0.007065, 0.058412, 0.003060, 0.998288),
+
+              ["LeftHand"] = CFrame.new(0.000505, -0.007904, -0.000000, 1.000000, -0.000003, -0.001014, 0.000088, 0.996525, 0.083300, 0.001009, -0.083299, 0.996524),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.009880, 0.001380, 1.000000, -0.000000, -0.000000, 0.000000, 0.985488, -0.169745, 0.000000, 0.169745, 0.985488),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.002277, 0.000096, 1.000000, -0.000000, -0.000000, 0.000000, 0.999886, 0.015066, -0.000000, -0.015084, 0.999887),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000507, 1.000000, -0.000085, 0.001010, -0.000003, 0.996203, 0.087064, -0.001014, -0.087064, 0.996202),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995928, 0.069538, 0.057372, -0.068960, 0.997547, -0.011981, -0.058064, 0.007984, 0.998281),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.007206, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, -0.000030, -0.000103, 0.992898, 0.091008, 0.076631, -0.091277, 0.995826, 0.000004, -0.076307, -0.006987, 0.997060),
+
+              ["RightHand"] = CFrame.new(-0.000504, -0.007045, -0.000000, 1.000000, 0.000003, 0.000991, -0.000081, 0.996903, 0.078637, -0.000987, -0.078636, 0.996903),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.009711, 0.001248, 1.000000, 0.000000, 0.000000, -0.000000, 0.987077, -0.160246, -0.000000, 0.160246, 0.987077),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, -0.000030, 0.000003, 1.000000, -0.000000, 0.000000, -0.000000, 1.000000, -0.000008, -0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000495, 1.000000, 0.000078, -0.000988, 0.000003, 0.996622, 0.082130, 0.000991, -0.082130, 0.996621),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992898, -0.091276, -0.076309, 0.091008, 0.995826, -0.006991, 0.076629, 0.000004, 0.997060),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.250, Data = {
+
+              ["Head"] = CFrame.new(-0.728520, 11.380735, -62.281055, 0.133522, -0.976706, 0.167977, 0.982430, 0.152747, 0.107236, -0.130397, 0.150708, 0.979941),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.000571, -0.000003, 0.995924, -0.068999, -0.058099, 0.068557, 0.997601, -0.009567, 0.058617, 0.005555, 0.998265),
+
+              ["LeftHand"] = CFrame.new(0.000505, -0.007819, -0.000000, 1.000000, -0.000003, -0.001013, 0.000090, 0.996324, 0.085667, 0.001008, -0.085666, 0.996323),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000501, 0.010444, 0.001464, 1.000000, -0.000000, -0.000000, -0.000000, 0.984652, -0.174530, 0.000000, 0.174530, 0.984652),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.003004, 0.000088, 1.000000, -0.000000, -0.000000, -0.000000, 0.999792, 0.020399, 0.000000, -0.020417, 0.999792),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000506, 1.000000, -0.000087, 0.001010, -0.000003, 0.995984, 0.089537, -0.001013, -0.089537, 0.995983),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995924, 0.069739, 0.057207, -0.068999, 0.997507, -0.014806, -0.058097, 0.010807, 0.998253),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.008193, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.000171, -0.000103, 0.992890, 0.091059, 0.076674, -0.091170, 0.995833, -0.002059, -0.076538, -0.004935, 0.997054),
+
+              ["RightHand"] = CFrame.new(-0.000505, -0.006945, 0.000000, 1.000000, 0.000003, 0.000990, -0.000083, 0.996718, 0.080957, -0.000986, -0.080956, 0.996717),
+
+              ["RightLowerArm"] = CFrame.new(-0.000000, 0.010279, 0.001325, 1.000000, 0.000000, 0.000000, -0.000000, 0.986303, -0.164941, -0.000000, 0.164941, 0.986303),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, 0.000610, 0.000004, 1.000000, 0.000000, 0.000000, 0.000000, 0.999990, 0.004398, -0.000000, -0.004416, 0.999990),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000495, 1.000000, 0.000081, -0.000987, 0.000003, 0.996419, 0.084552, 0.000990, -0.084552, 0.996419),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992890, -0.091506, -0.076137, 0.091059, 0.995802, -0.009325, 0.076671, 0.002333, 0.997054),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.267, Data = {
+
+              ["Head"] = CFrame.new(-0.803776, 12.556362, -61.542656, 0.072040, -0.958757, 0.274947, 0.981511, 0.117156, 0.151362, -0.177331, 0.258960, 0.949470),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.000777, -0.000003, 0.995919, -0.069040, -0.058133, 0.068441, 0.997580, -0.012246, 0.058835, 0.008226, 0.998234),
+
+              ["LeftHand"] = CFrame.new(0.000505, -0.007730, -0.000000, 1.000000, -0.000003, -0.001012, 0.000092, 0.996108, 0.088143, 0.001007, -0.088142, 0.996107),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.011032, 0.001554, 1.000000, -0.000000, -0.000000, 0.000000, 0.983752, -0.179532, 0.000000, 0.179532, 0.983752),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.003777, 0.000076, 1.000000, -0.000000, -0.000000, 0.000000, 0.999659, 0.026109, 0.000000, -0.026127, 0.999659),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000506, 1.000000, -0.000090, 0.001009, -0.000003, 0.995748, 0.092123, -0.001012, -0.092123, 0.995747),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995919, 0.069954, 0.057029, -0.069040, 0.997454, -0.017832, -0.058132, 0.013830, 0.998213),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.009231, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.000367, -0.000103, 0.992881, 0.091112, 0.076719, -0.091039, 0.995837, -0.004463, -0.076802, -0.002542, 0.997043),
+
+              ["RightHand"] = CFrame.new(-0.000505, -0.006839, 0.000000, 1.000000, 0.000003, 0.000990, -0.000085, 0.996518, 0.083384, -0.000985, -0.083383, 0.996517),
+
+              ["RightLowerArm"] = CFrame.new(-0.000000, 0.010871, 0.001409, 1.000000, 0.000000, 0.000000, -0.000000, 0.985470, -0.169851, -0.000000, 0.169851, 0.985470),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, 0.001318, 0.000002, 1.000000, -0.000000, -0.000000, -0.000000, 0.999955, 0.009530, 0.000000, -0.009548, 0.999955),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000495, 1.000000, 0.000083, -0.000986, 0.000003, 0.996201, 0.087087, 0.000990, -0.087087, 0.996200),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992881, -0.091767, -0.075932, 0.091112, 0.995768, -0.012043, 0.076717, 0.005046, 0.997040),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.283, Data = {
+
+              ["Head"] = CFrame.new(-0.879032, 13.731987, -60.761570, 0.004063, -0.926767, 0.375615, 0.976238, 0.085058, 0.199308, -0.216661, 0.365880, 0.905091),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.000977, -0.000003, 0.995914, -0.069083, -0.058170, 0.068327, 0.997552, -0.014884, 0.059052, 0.010857, 0.998196),
+
+              ["LeftHand"] = CFrame.new(0.000505, -0.007629, -0.000000, 1.000000, -0.000003, -0.001011, 0.000095, 0.995851, 0.090998, 0.001006, -0.090997, 0.995851),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.011708, 0.001662, 1.000000, -0.000000, -0.000000, 0.000000, 0.982683, -0.185296, 0.000000, 0.185295, 0.982683),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.004536, 0.000061, 1.000000, -0.000000, 0.000000, 0.000000, 0.999496, 0.031732, -0.000000, -0.031751, 0.999496),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000505, 1.000000, -0.000093, 0.001007, -0.000003, 0.995467, 0.095105, -0.001011, -0.095105, 0.995467),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995914, 0.070167, 0.056855, -0.069083, 0.997394, -0.020812, -0.058168, 0.016808, 0.998165),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.010320, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.000570, -0.000103, 0.992873, 0.091168, 0.076766, -0.090900, 0.995835, -0.006991, -0.077080, -0.000027, 0.997025),
+
+              ["RightHand"] = CFrame.new(-0.000504, -0.006730, 0.000000, 1.000000, 0.000003, 0.000989, -0.000088, 0.996303, 0.085911, -0.000984, -0.085910, 0.996302),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.011488, 0.001498, 1.000000, 0.000000, 0.000000, -0.000000, 0.984576, -0.174959, -0.000000, 0.174958, 0.984576),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.002058, -0.000003, 1.000000, 0.000000, 0.000000, -0.000000, 0.999888, 0.014926, -0.000000, -0.014944, 0.999889),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000494, 1.000000, 0.000086, -0.000985, 0.000003, 0.995967, 0.089726, 0.000989, -0.089726, 0.995966),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992872, -0.092041, -0.075716, 0.091169, 0.995724, -0.014901, 0.076764, 0.007899, 0.997018),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.300, Data = {
+
+              ["Head"] = CFrame.new(-0.953699, 14.898418, -59.938400, -0.068491, -0.881651, 0.466905, 0.966584, 0.057242, 0.249879, -0.247033, 0.468417, 0.848269),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.001197, -0.000003, 0.995908, -0.069127, -0.058207, 0.068195, 0.997512, -0.017858, 0.059294, 0.013824, 0.998145),
+
+              ["LeftHand"] = CFrame.new(0.000505, -0.007536, -0.000000, 1.000000, -0.000003, -0.001011, 0.000098, 0.995605, 0.093650, 0.001005, -0.093648, 0.995605),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.012335, 0.001764, 1.000000, -0.000000, -0.000000, 0.000000, 0.981659, -0.190645, 0.000000, 0.190644, 0.981659),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.005385, 0.000041, 1.000000, 0.000000, 0.000000, 0.000000, 0.999274, 0.038073, 0.000000, -0.038091, 0.999275),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000505, 1.000000, -0.000096, 0.001006, -0.000003, 0.995199, 0.097875, -0.001010, -0.097875, 0.995198),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995908, 0.070404, 0.056655, -0.069128, 0.997315, -0.024173, -0.058205, 0.020166, 0.998101),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.011456, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.000794, -0.000103, 0.992863, 0.091227, 0.076816, -0.090739, 0.995826, -0.009838, -0.077389, 0.002808, 0.996997),
+
+              ["RightHand"] = CFrame.new(-0.000504, -0.006618, 0.000000, 1.000000, 0.000003, 0.000988, -0.000090, 0.996074, 0.088531, -0.000983, -0.088530, 0.996073),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.012125, 0.001594, 1.000000, 0.000000, 0.000000, -0.000000, 0.983621, -0.180249, -0.000000, 0.180249, 0.983621),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.002886, -0.000013, 1.000000, -0.000000, -0.000000, -0.000000, 0.999779, 0.021003, -0.000000, -0.021022, 0.999779),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000494, 1.000000, 0.000089, -0.000984, 0.000003, 0.995716, 0.092461, 0.000988, -0.092461, 0.995716),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992863, -0.092345, -0.075467, 0.091228, 0.995665, -0.018119, 0.076813, 0.011113, 0.996984),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.317, Data = {
+
+              ["Head"] = CFrame.new(-1.027189, 16.046455, -59.073742, -0.143494, -0.825125, 0.546424, 0.952763, 0.034161, 0.301786, -0.267678, 0.563917, 0.781247),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.001420, -0.000003, 0.995903, -0.069174, -0.058247, 0.068058, 0.997461, -0.020949, 0.059545, 0.016907, 0.998083),
+
+              ["LeftHand"] = CFrame.new(0.000505, -0.007440, 0.000000, 1.000000, -0.000003, -0.001010, 0.000100, 0.995344, 0.096386, 0.001004, -0.096385, 0.995344),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.012981, 0.001874, 1.000000, -0.000000, -0.000000, 0.000000, 0.980572, -0.196160, 0.000000, 0.196160, 0.980572),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.006263, 0.000015, 1.000000, -0.000000, 0.000000, 0.000000, 0.999002, 0.044658, -0.000000, -0.044676, 0.999002),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000505, 1.000000, -0.000099, 0.001005, -0.000003, 0.994913, 0.100734, -0.001010, -0.100734, 0.994913),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995903, 0.070649, 0.056447, -0.069174, 0.997221, -0.027664, -0.058245, 0.023654, 0.998022),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.012637, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.001025, -0.000103, 0.992854, 0.091288, 0.076867, -0.090565, 0.995808, -0.012857, -0.077715, 0.005813, 0.996958),
+
+              ["RightHand"] = CFrame.new(-0.000504, -0.006503, 0.000000, 1.000000, 0.000003, 0.000987, -0.000093, 0.995830, 0.091236, -0.000982, -0.091234, 0.995829),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.012783, 0.001696, 1.000000, 0.000000, 0.000000, -0.000000, 0.982605, -0.185708, -0.000000, 0.185708, 0.982605),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, 0.003758, -0.000027, 1.000000, 0.000000, -0.000000, -0.000000, 0.999623, 0.027447, 0.000000, -0.027466, 0.999623),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000493, 1.000000, 0.000091, -0.000983, 0.000003, 0.995450, 0.095285, 0.000987, -0.095285, 0.995450),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992854, -0.092664, -0.075201, 0.091289, 0.995592, -0.021531, 0.076865, 0.014520, 0.996936),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.333, Data = {
+
+              ["Head"] = CFrame.new(-1.098912, 17.166904, -58.168209, -0.218838, -0.759466, 0.612635, 0.935191, 0.015915, 0.353786, -0.278439, 0.650353, 0.706763),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.001634, -0.000003, 0.995897, -0.069223, -0.058287, 0.067926, 0.997403, -0.023955, 0.059791, 0.019905, 0.998012),
+
+              ["LeftHand"] = CFrame.new(0.000505, -0.007343, -0.000000, 1.000000, -0.000003, -0.001009, 0.000103, 0.995067, 0.099203, 0.001003, -0.099202, 0.995067),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.013644, 0.001989, 1.000000, -0.000000, -0.000000, 0.000000, 0.979420, -0.201834, 0.000000, 0.201834, 0.979420),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.007112, -0.000014, 1.000000, 0.000000, -0.000000, 0.000000, 0.998694, 0.051064, 0.000000, -0.051082, 0.998695),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000504, 1.000000, -0.000101, 0.001004, -0.000003, 0.994611, 0.103677, -0.001009, -0.103677, 0.994611),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995897, 0.070891, 0.056245, -0.069223, 0.997117, -0.031061, -0.058285, 0.027049, 0.997934),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.013861, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.001263, -0.000103, 0.992844, 0.091352, 0.076921, -0.090381, 0.995778, -0.016020, -0.078056, 0.008962, 0.996909),
+
+              ["RightHand"] = CFrame.new(-0.000504, -0.006376, -0.000000, 1.000000, 0.000003, 0.000986, -0.000096, 0.995544, 0.094304, -0.000981, -0.094303, 0.995543),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.013524, 0.001815, 1.000000, 0.000000, 0.000000, -0.000000, 0.981415, -0.191896, -0.000000, 0.191896, 0.981415),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, 0.004666, -0.000046, 1.000000, -0.000000, 0.000000, -0.000000, 0.999415, 0.034197, 0.000000, -0.034215, 0.999415),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000493, 1.000000, 0.000094, -0.000982, 0.000003, 0.995138, 0.098490, 0.000986, -0.098490, 0.995138),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992844, -0.092998, -0.074920, 0.091352, 0.995502, -0.025105, 0.076918, 0.018090, 0.996874),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.350, Data = {
+
+              ["Head"] = CFrame.new(-1.168281, 18.250559, -57.222393, -0.292630, -0.687229, 0.664894, 0.914404, 0.002276, 0.404796, -0.279701, 0.726437, 0.627739),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.001849, -0.000003, 0.995891, -0.069273, -0.058330, 0.067789, 0.997333, -0.027049, 0.060044, 0.022991, 0.997931),
+
+              ["LeftHand"] = CFrame.new(0.000505, -0.007243, 0.000000, 1.000000, -0.000003, -0.001008, 0.000106, 0.994775, 0.102092, 0.001002, -0.102091, 0.994775),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.014323, 0.002111, 1.000000, -0.000000, -0.000000, -0.000000, 0.978204, -0.207646, 0.000000, 0.207646, 0.978204),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.007981, -0.000049, 1.000000, -0.000000, 0.000000, 0.000000, 0.998335, 0.057658, -0.000000, -0.057676, 0.998336),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000504, 1.000000, -0.000104, 0.001003, -0.000003, 0.994292, 0.106695, -0.001008, -0.106695, 0.994291),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995891, 0.071139, 0.056037, -0.069273, 0.996999, -0.034559, -0.058328, 0.030544, 0.997831),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.015127, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.001489, -0.000103, 0.992833, 0.091418, 0.076976, -0.090205, 0.995740, -0.019107, -0.078391, 0.012035, 0.996850),
+
+              ["RightHand"] = CFrame.new(-0.000504, -0.006257, 0.000000, 1.000000, 0.000003, 0.000985, -0.000098, 0.995271, 0.097139, -0.000980, -0.097137, 0.995270),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.014210, 0.001929, 1.000000, 0.000000, 0.000000, -0.000000, 0.980281, -0.197607, -0.000000, 0.197607, 0.980281),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.005548, -0.000069, 1.000000, -0.000000, 0.000000, -0.000000, 0.999167, 0.040786, -0.000000, -0.040804, 0.999168),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000493, 1.000000, 0.000097, -0.000981, 0.000003, 0.994841, 0.101450, 0.000985, -0.101450, 0.994840),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992833, -0.093327, -0.074648, 0.091418, 0.995402, -0.028596, 0.076974, 0.021576, 0.996800),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.367, Data = {
+
+              ["Head"] = CFrame.new(-1.234706, 19.288240, -56.236893, -0.363332, -0.610968, 0.703355, 0.890988, -0.007241, 0.453968, -0.272267, 0.791623, 0.546996),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.002065, -0.000003, 0.995885, -0.069324, -0.058373, 0.067648, 0.997251, -0.030225, 0.060305, 0.026158, 0.997837),
+
+              ["LeftHand"] = CFrame.new(0.000505, -0.007133, -0.000000, 1.000000, -0.000003, -0.001007, 0.000109, 0.994435, 0.105352, 0.001001, -0.105350, 0.994435),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.015087, 0.002253, 1.000000, -0.000000, -0.000000, 0.000000, 0.976790, -0.214198, 0.000000, 0.214198, 0.976790),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.008869, -0.000089, 1.000000, -0.000000, 0.000000, 0.000000, 0.997922, 0.064421, -0.000000, -0.064440, 0.997923),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000503, 1.000000, -0.000108, 0.001001, -0.000003, 0.993921, 0.110100, -0.001007, -0.110100, 0.993920),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995885, 0.071393, 0.055823, -0.069325, 0.996864, -0.038148, -0.058371, 0.034130, 0.997712),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.016431, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.001733, -0.000103, 0.992823, 0.091486, 0.077034, -0.090005, 0.995687, -0.022496, -0.078755, 0.015409, 0.996775),
+
+              ["RightHand"] = CFrame.new(-0.000504, -0.006136, 0.000000, 1.000000, 0.000003, 0.000985, -0.000101, 0.994984, 0.100039, -0.000979, -0.100038, 0.994983),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.014910, 0.002048, 1.000000, 0.000000, 0.000000, -0.000000, 0.979086, -0.203445, -0.000000, 0.203445, 0.979086),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, 0.006509, -0.000100, 1.000000, 0.000000, 0.000000, -0.000000, 0.998846, 0.048017, 0.000000, -0.048036, 0.998847),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000492, 1.000000, 0.000100, -0.000980, 0.000003, 0.994527, 0.104479, 0.000984, -0.104479, 0.994527),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992823, -0.093683, -0.074344, 0.091486, 0.995278, -0.032427, 0.077031, 0.025402, 0.996705),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.383, Data = {
+
+              ["Head"] = CFrame.new(-1.297599, 20.270739, -55.212318, -0.429825, -0.533015, 0.728798, 0.865505, -0.013299, 0.500724, -0.257201, 0.846002, 0.467043),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.002283, -0.000003, 0.995879, -0.069378, -0.058418, 0.067504, 0.997157, -0.033473, 0.060571, 0.029398, 0.997731),
+
+              ["LeftHand"] = CFrame.new(0.000505, -0.007032, -0.000000, 1.000000, -0.000003, -0.001006, 0.000112, 0.994114, 0.108345, 0.000999, -0.108343, 0.994113),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.015786, 0.002387, 1.000000, -0.000000, -0.000000, 0.000000, 0.975453, -0.220209, 0.000000, 0.220208, 0.975453),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.009772, -0.000134, 1.000000, -0.000000, 0.000000, 0.000000, 0.997451, 0.071339, 0.000000, -0.071357, 0.997452),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000503, 1.000000, -0.000111, 0.001000, -0.000003, 0.993569, 0.113228, -0.001006, -0.113228, 0.993569),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995879, 0.071653, 0.055602, -0.069378, 0.996713, -0.041820, -0.058416, 0.037800, 0.997577),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.017773, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.001963, -0.000103, 0.992812, 0.091556, 0.077092, -0.089814, 0.995625, -0.025773, -0.079111, 0.018671, 0.996691),
+
+              ["RightHand"] = CFrame.new(-0.000504, -0.006015, 0.000000, 1.000000, 0.000003, 0.000984, -0.000104, 0.994680, 0.103013, -0.000978, -0.103012, 0.994680),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.015623, 0.002175, 1.000000, 0.000000, 0.000000, -0.000000, 0.977824, -0.209426, -0.000000, 0.209426, 0.977824),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.007433, -0.000134, 1.000000, -0.000000, 0.000000, -0.000000, 0.998485, 0.055009, 0.000000, -0.055027, 0.998486),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000492, 1.000000, 0.000103, -0.000979, 0.000003, 0.994196, 0.107584, 0.000984, -0.107584, 0.994196),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992812, -0.094031, -0.074052, 0.091556, 0.995144, -0.036133, 0.077090, 0.029102, 0.996600),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.400, Data = {
+
+              ["Head"] = CFrame.new(-1.356372, 21.188864, -54.149261, -0.491403, -0.455342, 0.742419, 0.838438, -0.016654, 0.544743, -0.235680, 0.890161, 0.389960),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.002514, -0.000003, 0.995872, -0.069433, -0.058464, 0.067342, 0.997043, -0.037008, 0.060857, 0.032924, 0.997603),
+
+              ["LeftHand"] = CFrame.new(0.000505, -0.006930, -0.000000, 1.000000, -0.000003, -0.001005, 0.000115, 0.993777, 0.111390, 0.000998, -0.111389, 0.993776),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.016497, 0.002527, 1.000000, -0.000000, -0.000000, 0.000000, 0.974054, -0.226318, 0.000000, 0.226318, 0.974054),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.010748, -0.000190, 1.000000, -0.000000, -0.000000, 0.000000, 0.996884, 0.078863, -0.000000, -0.078881, 0.996885),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000502, 1.000000, -0.000114, 0.000999, -0.000003, 0.993201, 0.116410, -0.001005, -0.116410, 0.993201),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995872, 0.071932, 0.055358, -0.069433, 0.996534, -0.045816, -0.058462, 0.041792, 0.997415),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.019149, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.002193, -0.000103, 0.992800, 0.091627, 0.077153, -0.089619, 0.995550, -0.029118, -0.079473, 0.022001, 0.996594),
+
+              ["RightHand"] = CFrame.new(-0.000504, -0.005911, 0.000000, 1.000000, 0.000002, 0.000983, -0.000107, 0.994352, 0.106130, -0.000976, -0.106129, 0.994352),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.016350, 0.002312, 1.000000, 0.000000, 0.000000, -0.000000, 0.976462, -0.215689, -0.000000, 0.215689, 0.976462),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.008370, -0.000175, 1.000000, 0.000000, 0.000000, -0.000000, 0.998066, 0.062144, -0.000000, -0.062162, 0.998067),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000491, 1.000000, 0.000106, -0.000977, 0.000003, 0.993838, 0.110840, 0.000983, -0.110840, 0.993838),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992800, -0.094385, -0.073752, 0.091628, 0.994993, -0.039916, 0.077150, 0.032880, 0.996478),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.417, Data = {
+
+              ["Head"] = CFrame.new(-1.410434, 22.033413, -53.048325, -0.547732, -0.379500, 0.745633, 0.810162, -0.018090, 0.585927, -0.208871, 0.925015, 0.317365),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.002731, -0.000003, 0.995865, -0.069489, -0.058511, 0.067190, 0.996922, -0.040382, 0.061134, 0.036289, 0.997470),
+
+              ["LeftHand"] = CFrame.new(0.000504, -0.006827, -0.000000, 1.000000, -0.000003, -0.001004, 0.000118, 0.993425, 0.114484, 0.000997, -0.114482, 0.993425),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.017217, 0.002674, 1.000000, -0.000000, -0.000000, 0.000000, 0.972593, -0.232516, 0.000000, 0.232515, 0.972593),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.011675, -0.000248, 1.000000, -0.000000, 0.000000, 0.000000, 0.996290, 0.086043, -0.000000, -0.086061, 0.996291),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000502, 1.000000, -0.000117, 0.000998, -0.000003, 0.992817, 0.119642, -0.001004, -0.119641, 0.992817),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995865, 0.072202, 0.055127, -0.069489, 0.996347, -0.049631, -0.058510, 0.045604, 0.997245),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.020559, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.002423, -0.000103, 0.992789, 0.091701, 0.077215, -0.089419, 0.995463, -0.032525, -0.079843, 0.025393, 0.996484),
+
+              ["RightHand"] = CFrame.new(-0.000504, -0.005797, -0.000000, 1.000000, 0.000002, 0.000982, -0.000110, 0.993976, 0.109598, -0.000975, -0.109597, 0.993976),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.017157, 0.002468, 1.000000, 0.000000, 0.000000, -0.000000, 0.974899, -0.222649, -0.000000, 0.222649, 0.974899),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, 0.009320, -0.000221, 1.000000, 0.000000, 0.000000, -0.000000, 0.997587, 0.069409, 0.000000, -0.069427, 0.997588),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000491, 1.000000, 0.000110, -0.000976, 0.000003, 0.993428, 0.114462, 0.000982, -0.114462, 0.993427),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992789, -0.094746, -0.073445, 0.091701, 0.994824, -0.043770, 0.077212, 0.036729, 0.996338),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.433, Data = {
+
+              ["Head"] = CFrame.new(-1.459199, 22.795195, -51.910110, -0.598772, -0.306614, 0.739905, 0.780924, -0.018366, 0.624356, -0.177847, 0.951657, 0.250440),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.002947, -0.000003, 0.995859, -0.069546, -0.058560, 0.067036, 0.996789, -0.043801, 0.061415, 0.039699, 0.997322),
+
+              ["LeftHand"] = CFrame.new(0.000504, -0.006724, 0.000000, 1.000000, -0.000003, -0.001003, 0.000121, 0.993059, 0.117617, 0.000995, -0.117615, 0.993059),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.017944, 0.002827, 1.000000, -0.000000, -0.000000, -0.000000, 0.971072, -0.238787, 0.000000, 0.238787, 0.971072),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.012611, -0.000312, 1.000000, -0.000000, 0.000000, 0.000000, 0.995635, 0.093317, -0.000000, -0.093335, 0.995637),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000501, 1.000000, -0.000120, 0.000996, -0.000003, 0.992417, 0.122916, -0.001003, -0.122916, 0.992417),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995859, 0.072475, 0.054892, -0.069547, 0.996143, -0.053497, -0.058558, 0.049468, 0.997058),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.021998, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.002665, -0.000103, 0.992777, 0.091776, 0.077278, -0.089197, 0.995356, -0.036206, -0.080238, 0.029058, 0.996352),
+
+              ["RightHand"] = CFrame.new(-0.000504, -0.005692, -0.000000, 1.000000, 0.000002, 0.000981, -0.000113, 0.993620, 0.112782, -0.000974, -0.112780, 0.993619),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.017896, 0.002616, 1.000000, 0.000000, 0.000000, -0.000000, 0.973419, -0.229032, -0.000000, 0.229032, 0.973419),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.010339, -0.000277, 1.000000, -0.000000, 0.000000, -0.000000, 0.997010, 0.077255, -0.000000, -0.077273, 0.997011),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000490, 1.000000, 0.000113, -0.000975, 0.000003, 0.993039, 0.117787, 0.000981, -0.117787, 0.993038),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992777, -0.095130, -0.073109, 0.091777, 0.994625, -0.047932, 0.077276, 0.040886, 0.996172),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.450, Data = {
+
+              ["Head"] = CFrame.new(-1.502076, 23.465010, -50.735218, -0.644702, -0.237424, 0.726629, 0.750838, -0.018195, 0.660236, -0.143535, 0.971236, 0.189997),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.003161, -0.000003, 0.995852, -0.069605, -0.058609, 0.066879, 0.996641, -0.047258, 0.061698, 0.043147, 0.997162),
+
+              ["LeftHand"] = CFrame.new(0.000504, -0.006621, 0.000000, 1.000000, -0.000003, -0.001002, 0.000124, 0.992679, 0.120786, 0.000994, -0.120784, 0.992678),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.018678, 0.002985, 1.000000, -0.000000, -0.000000, 0.000000, 0.969492, -0.245121, 0.000000, 0.245121, 0.969492),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.013552, -0.000382, 1.000000, -0.000000, 0.000000, 0.000000, 0.994918, 0.100666, -0.000000, -0.100684, 0.994920),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000501, 1.000000, -0.000124, 0.000995, -0.000003, 0.992002, 0.126227, -0.001002, -0.126227, 0.992001),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995852, 0.072751, 0.054654, -0.069605, 0.995921, -0.057407, -0.058607, 0.053374, 0.996854),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.023467, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.002892, -0.000103, 0.992765, 0.091853, 0.077343, -0.088989, 0.995240, -0.039715, -0.080619, 0.032551, 0.996213),
+
+              ["RightHand"] = CFrame.new(-0.000503, -0.005587, 0.000000, 1.000000, 0.000002, 0.000980, -0.000116, 0.993249, 0.116001, -0.000972, -0.116000, 0.993249),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.018642, 0.002771, 1.000000, 0.000000, 0.000000, -0.000000, 0.971880, -0.235478, -0.000000, 0.235478, 0.971880),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.011307, -0.000337, 1.000000, 0.000000, 0.000000, -0.000000, 0.996402, 0.084733, -0.000000, -0.084751, 0.996404),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000490, 1.000000, 0.000116, -0.000973, 0.000003, 0.992634, 0.121150, 0.000980, -0.121150, 0.992634),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992765, -0.095501, -0.072790, 0.091854, 0.994418, -0.051903, 0.077341, 0.044851, 0.995996),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.467, Data = {
+
+              ["Head"] = CFrame.new(-1.538477, 24.033661, -49.524250, -0.685841, -0.172344, 0.707050, 0.719888, -0.018228, 0.693851, -0.106693, 0.984868, 0.136570),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.003373, -0.000003, 0.995844, -0.069665, -0.058660, 0.066721, 0.996480, -0.050744, 0.061985, 0.046624, 0.996987),
+
+              ["LeftHand"] = CFrame.new(0.000504, -0.006516, -0.000000, 1.000000, -0.000003, -0.001001, 0.000127, 0.992285, 0.123983, 0.000993, -0.123982, 0.992284),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.019417, 0.003150, 1.000000, -0.000000, -0.000000, 0.000000, 0.967856, -0.251506, 0.000000, 0.251506, 0.967856),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.014497, -0.000458, 1.000000, -0.000000, -0.000000, 0.000000, 0.994141, 0.108076, 0.000000, -0.108094, 0.994143),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000500, 1.000000, -0.000127, 0.000994, -0.000003, 0.991571, 0.129568, -0.001001, -0.129568, 0.991570),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995844, 0.073030, 0.054412, -0.069665, 0.995682, -0.061351, -0.058658, 0.057315, 0.996632),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.024961, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.003116, -0.000103, 0.992752, 0.091932, 0.077409, -0.088778, 0.995112, -0.043258, -0.081003, 0.036078, 0.996060),
+
+              ["RightHand"] = CFrame.new(-0.000503, -0.005482, -0.000000, 1.000000, 0.000002, 0.000979, -0.000119, 0.992865, 0.119250, -0.000971, -0.119248, 0.992864),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.019392, 0.002931, 1.000000, 0.000000, 0.000000, -0.000000, 0.970282, -0.241975, -0.000000, 0.241975, 0.970282),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.012278, -0.000402, 1.000000, 0.000000, 0.000000, -0.000000, 0.995731, 0.092281, -0.000000, -0.092299, 0.995733),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000489, 1.000000, 0.000120, -0.000972, 0.000003, 0.992214, 0.124544, 0.000979, -0.124544, 0.992214),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992752, -0.095875, -0.072467, 0.091932, 0.994194, -0.055912, 0.077407, 0.048855, 0.995802),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.483, Data = {
+
+              ["Head"] = CFrame.new(-1.567814, 24.491955, -48.277809, -0.722594, -0.111530, 0.682216, 0.687929, -0.019064, 0.725528, -0.067912, 0.993578, 0.090500),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.003583, -0.000003, 0.995837, -0.069726, -0.058711, 0.066561, 0.996306, -0.054254, 0.062274, 0.050123, 0.996800),
+
+              ["LeftHand"] = CFrame.new(0.000504, -0.006405, -0.000000, 1.000000, -0.000003, -0.001000, 0.000130, 0.991839, 0.127498, 0.000991, -0.127496, 0.991838),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.020226, 0.003335, 1.000000, -0.000000, -0.000000, -0.000000, 0.966008, -0.258513, 0.000000, 0.258513, 0.966008),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.015443, -0.000541, 1.000000, -0.000000, 0.000000, 0.000000, 0.993302, 0.115530, -0.000000, -0.115547, 0.993304),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000500, 1.000000, -0.000131, 0.000992, -0.000003, 0.991084, 0.133240, -0.001000, -0.133240, 0.991083),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995837, 0.073310, 0.054168, -0.069726, 0.995425, -0.065320, -0.058709, 0.061282, 0.996393),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.026480, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.003338, -0.000103, 0.992740, 0.092012, 0.077477, -0.088565, 0.994969, -0.046827, -0.081391, 0.039630, 0.995894),
+
+              ["RightHand"] = CFrame.new(-0.000503, -0.005378, 0.000000, 1.000000, 0.000002, 0.000978, -0.000122, 0.992466, 0.122523, -0.000970, -0.122521, 0.992465),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.020146, 0.003097, 1.000000, 0.000000, 0.000000, -0.000000, 0.968629, -0.248513, -0.000000, 0.248513, 0.968629),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.013251, -0.000474, 1.000000, 0.000000, 0.000000, -0.000000, 0.994998, 0.099879, -0.000000, -0.099897, 0.995000),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000489, 1.000000, 0.000123, -0.000970, 0.000002, 0.991779, 0.127962, 0.000978, -0.127962, 0.991779),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992739, -0.096252, -0.072140, 0.092012, 0.993951, -0.059951, 0.077474, 0.052888, 0.995591),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.500, Data = {
+
+              ["Head"] = CFrame.new(-1.589498, 24.830696, -46.996490, -0.755393, -0.054933, 0.652965, 0.654689, -0.021257, 0.755599, -0.027627, 0.998264, 0.052021),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.003777, -0.000003, 0.995830, -0.069788, -0.058763, 0.066414, 0.996131, -0.057542, 0.062548, 0.053403, 0.996612),
+
+              ["LeftHand"] = CFrame.new(0.000504, -0.006302, -0.000000, 1.000000, -0.000003, -0.000999, 0.000133, 0.991420, 0.130717, 0.000990, -0.130715, 0.991419),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.020966, 0.003509, 1.000000, -0.000000, -0.000000, 0.000000, 0.964270, -0.264922, 0.000000, 0.264922, 0.964270),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.016326, -0.000623, 1.000000, -0.000000, -0.000000, 0.000000, 0.992465, 0.122512, -0.000000, -0.122529, 0.992467),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000499, 1.000000, -0.000134, 0.000991, -0.000003, 0.990626, 0.136604, -0.000999, -0.136604, 0.990625),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995830, 0.073577, 0.053942, -0.069788, 0.995169, -0.069043, -0.058761, 0.065001, 0.996154),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.028021, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.003557, -0.000103, 0.992727, 0.092093, 0.077545, -0.088349, 0.994813, -0.050414, -0.081781, 0.043201, 0.995713),
+
+              ["RightHand"] = CFrame.new(-0.000504, -0.005273, -0.000000, 1.000000, 0.000002, 0.000977, -0.000125, 0.992054, 0.125814, -0.000968, -0.125813, 0.992053),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.020901, 0.003268, 1.000000, 0.000000, 0.000000, -0.000000, 0.966920, -0.255079, -0.000000, 0.255079, 0.966920),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, 0.014225, -0.000552, 1.000000, 0.000000, 0.000000, -0.000000, 0.994202, 0.107512, -0.000000, -0.107530, 0.994204),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000001, -0.000488, 1.000000, 0.000126, -0.000969, 0.000002, 0.991329, 0.131400, 0.000977, -0.131400, 0.991329),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992727, -0.096630, -0.071810, 0.092093, 0.993690, -0.064010, 0.077543, 0.056942, 0.995362),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.517, Data = {
+
+              ["Head"] = CFrame.new(-1.602940, 25.040682, -45.680897, -0.784667, -0.002353, 0.619913, 0.619762, -0.025339, 0.784381, 0.013862, 0.999676, 0.021341),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.003982, -0.000003, 0.995822, -0.069851, -0.058816, 0.066251, 0.995932, -0.061078, 0.062840, 0.056929, 0.996399),
+
+              ["LeftHand"] = CFrame.new(0.000504, -0.006200, -0.000000, 1.000000, -0.000003, -0.000998, 0.000136, 0.990989, 0.133949, 0.000989, -0.133947, 0.990988),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.021706, 0.003689, 1.000000, -0.000000, -0.000000, 0.000000, 0.962481, -0.271349, 0.000000, 0.271349, 0.962481),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.017271, -0.000717, 1.000000, -0.000000, -0.000000, 0.000000, 0.991510, 0.130015, -0.000000, -0.130032, 0.991512),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000499, 1.000000, -0.000137, 0.000989, -0.000003, 0.990154, 0.139981, -0.000998, -0.139981, 0.990154),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995822, 0.073860, 0.053694, -0.069851, 0.994879, -0.073044, -0.058814, 0.068999, 0.995882),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.029583, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.003773, -0.000103, 0.992714, 0.092176, 0.077615, -0.088133, 0.994643, -0.054011, -0.082173, 0.046781, 0.995519),
+
+              ["RightHand"] = CFrame.new(-0.000503, -0.005169, -0.000000, 1.000000, 0.000002, 0.000976, -0.000128, 0.991629, 0.129118, -0.000967, -0.129117, 0.991629),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.021659, 0.003444, 1.000000, 0.000000, 0.000000, -0.000000, 0.965160, -0.261662, -0.000000, 0.261662, 0.965160),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, 0.015196, -0.000637, 1.000000, 0.000000, 0.000000, -0.000000, 0.993345, 0.115164, 0.000000, -0.115181, 0.993347),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000002, -0.000488, 1.000000, 0.000129, -0.000968, 0.000002, 0.990866, 0.134852, 0.000976, -0.134852, 0.990865),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992714, -0.097010, -0.071478, 0.092176, 0.993412, -0.068082, 0.077612, 0.061008, 0.995116),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.533, Data = {
+
+              ["Head"] = CFrame.new(-1.607552, 25.112722, -44.331635, -0.810807, 0.046525, 0.583462, 0.582594, -0.031840, 0.812139, 0.056362, 0.998410, -0.001289),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.004184, -0.000003, 0.995815, -0.069914, -0.058870, 0.066088, 0.995719, -0.064617, 0.063132, 0.060459, 0.996172),
+
+              ["LeftHand"] = CFrame.new(0.000504, -0.006097, -0.000000, 1.000000, -0.000003, -0.000997, 0.000139, 0.990545, 0.137191, 0.000987, -0.137189, 0.990544),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.022448, 0.003873, 1.000000, -0.000000, -0.000000, 0.000000, 0.960643, -0.277786, 0.000000, 0.277786, 0.960643),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.018214, -0.000817, 1.000000, -0.000000, -0.000000, 0.000000, 0.990497, 0.137518, -0.000000, -0.137535, 0.990499),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000498, 1.000000, -0.000140, 0.000988, -0.000003, 0.989669, 0.143370, -0.000997, -0.143369, 0.989669),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995815, 0.074143, 0.053445, -0.069915, 0.994572, -0.077049, -0.058868, 0.073001, 0.995594),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.031161, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.003972, -0.000103, 0.992700, 0.092259, 0.077685, -0.087935, 0.994472, -0.057376, -0.082544, 0.050130, 0.995326),
+
+              ["RightHand"] = CFrame.new(-0.000503, -0.005066, 0.000000, 1.000000, 0.000002, 0.000975, -0.000131, 0.991193, 0.132430, -0.000966, -0.132429, 0.991192),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.022416, 0.003626, 1.000000, 0.000000, 0.000000, -0.000000, 0.963349, -0.268250, -0.000000, 0.268251, 0.963349),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.016102, -0.000721, 1.000000, 0.000000, -0.000000, -0.000000, 0.992489, 0.122318, 0.000000, -0.122335, 0.992491),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000001, -0.000487, 1.000000, 0.000133, -0.000966, 0.000002, 0.990389, 0.138312, 0.000975, -0.138312, 0.990388),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992700, -0.097372, -0.071170, 0.092259, 0.993135, -0.071894, 0.077682, 0.064813, 0.994870),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.550, Data = {
+
+              ["Head"] = CFrame.new(-1.604886, 25.055227, -42.949795, -0.833853, 0.094294, 0.543873, 0.542805, -0.038890, 0.838958, 0.100260, 0.994784, -0.018755),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.004382, -0.000003, 0.995807, -0.069979, -0.058924, 0.065925, 0.995494, -0.068155, 0.063424, 0.063986, 0.995933),
+
+              ["LeftHand"] = CFrame.new(0.000504, -0.005997, -0.000000, 1.000000, -0.000003, -0.000997, 0.000142, 0.990090, 0.140437, 0.000986, -0.140436, 0.990089),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.023188, 0.004063, 1.000000, -0.000000, -0.000000, 0.000000, 0.958758, -0.284224, 0.000000, 0.284224, 0.958758),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.019151, -0.000922, 1.000000, -0.000000, -0.000000, 0.000000, 0.989427, 0.145012, -0.000000, -0.145029, 0.989430),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000498, 1.000000, -0.000144, 0.000986, -0.000003, 0.989172, 0.146763, -0.000996, -0.146763, 0.989171),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995807, 0.074426, 0.053195, -0.069979, 0.994249, -0.081053, -0.058922, 0.077001, 0.995289),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.032756, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004181, -0.000103, 0.992687, 0.092344, 0.077756, -0.087716, 0.994277, -0.060978, -0.082937, 0.053715, 0.995106),
+
+              ["RightHand"] = CFrame.new(-0.000503, -0.004962, -0.000000, 1.000000, 0.000002, 0.000974, -0.000134, 0.990744, 0.135746, -0.000964, -0.135744, 0.990743),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.023172, 0.003812, 1.000000, 0.000000, 0.000000, -0.000000, 0.961491, -0.274837, -0.000000, 0.274837, 0.961491),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017066, -0.000817, 1.000000, 0.000000, 0.000000, -0.000000, 0.991516, 0.129970, 0.000000, -0.129988, 0.991518),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000001, -0.000487, 1.000000, 0.000136, -0.000965, 0.000002, 0.989899, 0.141776, 0.000974, -0.141776, 0.989898),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992687, -0.097752, -0.070835, 0.092344, 0.992824, -0.075972, 0.077754, 0.068886, 0.994591),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.567, Data = {
+
+              ["Head"] = CFrame.new(-1.597122, 24.887257, -41.538483, -0.853295, 0.143057, 0.501420, 0.500642, -0.044031, 0.864534, 0.145756, 0.988734, -0.034049),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.004577, -0.000003, 0.995799, -0.070044, -0.058979, 0.065761, 0.995257, -0.071683, 0.063716, 0.067505, 0.995682),
+
+              ["LeftHand"] = CFrame.new(0.000504, -0.005895, -0.000000, 1.000000, -0.000003, -0.000995, 0.000145, 0.989624, 0.143684, 0.000984, -0.143682, 0.989623),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.023927, 0.004256, 1.000000, -0.000000, -0.000000, 0.000000, 0.956829, -0.290651, 0.000000, 0.290651, 0.956829),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.020083, -0.001033, 1.000000, -0.000000, 0.000000, 0.000000, 0.988304, 0.152482, -0.000000, -0.152499, 0.988306),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000497, 1.000000, -0.000147, 0.000985, -0.000003, 0.988662, 0.150155, -0.000995, -0.150155, 0.988662),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995799, 0.074708, 0.052945, -0.070044, 0.993911, -0.085047, -0.058977, 0.080993, 0.994969),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.034365, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004386, -0.000103, 0.992673, 0.092429, 0.077828, -0.087497, 0.994070, -0.064573, -0.083330, 0.057293, 0.994873),
+
+              ["RightHand"] = CFrame.new(-0.000503, -0.004861, -0.000000, 1.000000, 0.000002, 0.000973, -0.000137, 0.990284, 0.139060, -0.000963, -0.139058, 0.990284),
+
+              ["RightLowerArm"] = CFrame.new(0.000001, 0.023925, 0.004003, 1.000000, 0.000000, 0.000000, -0.000000, 0.959587, -0.281411, -0.000000, 0.281412, 0.959587),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.018024, -0.000918, 1.000000, 0.000000, -0.000000, -0.000000, 0.990485, 0.137602, -0.000000, -0.137620, 0.990488),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000001, -0.000486, 1.000000, 0.000139, -0.000963, 0.000002, 0.989397, 0.145238, 0.000973, -0.145238, 0.989396),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992673, -0.098132, -0.070499, 0.092429, 0.992496, -0.080043, 0.077825, 0.072951, 0.994295),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.583, Data = {
+
+              ["Head"] = CFrame.new(-1.584613, 24.615578, -40.101299, -0.868708, 0.192430, 0.456418, 0.456424, -0.046965, 0.888522, 0.192414, 0.980186, -0.047031),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.004769, -0.000003, 0.995791, -0.070110, -0.059034, 0.065597, 0.995009, -0.075197, 0.064008, 0.071009, 0.995420),
+
+              ["LeftHand"] = CFrame.new(0.000504, -0.005796, 0.000000, 1.000000, -0.000003, -0.000994, 0.000148, 0.989148, 0.146924, 0.000983, -0.146923, 0.989147),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.024663, 0.004454, 1.000000, 0.000000, -0.000000, 0.000000, 0.954860, -0.297058, 0.000000, 0.297058, 0.954860),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.021007, -0.001149, 1.000000, -0.000000, -0.000000, 0.000000, 0.987128, 0.159915, -0.000000, -0.159932, 0.987131),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000497, 1.000000, -0.000150, 0.000983, -0.000003, 0.988142, 0.153543, -0.000994, -0.153542, 0.988142),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995791, 0.074990, 0.052696, -0.070110, 0.993558, -0.089025, -0.059032, 0.084968, 0.994635),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.035985, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004587, -0.000103, 0.992660, 0.092515, 0.077901, -0.087279, 0.993850, -0.068153, -0.083722, 0.060856, 0.994629),
+
+              ["RightHand"] = CFrame.new(-0.000503, -0.004760, 0.000000, 1.000000, 0.000002, 0.000972, -0.000140, 0.989814, 0.142367, -0.000961, -0.142365, 0.989814),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.024675, 0.004198, 1.000000, 0.000000, 0.000000, -0.000000, 0.957642, -0.287962, -0.000000, 0.287962, 0.957642),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.018974, -0.001025, 1.000000, 0.000000, -0.000000, -0.000000, 0.989400, 0.145198, 0.000000, -0.145215, 0.989403),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000001, -0.000486, 1.000000, 0.000143, -0.000962, 0.000002, 0.988883, 0.148693, 0.000972, -0.148693, 0.988883),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992659, -0.098511, -0.070164, 0.092516, 0.992153, -0.084098, 0.077898, 0.077000, 0.993984),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.600, Data = {
+
+              ["Head"] = CFrame.new(-1.567710, 24.246965, -38.641838, -0.879753, 0.241994, 0.409234, 0.410538, -0.047439, 0.910609, 0.239776, 0.969117, -0.057613),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.004957, -0.000003, 0.995783, -0.070176, -0.059090, 0.065434, 0.994749, -0.078691, 0.064298, 0.074493, 0.995146),
+
+              ["LeftHand"] = CFrame.new(0.000504, -0.005696, -0.000000, 1.000000, -0.000002, -0.000994, 0.000152, 0.988663, 0.150156, 0.000981, -0.150155, 0.988662),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.025394, 0.004655, 1.000000, -0.000000, -0.000000, 0.000000, 0.952852, -0.303437, 0.000000, 0.303436, 0.952852),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.021922, -0.001270, 1.000000, -0.000000, -0.000000, 0.000000, 0.985903, 0.167301, -0.000000, -0.167318, 0.985906),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000496, 1.000000, -0.000154, 0.000982, -0.000003, 0.987611, 0.156920, -0.000993, -0.156920, 0.987611),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995783, 0.075270, 0.052446, -0.070176, 0.993191, -0.092982, -0.059088, 0.088921, 0.994286),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.037615, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.004784, -0.000103, 0.992646, 0.092602, 0.077974, -0.087060, 0.993618, -0.071715, -0.084112, 0.064401, 0.994373),
+
+              ["RightHand"] = CFrame.new(-0.000503, -0.004659, 0.000000, 1.000000, 0.000002, 0.000971, -0.000143, 0.989335, 0.145663, -0.000960, -0.145662, 0.989334),
+
+              ["RightLowerArm"] = CFrame.new(0.000001, 0.025422, 0.004396, 1.000000, 0.000000, 0.000000, -0.000000, 0.955657, -0.294481, -0.000000, 0.294481, 0.955657),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.019916, -0.001137, 1.000000, 0.000000, 0.000000, -0.000000, 0.988263, 0.152748, 0.000000, -0.152765, 0.988265),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000001, -0.000485, 1.000000, 0.000146, -0.000960, 0.000002, 0.988360, 0.152137, 0.000971, -0.152137, 0.988359),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992646, -0.098888, -0.069829, 0.092603, 0.991794, -0.088132, 0.077971, 0.081029, 0.993658),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.617, Data = {
+
+              ["Head"] = CFrame.new(-1.546763, 23.788179, -37.163708, -0.886192, 0.291312, 0.360278, 0.363425, -0.045254, 0.930524, 0.287377, 0.955557, -0.065766),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.005141, -0.000003, 0.995775, -0.070243, -0.059146, 0.065272, 0.994479, -0.082163, 0.064587, 0.077955, 0.994862),
+
+              ["LeftHand"] = CFrame.new(0.000504, -0.005598, -0.000000, 1.000000, -0.000002, -0.000993, 0.000155, 0.988168, 0.153375, 0.000980, -0.153373, 0.988168),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.026122, 0.004860, 1.000000, -0.000000, -0.000000, 0.000000, 0.950809, -0.309779, 0.000000, 0.309779, 0.950809),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.022828, -0.001396, 1.000000, -0.000000, 0.000000, 0.000000, 0.984631, 0.174632, -0.000000, -0.174649, 0.984634),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000496, 1.000000, -0.000157, 0.000980, -0.000002, 0.987071, 0.160284, -0.000992, -0.160284, 0.987070),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995775, 0.075548, 0.052198, -0.070243, 0.992810, -0.096914, -0.059144, 0.092849, 0.993923),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.039252, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.004977, -0.000103, 0.992632, 0.092690, 0.078047, -0.086843, 0.993376, -0.075253, -0.084501, 0.067922, 0.994105),
+
+              ["RightHand"] = CFrame.new(-0.000503, -0.004561, 0.000000, 1.000000, 0.000002, 0.000970, -0.000146, 0.988846, 0.148946, -0.000958, -0.148944, 0.988845),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.026162, 0.004599, 1.000000, 0.000000, 0.000000, -0.000000, 0.953636, -0.300962, -0.000000, 0.300963, 0.953636),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, 0.020847, -0.001254, 1.000000, 0.000000, 0.000000, -0.000000, 0.987075, 0.160243, 0.000000, -0.160260, 0.987078),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000001, -0.000485, 1.000000, 0.000149, -0.000959, 0.000002, 0.987826, 0.155566, 0.000970, -0.155566, 0.987825),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992632, -0.099262, -0.069495, 0.092690, 0.991422, -0.092140, 0.078045, 0.085031, 0.993318),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.633, Data = {
+
+              ["Head"] = CFrame.new(-1.522126, 23.246002, -35.670506, -0.887892, 0.339935, 0.309987, 0.315569, -0.040274, 0.948047, 0.334759, 0.939586, -0.071514),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.005310, -0.000003, 0.995767, -0.070310, -0.059203, 0.065127, 0.994221, -0.085343, 0.064857, 0.081126, 0.994591),
+
+              ["LeftHand"] = CFrame.new(0.000504, -0.005501, -0.000000, 1.000000, -0.000002, -0.000992, 0.000157, 0.987666, 0.156576, 0.000979, -0.156574, 0.987665),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.026843, 0.005068, 1.000000, -0.000000, -0.000000, 0.000000, 0.948734, -0.316077, 0.000000, 0.316077, 0.948734),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.023656, -0.001516, 1.000000, -0.000000, -0.000000, 0.000000, 0.983417, 0.181345, -0.000000, -0.181361, 0.983420),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000496, 1.000000, -0.000160, 0.000979, -0.000002, 0.986522, 0.163630, -0.000991, -0.163630, 0.986521),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995767, 0.075809, 0.051973, -0.070310, 0.992447, -0.100518, -0.059201, 0.096450, 0.993577),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.040895, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.005166, -0.000103, 0.992618, 0.092777, 0.078121, -0.086627, 0.993123, -0.078762, -0.084886, 0.071413, 0.993828),
+
+              ["RightHand"] = CFrame.new(-0.000503, -0.004463, -0.000000, 1.000000, 0.000002, 0.000969, -0.000149, 0.988349, 0.152208, -0.000957, -0.152207, 0.988348),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.026896, 0.004804, 1.000000, 0.000000, 0.000000, -0.000000, 0.951582, -0.307394, -0.000000, 0.307394, 0.951582),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.021767, -0.001376, 1.000000, 0.000000, 0.000000, -0.000000, 0.985841, 0.167668, 0.000000, -0.167685, 0.985843),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000001, -0.000484, 1.000000, 0.000152, -0.000957, 0.000002, 0.987283, 0.158975, 0.000969, -0.158975, 0.987282),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992618, -0.099634, -0.069162, 0.092778, 0.991036, -0.096115, 0.078119, 0.089001, 0.992965),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.650, Data = {
+
+              ["Head"] = CFrame.new(-1.494149, 22.627192, -34.165821, -0.884827, 0.387427, 0.258807, 0.267482, -0.032420, 0.963018, 0.381489, 0.921330, -0.074943),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.005487, -0.000003, 0.995759, -0.070377, -0.059259, 0.064966, 0.993932, -0.088763, 0.065143, 0.084536, 0.994288),
+
+              ["LeftHand"] = CFrame.new(0.000504, -0.005405, -0.000000, 1.000000, -0.000002, -0.000991, 0.000160, 0.987157, 0.159756, 0.000977, -0.159754, 0.987156),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.027557, 0.005279, 1.000000, -0.000000, -0.000000, 0.000000, 0.946630, -0.322323, 0.000000, 0.322323, 0.946630),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.024543, -0.001650, 1.000000, -0.000000, 0.000000, 0.000000, 0.982060, 0.188553, -0.000000, -0.188569, 0.982063),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000002, -0.000495, 1.000000, -0.000163, 0.000978, -0.000002, 0.985965, 0.166954, -0.000990, -0.166954, 0.985964),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995759, 0.076084, 0.051726, -0.070377, 0.992042, -0.104391, -0.059257, 0.100320, 0.993190),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.042540, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.005351, -0.000103, 0.992604, 0.092866, 0.078196, -0.086412, 0.992860, -0.082237, -0.085269, 0.074872, 0.993540),
+
+              ["RightHand"] = CFrame.new(-0.000503, -0.004367, -0.000000, 1.000000, 0.000002, 0.000968, -0.000152, 0.987844, 0.155448, -0.000955, -0.155447, 0.987844),
+
+              ["RightLowerArm"] = CFrame.new(0.000001, 0.027624, 0.005013, 1.000000, 0.000000, 0.000000, -0.000000, 0.949499, -0.313771, -0.000000, 0.313771, 0.949499),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.022675, -0.001503, 1.000000, 0.000000, 0.000000, -0.000000, 0.984562, 0.175017, -0.000000, -0.175034, 0.984565),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000001, -0.000484, 1.000000, 0.000155, -0.000956, 0.000002, 0.986732, 0.162360, 0.000968, -0.162360, 0.986731),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992604, -0.100003, -0.068831, 0.092866, 0.990638, -0.100054, 0.078193, 0.092933, 0.992598),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.667, Data = {
+
+              ["Head"] = CFrame.new(-1.463183, 21.938522, -32.653267, -0.877078, 0.433370, 0.207182, 0.219682, -0.021674, 0.975331, 0.427170, 0.900955, -0.076194),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.005661, -0.000003, 0.995751, -0.070444, -0.059316, 0.064806, 0.993635, -0.092146, 0.065426, 0.087909, 0.993977),
+
+              ["LeftHand"] = CFrame.new(0.000504, -0.005311, 0.000000, 1.000000, -0.000002, -0.000990, 0.000163, 0.986641, 0.162911, 0.000976, -0.162909, 0.986640),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.028265, 0.005493, 1.000000, -0.000000, -0.000000, 0.000000, 0.944501, -0.328509, 0.000000, 0.328509, 0.944501),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.025416, -0.001787, 1.000000, -0.000000, 0.000000, 0.000000, 0.980665, 0.195677, -0.000000, -0.195693, 0.980668),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000001, -0.000495, 1.000000, -0.000166, 0.000976, -0.000002, 0.985401, 0.170252, -0.000989, -0.170251, 0.985400),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995751, 0.076357, 0.051481, -0.070445, 0.991626, -0.108224, -0.059314, 0.104149, 0.992793),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.044187, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.005519, -0.000103, 0.992590, 0.092954, 0.078270, -0.086221, 0.992608, -0.085414, -0.085626, 0.078032, 0.993267),
+
+              ["RightHand"] = CFrame.new(-0.000503, -0.004272, -0.000000, 1.000000, 0.000002, 0.000967, -0.000155, 0.987333, 0.158662, -0.000954, -0.158660, 0.987333),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.028343, 0.005224, 1.000000, 0.000000, 0.000000, -0.000000, 0.947389, -0.320085, -0.000000, 0.320085, 0.947389),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, 0.023504, -0.001623, 1.000000, 0.000000, 0.000000, -0.000000, 0.983345, 0.181731, 0.000000, -0.181748, 0.983348),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000001, -0.000483, 1.000000, 0.000159, -0.000954, 0.000002, 0.986173, 0.165717, 0.000967, -0.165717, 0.986173),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992589, -0.100348, -0.068533, 0.092954, 0.990259, -0.103657, 0.078267, 0.096530, 0.992249),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.683, Data = {
+
+              ["Head"] = CFrame.new(-1.429581, 21.186764, -31.136442, -0.864819, 0.477385, 0.155535, 0.172682, -0.008074, 0.984945, 0.471453, 0.878657, -0.075453),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.005830, -0.000003, 0.995743, -0.070512, -0.059373, 0.064648, 0.993329, -0.095489, 0.065706, 0.091242, 0.993658),
+
+              ["LeftHand"] = CFrame.new(0.000504, -0.005218, -0.000000, 1.000000, -0.000002, -0.000989, 0.000166, 0.986120, 0.166038, 0.000974, -0.166036, 0.986119),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.028964, 0.005708, 1.000000, -0.000000, -0.000000, 0.000000, 0.942350, -0.334629, 0.000000, 0.334629, 0.942350),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.026277, -0.001929, 1.000000, -0.000000, 0.000000, 0.000000, 0.979235, 0.202710, -0.000000, -0.202726, 0.979239),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000001, -0.000494, 1.000000, -0.000169, 0.000975, -0.000002, 0.984830, 0.173520, -0.000988, -0.173520, 0.984830),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995743, 0.076626, 0.051239, -0.070512, 0.991201, -0.112012, -0.059371, 0.107934, 0.992385),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.045832, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.005696, -0.000103, 0.992575, 0.093043, 0.078345, -0.086010, 0.992327, -0.088820, -0.086002, 0.081422, 0.992962),
+
+              ["RightHand"] = CFrame.new(-0.000503, -0.004178, -0.000000, 1.000000, 0.000002, 0.000966, -0.000158, 0.986817, 0.161845, -0.000953, -0.161843, 0.986816),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.029054, 0.005438, 1.000000, 0.000000, 0.000000, -0.000000, 0.945256, -0.326329, -0.000000, 0.326330, 0.945256),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, 0.024388, -0.001757, 1.000000, 0.000000, 0.000000, -0.000000, 0.981989, 0.188921, -0.000000, -0.188937, 0.981992),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000001, -0.000483, 1.000000, 0.000162, -0.000953, 0.000002, 0.985609, 0.169043, 0.000966, -0.169043, 0.985608),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992575, -0.100709, -0.068207, 0.093043, 0.989839, -0.107518, 0.078342, 0.100385, 0.991861),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.700, Data = {
+
+              ["Head"] = CFrame.new(-1.393694, 20.378685, -29.618942, -0.848311, 0.519133, 0.104255, 0.126974, 0.008294, 0.991871, 0.514049, 0.854653, -0.072952),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.005996, -0.000003, 0.995735, -0.070579, -0.059430, 0.064491, 0.993017, -0.098788, 0.065983, 0.094532, 0.993332),
+
+              ["LeftHand"] = CFrame.new(0.000503, -0.005126, 0.000000, 1.000000, -0.000002, -0.000988, 0.000169, 0.985594, 0.169132, 0.000973, -0.169130, 0.985593),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.029655, 0.005925, 1.000000, -0.000000, -0.000000, -0.000000, 0.940181, -0.340676, 0.000000, 0.340676, 0.940181),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.027124, -0.002073, 1.000000, -0.000000, -0.000000, 0.000000, 0.977774, 0.209645, -0.000000, -0.209661, 0.977778),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000001, -0.000494, 1.000000, -0.000173, 0.000973, -0.000002, 0.984255, 0.176755, -0.000988, -0.176754, 0.984254),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995734, 0.076892, 0.050998, -0.070580, 0.990766, -0.115751, -0.059428, 0.111670, 0.991968),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.047475, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.005869, -0.000103, 0.992561, 0.093131, 0.078419, -0.085800, 0.992039, -0.092182, -0.086375, 0.084767, 0.992649),
+
+              ["RightHand"] = CFrame.new(-0.000503, -0.004086, 0.000000, 1.000000, 0.000002, 0.000965, -0.000161, 0.986295, 0.164994, -0.000951, -0.164993, 0.986294),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.029756, 0.005653, 1.000000, 0.000000, 0.000000, -0.000000, 0.943104, -0.332497, -0.000000, 0.332498, 0.943104),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.025257, -0.001894, 1.000000, 0.000000, -0.000000, -0.000000, 0.980599, 0.196010, 0.000000, -0.196026, 0.980602),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000001, -0.000482, 1.000000, 0.000165, -0.000951, 0.000002, 0.985039, 0.172335, 0.000965, -0.172335, 0.985038),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992561, -0.101067, -0.067884, 0.093131, 0.989409, -0.111329, 0.078417, 0.104191, 0.991463),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.717, Data = {
+
+              ["Head"] = CFrame.new(-1.355874, 19.521055, -28.104370, -0.827882, 0.558327, 0.053689, 0.083016, 0.027302, 0.996174, 0.554725, 0.829172, -0.068953),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.006158, -0.000003, 0.995726, -0.070647, -0.059486, 0.064336, 0.992698, -0.102041, 0.066257, 0.097775, 0.993000),
+
+              ["LeftHand"] = CFrame.new(0.000503, -0.005035, -0.000000, 1.000000, -0.000002, -0.000987, 0.000172, 0.985064, 0.172191, 0.000971, -0.172189, 0.985063),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.030335, 0.006144, 1.000000, -0.000000, -0.000000, 0.000000, 0.937997, -0.346643, 0.000000, 0.346643, 0.937997),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.027956, -0.002220, 1.000000, -0.000000, 0.000000, 0.000000, 0.976285, 0.216474, -0.000000, -0.216489, 0.976288),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000001, -0.000493, 1.000000, -0.000176, 0.000972, -0.000002, 0.983675, 0.179952, -0.000987, -0.179952, 0.983675),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995726, 0.077155, 0.050760, -0.070647, 0.990324, -0.119437, -0.059485, 0.115353, 0.991543),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.049112, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.006037, -0.000103, 0.992547, 0.093220, 0.078494, -0.085593, 0.991743, -0.095496, -0.086742, 0.088064, 0.992330),
+
+              ["RightHand"] = CFrame.new(-0.000503, -0.003996, 0.000000, 1.000000, 0.000002, 0.000964, -0.000164, 0.985769, 0.168107, -0.000950, -0.168105, 0.985768),
+
+              ["RightLowerArm"] = CFrame.new(0.000001, 0.030448, 0.005870, 1.000000, 0.000000, 0.000000, -0.000000, 0.940937, -0.338583, -0.000000, 0.338583, 0.940937),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.026111, -0.002034, 1.000000, 0.000000, 0.000000, -0.000000, 0.979177, 0.202991, 0.000000, -0.203007, 0.979181),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000001, -0.000482, 1.000000, 0.000168, -0.000950, 0.000002, 0.984464, 0.175587, 0.000964, -0.175587, 0.984463),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992547, -0.101420, -0.067564, 0.093220, 0.988971, -0.115086, 0.078491, 0.107942, 0.991055),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.733, Data = {
+
+              ["Head"] = CFrame.new(-1.316471, 18.620644, -26.596321, -0.803913, 0.594732, 0.004130, 0.041224, 0.048793, 0.997958, 0.593316, 0.802442, -0.063742),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.006315, -0.000003, 0.995718, -0.070714, -0.059543, 0.064184, 0.992373, -0.105243, 0.066527, 0.100968, 0.992662),
+
+              ["LeftHand"] = CFrame.new(0.000503, -0.004947, -0.000000, 1.000000, -0.000002, -0.000986, 0.000175, 0.984531, 0.175212, 0.000970, -0.175209, 0.984530),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.031006, 0.006365, 1.000000, -0.000000, -0.000000, -0.000000, 0.935802, -0.352525, 0.000000, 0.352525, 0.935802),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.028772, -0.002370, 1.000000, -0.000000, 0.000000, 0.000000, 0.974771, 0.223190, -0.000000, -0.223206, 0.974775),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000001, -0.000493, 1.000000, -0.000179, 0.000970, -0.000002, 0.983092, 0.183110, -0.000986, -0.183110, 0.983092),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995718, 0.077414, 0.050526, -0.070714, 0.989874, -0.123067, -0.059541, 0.118980, 0.991111),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.050742, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.006200, -0.000103, 0.992533, 0.093308, 0.078568, -0.085389, 0.991441, -0.098758, -0.087105, 0.091309, 0.992005),
+
+              ["RightHand"] = CFrame.new(-0.000503, -0.003907, -0.000000, 1.000000, 0.000002, 0.000963, -0.000167, 0.985240, 0.171180, -0.000948, -0.171178, 0.985239),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.031129, 0.006089, 1.000000, 0.000000, 0.000000, -0.000000, 0.938757, -0.344579, -0.000000, 0.344580, 0.938757),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.026949, -0.002178, 1.000000, 0.000000, 0.000000, -0.000000, 0.977729, 0.209856, 0.000000, -0.209872, 0.977732),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000001, -0.000481, 1.000000, 0.000171, -0.000948, 0.000002, 0.983886, 0.178798, 0.000963, -0.178798, 0.983885),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992533, -0.101768, -0.067248, 0.093308, 0.988525, -0.118785, 0.078565, 0.111635, 0.990640),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.750, Data = {
+
+              ["Head"] = CFrame.new(-1.275838, 17.684219, -25.098398, -0.776821, 0.628169, -0.044185, 0.001966, 0.072585, 0.997360, 0.629718, 0.774684, -0.057621),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.006469, -0.000003, 0.995710, -0.070781, -0.059600, 0.064033, 0.992044, -0.108393, 0.066793, 0.104108, 0.992320),
+
+              ["LeftHand"] = CFrame.new(0.000503, -0.004859, -0.000000, 1.000000, -0.000002, -0.000985, 0.000177, 0.983997, 0.178190, 0.000968, -0.178188, 0.983996),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.031666, 0.006585, 1.000000, -0.000000, -0.000000, 0.000000, 0.933601, -0.358315, 0.000000, 0.358315, 0.933601),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.029573, -0.002521, 1.000000, -0.000000, -0.000000, 0.000000, 0.973237, 0.229787, -0.000000, -0.229803, 0.973241),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000001, -0.000492, 1.000000, -0.000182, 0.000969, -0.000002, 0.982507, 0.186224, -0.000985, -0.186223, 0.982507),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995710, 0.077669, 0.050294, -0.070781, 0.989419, -0.126637, -0.059598, 0.122547, 0.990673),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.052362, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.006360, -0.000103, 0.992519, 0.093396, 0.078642, -0.085187, 0.991134, -0.101965, -0.087462, 0.094500, 0.991675),
+
+              ["RightHand"] = CFrame.new(-0.000503, -0.003819, -0.000000, 1.000000, 0.000002, 0.000962, -0.000169, 0.984709, 0.174209, -0.000947, -0.174207, 0.984708),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.031799, 0.006307, 1.000000, 0.000000, 0.000000, -0.000000, 0.936570, -0.350480, -0.000000, 0.350480, 0.936570),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.027771, -0.002323, 1.000000, 0.000000, 0.000000, -0.000000, 0.976257, 0.216598, 0.000000, -0.216614, 0.976261),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000001, -0.000481, 1.000000, 0.000174, -0.000947, 0.000002, 0.983305, 0.181963, 0.000962, -0.181963, 0.983305),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992519, -0.102110, -0.066937, 0.093396, 0.988072, -0.122422, 0.078639, 0.115267, 0.990218),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.767, Data = {
+
+              ["Head"] = CFrame.new(-1.234327, 16.718555, -23.614201, -0.747044, 0.658506, -0.091077, -0.034437, 0.098486, 0.994542, 0.663882, 0.746103, -0.050896),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.006608, -0.000003, 0.995702, -0.070848, -0.059656, 0.063903, 0.991740, -0.111213, 0.067038, 0.106919, 0.992004),
+
+              ["LeftHand"] = CFrame.new(0.000503, -0.004773, -0.000000, 1.000000, -0.000002, -0.000984, 0.000180, 0.983461, 0.181124, 0.000967, -0.181122, 0.983460),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.032315, 0.006806, 1.000000, -0.000000, -0.000000, 0.000000, 0.931396, -0.364008, 0.000000, 0.364008, 0.931396),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.030291, -0.002661, 1.000000, -0.000000, -0.000000, 0.000000, 0.971824, 0.235693, -0.000000, -0.235708, 0.971828),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000001, -0.000492, 1.000000, -0.000184, 0.000967, -0.000002, 0.981921, 0.189290, -0.000984, -0.189290, 0.981921),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995702, 0.077904, 0.050090, -0.070848, 0.988999, -0.129838, -0.059654, 0.125744, 0.990269),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.053970, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.006516, -0.000103, 0.992505, 0.093483, 0.078715, -0.084989, 0.990822, -0.105115, -0.087814, 0.097634, 0.991340),
+
+              ["RightHand"] = CFrame.new(-0.000502, -0.003734, 0.000000, 1.000000, 0.000001, 0.000962, -0.000172, 0.984177, 0.177191, -0.000946, -0.177190, 0.984176),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.032458, 0.006527, 1.000000, 0.000000, 0.000000, -0.000000, 0.934379, -0.356280, -0.000000, 0.356281, 0.934379),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.028576, -0.002470, 1.000000, 0.000000, -0.000000, -0.000000, 0.974766, 0.223214, 0.000000, -0.223229, 0.974770),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000001, -0.000481, 1.000000, 0.000176, -0.000946, 0.000002, 0.982723, 0.185080, 0.000961, -0.185080, 0.982723),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992505, -0.102447, -0.066630, 0.093483, 0.987615, -0.125995, 0.078713, 0.118834, 0.989791),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.783, Data = {
+
+              ["Head"] = CFrame.new(-1.192287, 15.730419, -22.147329, -0.715023, 0.685661, -0.136425, -0.067716, 0.126299, 0.989678, 0.695814, 0.716881, -0.043877),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.006754, -0.000003, 0.995694, -0.070914, -0.059711, 0.063757, 0.991403, -0.114261, 0.067297, 0.109958, 0.991655),
+
+              ["LeftHand"] = CFrame.new(0.000503, -0.004690, 0.000000, 1.000000, -0.000002, -0.000984, 0.000183, 0.982925, 0.184010, 0.000966, -0.184008, 0.982924),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000501, 0.032951, 0.007028, 1.000000, -0.000000, -0.000000, 0.000000, 0.929192, -0.369598, 0.000000, 0.369599, 0.929192),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.031062, -0.002816, 1.000000, -0.000000, -0.000000, 0.000000, 0.970257, 0.242063, -0.000000, -0.242078, 0.970261),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000001, -0.000491, 1.000000, -0.000187, 0.000966, -0.000002, 0.981335, 0.192308, -0.000983, -0.192308, 0.981334),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995694, 0.078152, 0.049864, -0.070914, 0.988535, -0.133293, -0.059710, 0.129196, 0.989822),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.055565, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.006667, -0.000103, 0.992491, 0.093570, 0.078788, -0.084794, 0.990506, -0.108205, -0.088160, 0.100708, 0.991002),
+
+              ["RightHand"] = CFrame.new(-0.000502, -0.003650, -0.000000, 1.000000, 0.000001, 0.000961, -0.000175, 0.983644, 0.180125, -0.000944, -0.180123, 0.983643),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.033103, 0.006746, 1.000000, 0.000000, 0.000000, -0.000000, 0.932187, -0.361976, -0.000000, 0.361976, 0.932187),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.029363, -0.002619, 1.000000, 0.000000, 0.000000, -0.000000, 0.973259, 0.229697, 0.000000, -0.229713, 0.973262),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000001, -0.000480, 1.000000, 0.000179, -0.000944, 0.000002, 0.982141, 0.188146, 0.000961, -0.188146, 0.982141),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992491, -0.102778, -0.066328, 0.093570, 0.987153, -0.129500, 0.078786, 0.122335, 0.989359),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.800, Data = {
+
+              ["Head"] = CFrame.new(-1.150073, 14.726578, -20.701385, -0.681195, 0.709587, -0.180164, -0.097645, 0.155832, 0.982946, 0.725561, 0.687170, -0.036864),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.006896, -0.000003, 0.995686, -0.070980, -0.059767, 0.063613, 0.991064, -0.117247, 0.067551, 0.112935, 0.991303),
+
+              ["LeftHand"] = CFrame.new(0.000503, -0.004625, -0.000000, 1.000000, -0.000002, -0.000983, 0.000185, 0.982377, 0.186911, 0.000964, -0.186909, 0.982376),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.033573, 0.007253, 1.000000, -0.000000, -0.000000, 0.000000, 0.926941, -0.375208, 0.000000, 0.375208, 0.926941),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.031815, -0.002972, 1.000000, -0.000000, 0.000000, 0.000000, 0.968680, 0.248298, -0.000000, -0.248313, 0.968684),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000001, -0.000491, 1.000000, -0.000190, 0.000964, -0.000002, 0.980735, 0.195341, -0.000982, -0.195341, 0.980735),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995686, 0.078394, 0.049642, -0.070980, 0.988067, -0.136680, -0.059765, 0.132580, 0.989371),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.057144, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.006802, -0.000103, 0.992477, 0.093656, 0.078861, -0.084627, 0.990216, -0.110960, -0.088476, 0.103448, 0.990691),
+
+              ["RightHand"] = CFrame.new(-0.000502, -0.003569, -0.000000, 1.000000, 0.000001, 0.000960, -0.000177, 0.983112, 0.183007, -0.000943, -0.183005, 0.983111),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.033736, 0.006965, 1.000000, 0.000000, 0.000000, -0.000000, 0.930000, -0.367560, -0.000000, 0.367560, 0.930000),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.030064, -0.002756, 1.000000, 0.000000, 0.000000, -0.000000, 0.971878, 0.235472, 0.000000, -0.235487, 0.971881),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000001, -0.000480, 1.000000, 0.000182, -0.000943, 0.000002, 0.981559, 0.191157, 0.000960, -0.191157, 0.981559),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992477, -0.103082, -0.066063, 0.093656, 0.986729, -0.132629, 0.078858, 0.125457, 0.988962),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.817, Data = {
+
+              ["Head"] = CFrame.new(-1.108034, 13.713802, -19.279961, -0.645983, 0.730273, -0.222278, -0.124039, 0.186898, 0.974517, 0.753207, 0.657093, -0.030151),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.007027, -0.000003, 0.995591, -0.071754, -0.060419, 0.064031, 0.990550, -0.121291, 0.068547, 0.116882, 0.990777),
+
+              ["LeftHand"] = CFrame.new(0.000503, -0.004565, -0.000000, 1.000000, -0.000002, -0.000982, 0.000188, 0.981830, 0.189766, 0.000963, -0.189764, 0.981829),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.034181, 0.007478, 1.000000, -0.000000, -0.000000, 0.000000, 0.924691, -0.380718, 0.000000, 0.380718, 0.924691),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.032511, -0.003120, 1.000000, -0.000000, -0.000000, 0.000000, 0.967182, 0.254071, -0.000000, -0.254085, 0.967186),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000001, -0.000491, 1.000000, -0.000193, 0.000963, -0.000002, 0.980136, 0.198326, -0.000982, -0.198326, 0.980136),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.995318, 0.079965, 0.054294, -0.071775, 0.987700, -0.138903, -0.064734, 0.134369, 0.988817),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.058706, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.006927, -0.000103, 0.992048, 0.096280, 0.081070, -0.086958, 0.989944, -0.111583, -0.090992, 0.103642, 0.990443),
+
+              ["RightHand"] = CFrame.new(-0.000502, -0.003489, 0.000000, 1.000000, 0.000001, 0.000959, -0.000180, 0.982582, 0.185834, -0.000942, -0.185832, 0.982581),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.034355, 0.007183, 1.000000, 0.000000, 0.000000, -0.000000, 0.927820, -0.373029, -0.000000, 0.373029, 0.927820),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.030717, -0.002886, 1.000000, 0.000000, 0.000000, -0.000000, 0.970555, 0.240864, 0.000000, -0.240879, 0.970559),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000001, -0.000479, 1.000000, 0.000185, -0.000941, 0.000002, 0.980979, 0.194112, 0.000959, -0.194112, 0.980979),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.992311, -0.105843, -0.064156, 0.096357, 0.985974, -0.136258, 0.077679, 0.129042, 0.988594),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.833, Data = {
+
+              ["Head"] = CFrame.new(-1.066522, 12.698864, -17.886667, -0.609787, 0.747730, -0.262794, -0.146743, 0.219326, 0.964553, 0.778862, 0.626735, -0.024018),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.007139, -0.000003, 0.995317, -0.073942, -0.062261, 0.065568, 0.989706, -0.127220, 0.071023, 0.122536, 0.989919),
+
+              ["LeftHand"] = CFrame.new(0.000503, -0.004507, 0.000000, 1.000000, -0.000002, -0.000981, 0.000191, 0.981285, 0.192563, 0.000962, -0.192560, 0.981284),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.034774, 0.007702, 1.000000, -0.000000, -0.000000, 0.000000, 0.922454, -0.386106, 0.000000, 0.386106, 0.922454),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.033107, -0.003249, 1.000000, -0.000000, 0.000000, 0.000000, 0.965869, 0.259015, -0.000000, -0.259030, 0.965873),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000001, -0.000490, 1.000000, -0.000196, 0.000962, -0.000002, 0.979540, 0.201251, -0.000981, -0.201251, 0.979539),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.994145, 0.084076, 0.067871, -0.074021, 0.987511, -0.139065, -0.078715, 0.133241, 0.987955),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.060246, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.007013, -0.000103, 0.990809, 0.103477, 0.087131, -0.093889, 0.989733, -0.107770, -0.097382, 0.098596, 0.990350),
+
+              ["RightHand"] = CFrame.new(-0.000502, -0.003410, -0.000000, 1.000000, 0.000001, 0.000958, -0.000182, 0.982054, 0.188603, -0.000940, -0.188601, 0.982053),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.034961, 0.007400, 1.000000, 0.000000, 0.000000, -0.000000, 0.925652, -0.378376, -0.000000, 0.378377, 0.925652),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.031174, -0.002980, 1.000000, 0.000000, -0.000000, -0.000000, 0.969608, 0.244649, 0.000000, -0.244663, 0.969612),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000001, -0.000479, 1.000000, 0.000187, -0.000940, 0.000002, 0.980402, 0.197006, 0.000958, -0.197006, 0.980402),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.991856, -0.112960, -0.058835, 0.103818, 0.984651, -0.140287, 0.073779, 0.133049, 0.988361),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.850, Data = {
+
+              ["Head"] = CFrame.new(-1.025889, 11.688528, -16.525095, -0.572982, 0.761984, -0.301781, -0.165630, 0.252961, 0.953193, 0.802657, 0.596146, -0.018734),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.007229, -0.000003, 0.994843, -0.077591, -0.065333, 0.068267, 0.988557, -0.134521, 0.075019, 0.129361, 0.988755),
+
+              ["LeftHand"] = CFrame.new(0.000503, -0.004450, -0.000000, 1.000000, -0.000002, -0.000980, 0.000193, 0.980744, 0.195299, 0.000960, -0.195297, 0.980743),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.035354, 0.007925, 1.000000, -0.000000, -0.000000, 0.000000, 0.920234, -0.391369, 0.000000, 0.391369, 0.920234),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.033586, -0.003356, 1.000000, -0.000000, -0.000000, 0.000000, 0.964793, 0.262995, -0.000000, -0.263009, 0.964797),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, -0.000001, -0.000490, 1.000000, -0.000198, 0.000960, -0.000002, 0.978947, 0.204113, -0.000980, -0.204113, 0.978947),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.991893, 0.090519, 0.089190, -0.077751, 0.987447, -0.137475, -0.100514, 0.129440, 0.986482),
+
+              ["LowerTorso"] = CFrame.new(0.000000, -0.061766, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.007063, -0.000103, 0.988741, 0.114466, 0.096384, -0.104801, 0.989453, -0.100004, -0.106808, 0.088774, 0.990308),
+
+              ["RightHand"] = CFrame.new(-0.000502, -0.003334, 0.000000, 1.000000, 0.000001, 0.000957, -0.000185, 0.981529, 0.191313, -0.000939, -0.191311, 0.981529),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.035552, 0.007616, 1.000000, 0.000000, 0.000000, -0.000000, 0.923499, -0.383600, -0.000000, 0.383601, 0.923499),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.031441, -0.003035, 1.000000, 0.000000, 0.000000, -0.000000, 0.969049, 0.246855, 0.000000, -0.246870, 0.969052),
+
+              ["RightUpperArm"] = CFrame.new(0.000000, -0.000001, -0.000478, 1.000000, 0.000190, -0.000939, 0.000002, 0.979829, 0.199838, 0.000957, -0.199838, 0.979829),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.991079, -0.123632, -0.049771, 0.115342, 0.982767, -0.144438, 0.066771, 0.137422, 0.988261),
+
+              ["UpperTorso"] = CFrame.new(0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000)
+
+          }},
+
+          {Time = 0.867, Data = {
+
+              ["Head"] = CFrame.new(-0.986486, 10.689571, -15.198850, -0.535917, 0.773073, -0.339339, -0.180589, 0.287664, 0.940552, 0.824730, 0.565339, -0.014555),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.007285, -0.000003, 0.994273, -0.081754, -0.068839, 0.071297, 0.987202, -0.142655, 0.079616, 0.136923, 0.987376),
+
+              ["LeftHand"] = CFrame.new(0.000503, -0.004413, -0.000000, 0.999999, 0.000753, -0.001420, -0.000455, 0.979896, 0.199510, 0.001542, -0.199507, 0.979895),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.035729, 0.008071, 1.000000, -0.000000, -0.000000, 0.000000, 0.918777, -0.394777, 0.000000, 0.394777, 0.918777),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.033888, -0.003423, 1.000000, -0.000000, -0.000000, 0.000000, 0.964106, 0.265505, -0.000000, -0.265519, 0.964110),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000000, 0.000542, 0.000051, 0.999999, -0.001042, -0.000322, 0.001086, 0.978878, 0.204440, 0.000103, -0.204440, 0.978879),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.988420, 0.097422, 0.116337, -0.081671, 0.987714, -0.133222, -0.127886, 0.122191, 0.984235),
+
+              ["LowerTorso"] = CFrame.new(-0.001751, -0.063260, -0.000286, 1.000000, 0.000436, 0.000138, -0.000436, 1.000000, -0.000715, -0.000139, 0.000715, 1.000000),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.007073, -0.000103, 0.985576, 0.129457, 0.109006, -0.120033, 0.988772, -0.089010, -0.119298, 0.074639, 0.990048),
+
+              ["RightHand"] = CFrame.new(-0.000502, -0.003235, -0.000000, 1.000000, 0.000756, 0.000515, -0.000842, 0.980976, 0.194131, -0.000358, -0.194130, 0.980976),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.036319, 0.007901, 1.000000, 0.000000, 0.000000, -0.000000, 0.920652, -0.390384, -0.000000, 0.390385, 0.920652),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, 0.031491, -0.003046, 1.000000, 0.000000, 0.000000, -0.000000, 0.968942, 0.247273, 0.000000, -0.247288, 0.968946),
+
+              ["RightUpperArm"] = CFrame.new(0.000001, -0.000545, -0.001019, 0.999997, -0.000649, -0.002219, 0.001091, 0.978733, 0.205133, 0.002038, -0.205135, 0.978732),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.989637, -0.138634, -0.037396, 0.131746, 0.980250, -0.147476, 0.057103, 0.141034, 0.988358),
+
+              ["UpperTorso"] = CFrame.new(0.000048, -0.000000, 0.000000, 0.999999, -0.000102, 0.001385, 0.000102, 1.000000, -0.000207, -0.001385, 0.000207, 0.999999)
+
+          }},
+
+          {Time = 0.883, Data = {
+
+              ["Head"] = CFrame.new(-0.948666, 9.708752, -13.911526, -0.498918, 0.781031, -0.375594, -0.191516, 0.323311, 0.926710, 0.845223, 0.534285, -0.011725),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.007302, -0.000003, 0.993725, -0.085564, -0.072047, 0.073924, 0.985754, -0.151087, 0.083943, 0.144806, 0.985891),
+
+              ["LeftHand"] = CFrame.new(0.000503, -0.004414, 0.000000, 0.999992, 0.002941, -0.002698, -0.002320, 0.978392, 0.206749, 0.003247, -0.206738, 0.978390),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.035722, 0.008068, 1.000000, -0.000000, -0.000000, 0.000000, 0.918806, -0.394709, 0.000000, 0.394709, 0.918806),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.033982, -0.003444, 1.000000, -0.000000, -0.000000, 0.000000, 0.963893, 0.266277, -0.000000, -0.266291, 0.963897),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000008, 0.002118, 0.001779, 0.999985, -0.003440, -0.004330, 0.004235, 0.979862, 0.199629, 0.003557, -0.199644, 0.979862),
+
+              ["LeftUpperLeg"] = CFrame.new(-0.000000, 0.000000, -0.000100, 0.983780, 0.103021, 0.146846, -0.084739, 0.988436, -0.125740, -0.158102, 0.111271, 0.981135),
+
+              ["LowerTorso"] = CFrame.new(-0.006809, -0.064726, -0.001085, 0.999998, 0.001643, 0.001104, -0.001640, 0.999995, -0.002715, -0.001109, 0.002713, 0.999996),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.007023, -0.000103, 0.980980, 0.148487, 0.125030, -0.139817, 0.987293, -0.075528, -0.134648, 0.056609, 0.989274),
+
+              ["RightHand"] = CFrame.new(-0.000502, -0.003095, 0.000000, 0.999995, 0.002966, -0.000777, -0.002755, 0.980467, 0.196667, 0.001346, -0.196662, 0.980470),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.037415, 0.008318, 1.000000, 0.000000, 0.000000, -0.000000, 0.916482, -0.400075, -0.000000, 0.400075, 0.916483),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.031230, -0.002991, 1.000000, 0.000000, 0.000000, -0.000000, 0.969492, 0.245109, 0.000000, -0.245124, 0.969495),
+
+              ["RightUpperArm"] = CFrame.new(0.000012, -0.002134, -0.002739, 0.999976, -0.002986, -0.006269, 0.004267, 0.976514, 0.215410, 0.005478, -0.215432, 0.976504),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, 0.000000, -0.000000, 0.987086, -0.158583, -0.022658, 0.153576, 0.977028, -0.147738, 0.045567, 0.142363, 0.988767),
+
+              ["UpperTorso"] = CFrame.new(0.000188, 0.000000, 0.000000, 0.999987, -0.000341, 0.005162, 0.000345, 1.000000, -0.000753, -0.005162, 0.000755, 0.999986)
+
+          }},
+
+          {Time = 0.900, Data = {
+
+              ["Head"] = CFrame.new(-0.912779, 8.752851, -12.666730, -0.462287, 0.785890, -0.410691, -0.198308, 0.359793, 0.911714, 0.864271, 0.502917, -0.010479),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.007285, -0.000003, 0.993185, -0.089155, -0.075071, 0.076318, 0.984280, -0.159280, 0.088086, 0.152458, 0.984375),
+
+              ["LeftHand"] = CFrame.new(0.000503, -0.004453, 0.000000, 0.999968, 0.006418, -0.004729, -0.005240, 0.976181, 0.216895, 0.006008, -0.216861, 0.976183),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.035321, 0.007912, 1.000000, -0.000000, -0.000000, 0.000000, 0.920360, -0.391072, 0.000000, 0.391072, 0.920360),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.033890, -0.003424, 1.000000, -0.000000, 0.000000, 0.000000, 0.964104, 0.265512, -0.000000, -0.265527, 0.964108),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000045, 0.004626, 0.004852, 0.999910, -0.007249, -0.011281, 0.009254, 0.981866, 0.189351, 0.009704, -0.189439, 0.981845),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, 0.000000, -0.000100, 0.978044, 0.107256, 0.178677, -0.087330, 0.989415, -0.115884, -0.189216, 0.097749, 0.977060),
+
+              ["LowerTorso"] = CFrame.new(-0.014888, -0.066159, -0.002310, 0.999987, 0.003482, 0.003722, -0.003460, 0.999977, -0.005788, -0.003742, 0.005775, 0.999976),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.006892, -0.000103, 0.974844, 0.170500, 0.143566, -0.163377, 0.984731, -0.060115, -0.151614, 0.035148, 0.987813),
+
+              ["RightHand"] = CFrame.new(-0.000502, -0.002921, 0.000000, 0.999974, 0.006560, -0.002879, -0.005860, 0.980185, 0.198001, 0.004121, -0.197977, 0.980198),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.038765, 0.008849, 1.000000, 0.000000, 0.000000, -0.000000, 0.911170, -0.412031, -0.000000, 0.412031, 0.911170),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.030535, -0.002850, 1.000000, 0.000000, 0.000000, -0.000000, 0.970927, 0.239362, 0.000000, -0.239377, 0.970931),
+
+              ["RightUpperArm"] = CFrame.new(0.000056, -0.004705, -0.005776, 0.999889, -0.006491, -0.013412, 0.009410, 0.973005, 0.230591, 0.011553, -0.230691, 0.972958),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, 0.000000, -0.000000, 0.983191, -0.182480, -0.006112, 0.179712, 0.973103, -0.144118, 0.032247, 0.140610, 0.989542),
+
+              ["UpperTorso"] = CFrame.new(0.000413, 0.000002, 0.000002, 0.999942, -0.000617, 0.010764, 0.000633, 0.999999, -0.001520, -0.010763, 0.001527, 0.999941)
+
+          }},
+
+          {Time = 0.917, Data = {
+
+              ["Head"] = CFrame.new(-0.879177, 7.828634, -11.468058, -0.426308, 0.787669, -0.444792, -0.200853, 0.397014, 0.895566, 0.881998, 0.471125, -0.011044),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.007241, -0.000003, 0.992653, -0.092558, -0.077936, 0.078553, 0.982863, -0.166771, 0.092031, 0.159415, 0.982911),
+
+              ["LeftHand"] = CFrame.new(0.000503, -0.004536, -0.000000, 0.999912, 0.011001, -0.007406, -0.009007, 0.973240, 0.229617, 0.009733, -0.229528, 0.973253),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.034475, 0.007589, 1.000000, -0.000000, -0.000000, -0.000000, 0.923584, -0.383396, 0.000000, 0.383396, 0.923584),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.033651, -0.003370, 1.000000, -0.000000, -0.000000, 0.000000, 0.964648, 0.263529, -0.000000, -0.263544, 0.964651),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000153, 0.007960, 0.009442, 0.999695, -0.012407, -0.021356, 0.015919, 0.984777, 0.173093, 0.018884, -0.173380, 0.984674),
+
+              ["LeftUpperLeg"] = CFrame.new(-0.000000, -0.000001, -0.000100, 0.971543, 0.110108, 0.209716, -0.089680, 0.990465, -0.104561, -0.219230, 0.082792, 0.972156),
+
+              ["LowerTorso"] = CFrame.new(-0.025706, -0.067552, -0.003873, 0.999944, 0.005827, 0.008813, -0.005741, 0.999936, -0.009734, -0.008869, 0.009682, 0.999914),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.006670, -0.000103, 0.967154, 0.194445, 0.163728, -0.189800, 0.980849, -0.043711, -0.169082, 0.011202, 0.985537),
+
+              ["RightHand"] = CFrame.new(-0.000502, -0.002768, -0.000000, 0.999917, 0.011492, -0.005762, -0.010130, 0.980304, 0.197237, 0.007916, -0.197160, 0.980339),
+
+              ["RightLowerArm"] = CFrame.new(-0.000000, 0.040268, 0.009479, 1.000000, 0.000000, 0.000000, -0.000000, 0.904869, -0.425689, -0.000000, 0.425689, 0.904870),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.029379, -0.002622, 1.000000, 0.000000, 0.000000, -0.000000, 0.973227, 0.229830, 0.000000, -0.229846, 0.973231),
+
+              ["RightUpperArm"] = CFrame.new(0.000173, -0.008216, -0.010260, 0.999654, -0.010758, -0.023986, 0.016431, 0.967942, 0.250634, 0.020521, -0.250942, 0.967785),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000001, -0.000000, 0.977762, -0.209398, 0.011553, 0.209004, 0.968424, -0.135898, 0.017269, 0.135303, 0.990656),
+
+              ["UpperTorso"] = CFrame.new(0.000715, 0.000004, 0.000006, 0.999844, -0.000839, 0.017626, 0.000881, 0.999997, -0.002386, -0.017624, 0.002401, 0.999842)
+
+          }},
+
+          {Time = 0.933, Data = {
+
+              ["Head"] = CFrame.new(-0.848212, 6.942866, -10.319109, -0.391256, 0.786366, -0.478066, -0.199026, 0.434881, 0.878218, 0.898503, 0.438756, -0.013643),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.007179, -0.000003, 0.992146, -0.095684, -0.080569, 0.080603, 0.981586, -0.173189, 0.095651, 0.165326, 0.981588),
+
+              ["LeftHand"] = CFrame.new(0.000503, -0.004673, 0.000000, 0.999809, 0.016451, -0.010589, -0.013366, 0.969592, 0.244365, 0.014286, -0.244174, 0.969626),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.033089, 0.007076, 1.000000, -0.000000, -0.000000, 0.000000, 0.928701, -0.370830, 0.000000, 0.370830, 0.928701),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.033322, -0.003296, 1.000000, -0.000000, 0.000000, 0.000000, 0.965391, 0.260793, -0.000000, -0.260807, 0.965395),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000391, 0.011979, 0.015735, 0.999218, -0.018948, -0.034718, 0.023959, 0.988373, 0.150152, 0.031470, -0.150867, 0.988053),
+
+              ["LeftUpperLeg"] = CFrame.new(-0.000000, -0.000000, -0.000100, 0.964881, 0.111632, 0.237787, -0.091845, 0.991443, -0.092751, -0.246107, 0.067667, 0.966879),
+
+              ["LowerTorso"] = CFrame.new(-0.038993, -0.068899, -0.005686, 0.999815, 0.008576, 0.017202, -0.008329, 0.999862, -0.014360, -0.017323, 0.014214, 0.999749),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.006322, -0.000103, 0.958028, 0.219295, 0.184652, -0.218192, 0.975545, -0.026534, -0.185944, -0.014865, 0.982446),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.002623, -0.000000, 0.999798, 0.017746, -0.009418, -0.015595, 0.981056, 0.193099, 0.012667, -0.192911, 0.981134),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.041813, 0.010157, 1.000000, 0.000000, 0.000000, -0.000000, 0.898086, -0.439818, -0.000000, 0.439819, 0.898087),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, 0.027571, -0.002287, 1.000000, 0.000000, -0.000000, -0.000000, 0.976620, 0.214956, -0.000000, -0.214972, 0.976624),
+
+              ["RightUpperArm"] = CFrame.new(0.000426, -0.012638, -0.016307, 0.999148, -0.015308, -0.038318, 0.025275, 0.961080, 0.275110, 0.032615, -0.275844, 0.960649),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.970706, -0.238484, 0.029260, 0.240271, 0.963051, -0.121651, 0.000833, 0.125130, 0.992142),
+
+              ["UpperTorso"] = CFrame.new(0.001088, 0.000009, 0.000019, 0.999682, -0.000934, 0.025184, 0.001015, 0.999994, -0.003227, -0.025180, 0.003251, 0.999678)
+
+          }},
+
+          {Time = 0.950, Data = {
+
+              ["Head"] = CFrame.new(-0.820234, 6.102321, -9.223486, -0.357404, 0.781961, -0.510685, -0.192679, 0.473304, 0.859569, 0.913859, 0.405611, -0.018493),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.007114, -0.000003, 0.991704, -0.098332, -0.082798, 0.082343, 0.980535, -0.178254, 0.098708, 0.169948, 0.980495),
+
+              ["LeftHand"] = CFrame.new(0.000503, -0.004947, -0.000000, 0.999648, 0.022465, -0.014101, -0.018018, 0.965289, 0.260564, 0.019464, -0.260216, 0.965354),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.031003, 0.006364, 1.000000, -0.000000, -0.000000, 0.000000, 0.935811, -0.352502, 0.000000, 0.352502, 0.935811),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.032974, -0.003220, 1.000000, -0.000000, 0.000000, 0.000000, 0.966166, 0.257907, 0.000000, -0.257921, 0.966170),
+
+              ["LeftUpperArm"] = CFrame.new(-0.000847, 0.016523, 0.023940, 0.998306, -0.027024, -0.051517, 0.033045, 0.992240, 0.119862, 0.047879, -0.121362, 0.991453),
+
+              ["LeftUpperLeg"] = CFrame.new(-0.000000, -0.000001, -0.000100, 0.958913, 0.111953, 0.260679, -0.093692, 0.992260, -0.081486, -0.267784, 0.053728, 0.961981),
+
+              ["LowerTorso"] = CFrame.new(-0.054485, -0.070195, -0.007659, 0.999491, 0.011644, 0.029711, -0.011068, 0.999749, -0.019486, -0.029931, 0.019147, 0.999369),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.005853, -0.000103, 0.947739, 0.244057, 0.205502, -0.247396, 0.968866, -0.009692, -0.201458, -0.041647, 0.978609),
+
+              ["RightHand"] = CFrame.new(-0.000502, -0.002489, 0.000000, 0.999583, 0.025346, -0.013861, -0.022363, 0.982635, 0.184201, 0.018289, -0.183812, 0.982791),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.043254, 0.010816, 1.000000, 0.000000, 0.000000, -0.000000, 0.891494, -0.453032, -0.000000, 0.453032, 0.891494),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, 0.025178, -0.001881, 1.000000, 0.000000, 0.000000, -0.000000, 0.980728, 0.195360, 0.000000, -0.195377, 0.980732),
+
+              ["RightUpperArm"] = CFrame.new(0.000901, -0.017965, -0.024023, 0.998199, -0.019595, -0.056705, 0.035930, 0.952167, 0.303460, 0.048046, -0.304951, 0.951155),
+
+              ["RightUpperLeg"] = CFrame.new(-0.000000, -0.000000, -0.000000, 0.962066, -0.268916, 0.045961, 0.272299, 0.956878, -0.101171, -0.016772, 0.109860, 0.993807),
+
+              ["UpperTorso"] = CFrame.new(0.001524, 0.000018, 0.000045, 0.999459, -0.000845, 0.032871, 0.000974, 0.999992, -0.003922, -0.032868, 0.003952, 0.999452)
+
+          }},
+
+          {Time = 0.967, Data = {
+
+              ["Head"] = CFrame.new(-0.795597, 5.313771, -8.184787, -0.325030, 0.774404, -0.542821, -0.181638, 0.512180, 0.839452, 0.928097, 0.371444, -0.025813),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.007061, -0.000003, 0.991383, -0.100205, -0.084376, 0.083566, 0.979788, -0.181755, 0.100877, 0.173129, 0.979717),
+
+              ["LeftHand"] = CFrame.new(0.000504, -0.005345, -0.000000, 0.999432, 0.028657, -0.017716, -0.022634, 0.960610, 0.276981, 0.024955, -0.276420, 0.960712),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.028007, 0.005414, 1.000000, -0.000000, -0.000000, 0.000000, 0.945283, -0.326253, 0.000000, 0.326253, 0.945283),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.032694, -0.003159, 1.000000, -0.000000, 0.000000, 0.000000, 0.966783, 0.255585, -0.000000, -0.255600, 0.966787),
+
+              ["LeftUpperArm"] = CFrame.new(-0.001636, 0.021383, 0.034294, 0.996728, -0.036965, -0.071881, 0.042767, 0.995802, 0.080929, 0.068588, -0.083739, 0.994125),
+
+              ["LeftUpperLeg"] = CFrame.new(-0.000000, 0.000000, -0.000100, 0.954652, 0.111244, 0.276159, -0.094915, 0.992889, -0.071839, -0.282188, 0.042383, 0.958423),
+
+              ["LowerTorso"] = CFrame.new(-0.071922, -0.071437, -0.009702, 0.998775, 0.014965, 0.047164, -0.013799, 0.999594, -0.024937, -0.047518, 0.024256, 0.998576),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.005283, -0.000103, 0.936727, 0.267782, 0.225479, -0.276108, 0.961111, 0.005630, -0.215191, -0.067520, 0.974232),
+
+              ["RightHand"] = CFrame.new(-0.000502, -0.002382, -0.000000, 0.999226, 0.034365, -0.019132, -0.030646, 0.985144, 0.168976, 0.024655, -0.168258, 0.985434),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.044412, 0.011364, 1.000000, 0.000000, 0.000000, -0.000000, 0.886014, -0.463658, -0.000000, 0.463659, 0.886014),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.022342, -0.001456, 1.000000, -0.000000, 0.000000, -0.000000, 0.985038, 0.172322, 0.000000, -0.172339, 0.985041),
+
+              ["RightUpperArm"] = CFrame.new(0.001711, -0.024215, -0.033495, 0.996578, -0.023034, -0.079388, 0.048429, 0.941005, 0.334908, 0.066990, -0.337607, 0.938900),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, 0.000000, -0.000000, 0.952068, -0.299823, 0.060605, 0.303859, 0.949784, -0.074690, -0.035167, 0.089536, 0.995364),
+
+              ["UpperTorso"] = CFrame.new(0.002015, 0.000030, 0.000095, 0.999195, -0.000531, 0.040122, 0.000706, 0.999990, -0.004357, -0.040119, 0.004382, 0.999185)
+
+          }},
+
+          {Time = 0.983, Data = {
+
+              ["Head"] = CFrame.new(-0.774651, 4.583978, -7.206612, -0.294431, 0.763616, -0.574631, -0.165698, 0.551387, 0.817628, 0.941198, 0.335951, -0.035816),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.007039, -0.000003, 0.991252, -0.100964, -0.085014, 0.084021, 0.979421, -0.183516, 0.101787, 0.174758, 0.979334),
+
+              ["LeftHand"] = CFrame.new(0.000504, -0.005915, 0.000000, 0.999180, 0.034537, -0.021148, -0.026862, 0.956004, 0.292125, 0.030306, -0.291314, 0.956146),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.023781, 0.004218, 1.000000, -0.000000, -0.000000, 0.000000, 0.957215, -0.289378, 0.000000, 0.289378, 0.957215),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.032574, -0.003133, 1.000000, -0.000000, 0.000000, 0.000000, 0.967046, 0.254587, 0.000000, -0.254602, 0.967050),
+
+              ["LeftUpperArm"] = CFrame.new(-0.002916, 0.026305, 0.047072, 0.994168, -0.049339, -0.095898, 0.052612, 0.998105, 0.031905, 0.094143, -0.036764, 0.994880),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, 0.000000, -0.000100, 0.953131, 0.109656, 0.281987, -0.095082, 0.993351, -0.064892, -0.287228, 0.035052, 0.957221),
+
+              ["LowerTorso"] = CFrame.new(-0.091052, -0.072626, -0.011722, 0.997349, 0.018479, 0.070376, -0.016362, 0.999400, -0.030537, -0.070898, 0.029305, 0.997053),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004614, -0.000103, 0.925582, 0.289572, 0.243827, -0.303075, 0.952779, 0.018959, -0.226811, -0.091433, 0.969634),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.002322, -0.000000, 0.998669, 0.044932, -0.025307, -0.040785, 0.988501, 0.145610, 0.031559, -0.144383, 0.989018),
+
+              ["RightLowerArm"] = CFrame.new(-0.000000, 0.045056, 0.011675, 1.000000, 0.000000, 0.000000, -0.000000, 0.882897, -0.469566, -0.000000, 0.469566, 0.882898),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, 0.019104, -0.001040, 1.000000, 0.000000, -0.000000, -0.000000, 0.989247, 0.146235, -0.000000, -0.146252, 0.989250),
+
+              ["RightUpperArm"] = CFrame.new(0.003003, -0.031425, -0.044792, 0.993994, -0.025047, -0.106527, 0.062850, 0.927561, 0.368349, 0.089584, -0.372833, 0.923564),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.941134, -0.330278, 0.071988, 0.333712, 0.941733, -0.042129, -0.053879, 0.063683, 0.996515),
+
+              ["UpperTorso"] = CFrame.new(0.002554, 0.000047, 0.000180, 0.998925, 0.000039, 0.046367, 0.000166, 0.999990, -0.004425, -0.046366, 0.004428, 0.998915)
+
+          }},
+
+          {Time = 1.000, Data = {
+
+              ["Head"] = CFrame.new(-0.757747, 3.919716, -6.292561, -0.265937, 0.749485, -0.606259, -0.144624, 0.590768, 0.793774, 0.953080, 0.298773, -0.048714),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.007062, -0.000003, 0.991370, -0.100282, -0.084440, 0.083470, 0.979507, -0.183311, 0.101086, 0.174672, 0.979422),
+
+              ["LeftHand"] = CFrame.new(0.000504, -0.006748, 0.000000, 0.998931, 0.039484, -0.024034, -0.030337, 0.952312, 0.303618, 0.034875, -0.302561, 0.952491),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.017770, 0.002790, 1.000000, -0.000000, -0.000000, 0.000000, 0.971439, -0.237288, 0.000000, 0.237288, 0.971439),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.032695, -0.003159, 1.000000, -0.000000, -0.000000, 0.000000, 0.966781, 0.255590, -0.000000, -0.255605, 0.966785),
+
+              ["LeftUpperArm"] = CFrame.new(-0.004899, 0.030964, 0.062582, 0.990202, -0.065109, -0.123537, 0.061928, 0.997647, -0.029427, 0.125163, 0.021488, 0.991904),
+
+              ["LeftUpperLeg"] = CFrame.new(-0.000000, 0.000000, -0.000100, 0.955184, 0.107219, 0.275912, -0.093711, 0.993684, -0.061712, -0.280787, 0.033103, 0.959200),
+
+              ["LowerTorso"] = CFrame.new(-0.111618, -0.073760, -0.013619, 0.994727, 0.022125, 0.100143, -0.018589, 0.999175, -0.036100, -0.100859, 0.034048, 0.994318),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.003907, -0.000103, 0.915023, 0.308585, 0.259836, -0.326812, 0.944646, 0.029007, -0.236490, -0.111445, 0.965217),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.002339, -0.000000, 0.997831, 0.057239, -0.032499, -0.053274, 0.992282, 0.111980, 0.038658, -0.110004, 0.993179),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.044878, 0.011589, 1.000000, 0.000000, 0.000000, -0.000000, 0.883763, -0.467934, -0.000000, 0.467935, 0.883763),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.015805, -0.000692, 1.000000, -0.000000, -0.000000, -0.000000, 0.992776, 0.119966, 0.000000, -0.119984, 0.992778),
+
+              ["RightUpperArm"] = CFrame.new(0.004956, -0.039659, -0.057953, 0.990088, -0.025164, -0.138176, 0.079318, 0.912094, 0.402236, 0.115907, -0.409209, 0.905049),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, 0.000000, -0.000000, 0.929900, -0.359132, 0.079429, 0.360626, 0.932698, -0.004837, -0.072345, 0.033152, 0.996829),
+
+              ["UpperTorso"] = CFrame.new(0.003128, 0.000070, 0.000315, 0.998697, 0.000899, 0.051030, -0.000694, 0.999992, -0.004037, -0.051033, 0.003996, 0.998689)
+
+          }},
+
+          {Time = 1.017, Data = {
+
+              ["Head"] = CFrame.new(-0.745238, 3.327757, -5.446230, -0.239921, 0.731865, -0.637818, -0.118148, 0.630111, 0.767464, 0.963576, 0.259488, -0.064709),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.007140, -0.000003, 0.991771, -0.097933, -0.082462, 0.081753, 0.980122, -0.180779, 0.098521, 0.172541, 0.980061),
+
+              ["LeftHand"] = CFrame.new(0.000505, -0.007991, -0.000000, 0.998751, 0.042712, -0.025914, -0.032669, 0.950807, 0.308060, 0.037796, -0.306826, 0.951014),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.009127, 0.001270, 1.000000, -0.000000, -0.000000, -0.000000, 0.986598, -0.163170, 0.000000, 0.163170, 0.986598),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.033113, -0.003250, 1.000000, -0.000000, -0.000000, 0.000000, 0.965858, 0.259058, 0.000000, -0.259073, 0.965862),
+
+              ["LeftUpperArm"] = CFrame.new(-0.007872, 0.034938, 0.081175, 0.984256, -0.085853, -0.154498, 0.069877, 0.991905, -0.106030, 0.162350, 0.093564, 0.982287),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, 0.000000, -0.000100, 0.961182, 0.103702, 0.255687, -0.090382, 0.993891, -0.063328, -0.260693, 0.037773, 0.964683),
+
+              ["LowerTorso"] = CFrame.new(-0.133357, -0.074846, -0.015291, 0.990204, 0.025820, 0.137222, -0.020307, 0.998935, -0.041419, -0.138145, 0.038227, 0.989674),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.003261, -0.000103, 0.905850, 0.324035, 0.272845, -0.345798, 0.937678, 0.034457, -0.244663, -0.125546, 0.961441),
+
+              ["RightHand"] = CFrame.new(-0.000502, -0.002470, 0.000000, 0.996601, 0.071541, -0.040856, -0.068772, 0.995475, 0.065576, 0.045362, -0.062542, 0.997011),
+
+              ["RightLowerArm"] = CFrame.new(-0.000000, 0.043453, 0.010908, 1.000000, 0.000000, 0.000000, -0.000000, 0.890567, -0.454852, -0.000000, 0.454852, 0.890567),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, 0.012912, -0.000448, 1.000000, 0.000000, -0.000000, 0.000000, 0.995261, 0.097220, -0.000000, -0.097238, 0.995263),
+
+              ["RightUpperArm"] = CFrame.new(0.007789, -0.049000, -0.072987, 0.984423, -0.023186, -0.174283, 0.097998, 0.895364, 0.434419, 0.145974, -0.444731, 0.883689),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.919198, -0.385015, 0.082692, 0.383397, 0.922910, 0.035270, -0.089896, -0.000706, 0.995951),
+
+              ["UpperTorso"] = CFrame.new(0.003728, 0.000097, 0.000517, 0.998564, 0.002101, 0.053530, -0.001936, 0.999993, -0.003127, -0.053536, 0.003019, 0.998561)
+
+          }},
+
+          {Time = 1.033, Data = {
+
+              ["Head"] = CFrame.new(-0.737475, 2.814863, -4.671226, -0.216823, 0.710580, -0.669376, -0.085981, 0.669122, 0.738162, 0.972417, 0.217604, -0.083985),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.007274, -0.000003, 0.992439, -0.093892, -0.079060, 0.078881, 0.981353, -0.175293, 0.094038, 0.167722, 0.981337),
+
+              ["LeftHand"] = CFrame.new(0.000507, -0.010284, -0.000000, 0.998722, 0.043227, -0.026208, -0.033355, 0.953071, 0.300905, 0.037984, -0.299644, 0.953294),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, -0.003721, 0.000101, 1.000000, -0.000000, -0.000000, -0.000000, 0.998319, -0.057960, 0.000000, 0.057960, 0.998319),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.033831, -0.003410, 1.000000, -0.000000, -0.000000, 0.000000, 0.964237, 0.265026, -0.000000, -0.265040, 0.964241),
+
+              ["LeftUpperArm"] = CFrame.new(-0.012228, 0.037691, 0.103236, 0.975544, -0.114037, -0.187906, 0.075383, 0.976619, -0.201329, 0.206472, 0.182240, 0.961331),
+
+              ["LeftUpperLeg"] = CFrame.new(-0.000000, 0.000000, -0.000100, 0.970716, 0.098481, 0.219119, -0.084873, 0.993881, -0.070684, -0.224739, 0.050031, 0.973135),
+
+              ["LowerTorso"] = CFrame.new(-0.155991, -0.075888, -0.016626, 0.982804, 0.029442, 0.182291, -0.021340, 0.998702, -0.046251, -0.183417, 0.041565, 0.982156),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.002769, -0.000103, 0.898887, 0.335189, 0.282237, -0.358746, 0.932789, 0.034769, -0.251601, -0.132488, 0.958715),
+
+              ["RightHand"] = CFrame.new(-0.000502, -0.002781, 0.000000, 0.994823, 0.088148, -0.050559, -0.088092, 0.996107, 0.003360, 0.050658, 0.001112, 0.998715),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.040141, 0.009424, 1.000000, 0.000000, 0.000000, -0.000000, 0.905420, -0.424517, -0.000000, 0.424518, 0.905420),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.010784, -0.000304, 1.000000, 0.000000, -0.000000, -0.000000, 0.996739, 0.080681, 0.000000, -0.080699, 0.996740),
+
+              ["RightUpperArm"] = CFrame.new(0.011758, -0.059540, -0.089857, 0.976485, -0.019471, -0.214705, 0.119080, 0.878918, 0.461869, 0.179715, -0.476575, 0.860569),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.910020, -0.406433, 0.081704, 0.400857, 0.912933, 0.076604, -0.105723, -0.036950, 0.993708),
+
+              ["UpperTorso"] = CFrame.new(0.004338, 0.000130, 0.000805, 0.998573, 0.003726, 0.053267, -0.003642, 0.999992, -0.001665, -0.053273, 0.001468, 0.998579)
+
+          }},
+
+          {Time = 1.050, Data = {
+
+              ["Head"] = CFrame.new(-0.734809, 2.387812, -3.971151, -0.197161, 0.685428, -0.700940, -0.047822, 0.707399, 0.705195, 0.979204, 0.172558, -0.106693),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.007451, -0.000003, 0.993292, -0.088453, -0.074480, 0.075126, 0.983285, -0.165860, 0.087900, 0.159143, 0.983333),
+
+              ["LeftHand"] = CFrame.new(0.000513, -0.018972, 0.000000, 0.998916, 0.039773, -0.024172, -0.030041, 0.947671, 0.317835, 0.035548, -0.316762, 0.947838),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, -0.018241, -0.000021, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000001, 0.000000, 0.000000, 1.000000),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.034784, -0.003629, 1.000000, -0.000000, 0.000000, 0.000000, 0.962025, 0.272948, 0.000000, -0.272962, 0.962029),
+
+              ["LeftUpperArm"] = CFrame.new(-0.018511, 0.038526, 0.129167, 0.962978, -0.143072, -0.228482, 0.077052, 0.958265, -0.275302, 0.258335, 0.247505, 0.933812),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, 0.000000, -0.000100, 0.982270, 0.090457, 0.164203, -0.077339, 0.993408, -0.084594, -0.170773, 0.070409, 0.982793),
+
+              ["LowerTorso"] = CFrame.new(-0.179213, -0.076897, -0.017510, 0.971223, 0.032807, 0.235901, -0.021512, 0.998503, -0.050297, -0.237198, 0.043775, 0.970475),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.002583, -0.000103, 0.894907, 0.341364, 0.287436, -0.364353, 0.930814, 0.028932, -0.257660, -0.130603, 0.957363),
+
+              ["RightHand"] = CFrame.new(-0.000502, -0.003551, -0.000000, 0.992291, 0.107414, -0.061812, -0.112092, 0.990633, -0.077991, 0.052856, 0.084318, 0.995036),
+
+              ["RightLowerArm"] = CFrame.new(-0.000000, 0.033867, 0.007011, 1.000000, 0.000000, 0.000000, -0.000000, 0.929542, -0.368716, -0.000000, 0.368717, 0.929542),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, 0.009995, -0.000258, 1.000000, 0.000000, -0.000000, -0.000000, 0.997212, 0.074598, -0.000000, -0.074616, 0.997214),
+
+              ["RightUpperArm"] = CFrame.new(0.017158, -0.071379, -0.108483, 0.965684, -0.015304, -0.259268, 0.142758, 0.865213, 0.480652, 0.216966, -0.501171, 0.837707),
+
+              ["RightUpperLeg"] = CFrame.new(-0.000000, 0.000000, -0.000000, 0.903452, -0.421705, 0.077073, 0.411893, 0.903742, 0.116600, -0.118824, -0.073588, 0.990184),
+
+              ["UpperTorso"] = CFrame.new(0.004937, 0.000167, 0.001199, 0.998751, 0.005906, 0.049622, -0.005930, 0.999982, 0.000333, -0.049619, -0.000627, 0.998768)
+
+          }},
+
+          {Time = 1.067, Data = {
+
+              ["Head"] = CFrame.new(-0.755526, 2.050181, -3.349167, -0.178323, 0.673735, -0.717135, 0.062512, 0.735101, 0.675069, 0.981984, 0.075551, -0.173202),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.007635, -0.000003, 0.994158, -0.082565, -0.069522, 0.071393, 0.986079, -0.150181, 0.080949, 0.144333, 0.986211),
+
+              ["LeftHand"] = CFrame.new(0.000516, -0.024118, -0.000000, 0.998214, 0.051173, -0.030814, -0.037221, 0.936320, 0.349172, 0.046719, -0.347399, 0.936552),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, -0.023410, 0.000011, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.035780, -0.003865, 1.000000, -0.000000, 0.000000, 0.000000, 0.959631, 0.281248, 0.000000, -0.281262, 0.959635),
+
+              ["LeftUpperArm"] = CFrame.new(-0.025729, 0.040619, 0.153025, 0.948543, -0.170843, -0.266606, 0.081239, 0.945081, -0.316578, 0.306050, 0.278629, 0.910329),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, 0.000000, -0.000100, 0.993122, 0.078085, 0.087241, -0.068665, 0.991970, -0.106194, -0.094833, 0.099488, 0.990511),
+
+              ["LowerTorso"] = CFrame.new(-0.202853, -0.077874, -0.017873, 0.951655, 0.036065, 0.305045, -0.020662, 0.998350, -0.053576, -0.306474, 0.044683, 0.950830),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.002625, -0.000103, 0.894184, 0.342470, 0.288368, -0.362361, 0.931886, 0.016902, -0.262925, -0.119591, 0.957370),
+
+              ["RightHand"] = CFrame.new(-0.000502, -0.002905, -0.000000, 0.992884, 0.103222, -0.059379, -0.108370, 0.989914, -0.091247, 0.049361, 0.097032, 0.994056),
+
+              ["RightLowerArm"] = CFrame.new(-0.000000, 0.038898, 0.008902, 1.000000, 0.000000, 0.000000, -0.000000, 0.910638, -0.413204, -0.000000, 0.413205, 0.910638),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.010171, -0.000267, 1.000000, 0.000000, 0.000000, -0.000000, 0.997110, 0.075949, -0.000000, -0.075968, 0.997112),
+
+              ["RightUpperArm"] = CFrame.new(0.013863, -0.076992, -0.122014, 0.959614, 0.022110, -0.280451, 0.136059, 0.836081, 0.531466, 0.246230, -0.548160, 0.799307),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, 0.000000, -0.000000, 0.901020, -0.429649, 0.059702, 0.416446, 0.895305, 0.158125, -0.121389, -0.117603, 0.985613),
+
+              ["UpperTorso"] = CFrame.new(0.005488, 0.000208, 0.001759, 0.999336, 0.008495, 0.035440, -0.008588, 0.999960, 0.002483, -0.035418, -0.002785, 0.999369)
+
+          }},
+
+          {Time = 1.083, Data = {
+
+              ["Head"] = CFrame.new(-0.810172, 1.792806, -2.806745, -0.155244, 0.688965, -0.707974, 0.294002, 0.716411, 0.632707, 0.943113, -0.109922, -0.313775),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.007809, -0.000003, 0.994729, -0.078438, -0.066047, 0.069518, 0.989341, -0.127957, 0.075375, 0.122685, 0.989578),
+
+              ["LeftHand"] = CFrame.new(0.000509, -0.014029, 0.000000, 0.993940, 0.094515, -0.056131, -0.068383, 0.931424, 0.357458, 0.086066, -0.351450, 0.932241),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, -0.013446, -0.000028, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000000, 0.000000, 0.000000, 1.000000),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.036709, -0.004093, 1.000000, -0.000000, 0.000000, 0.000000, 0.957329, 0.288987, -0.000000, -0.289000, 0.957333),
+
+              ["LeftUpperArm"] = CFrame.new(-0.032149, 0.047464, 0.169889, 0.935703, -0.203191, -0.288398, 0.094929, 0.932344, -0.348889, 0.339778, 0.299079, 0.891686),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, 0.000000, -0.000100, 0.998019, 0.062278, -0.008951, -0.062917, 0.988824, -0.135147, 0.000434, 0.135457, 0.990785),
+
+              ["LowerTorso"] = CFrame.new(-0.226118, -0.078831, -0.017970, 0.919470, 0.037806, 0.391338, -0.017145, 0.998275, -0.056157, -0.392786, 0.044925, 0.918532),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.002531, -0.000103, 0.896728, 0.338556, 0.285072, -0.354209, 0.935161, 0.003595, -0.265358, -0.104183, 0.958499),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.000894, 0.000000, 0.997984, 0.055175, -0.031350, -0.054509, 0.998277, 0.021722, 0.032495, -0.019969, 0.999272),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.061050, 0.021281, 1.000000, 0.000000, 0.000000, -0.000000, 0.786718, -0.617312, -0.000000, 0.617312, 0.786719),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.009774, -0.000245, 1.000000, 0.000000, -0.000000, -0.000000, 0.997338, 0.072893, 0.000000, -0.072911, 0.997340),
+
+              ["RightUpperArm"] = CFrame.new(-0.006757, -0.069177, -0.124539, 0.963986, 0.107881, -0.243091, 0.071624, 0.774956, 0.627943, 0.256128, -0.622740, 0.739320),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, 0.000000, -0.000000, 0.904074, -0.426709, 0.023884, 0.413106, 0.886842, 0.207019, -0.109517, -0.177285, 0.978046),
+
+              ["UpperTorso"] = CFrame.new(0.005937, 0.000244, 0.002527, 0.999884, 0.013051, 0.007816, -0.013085, 0.999905, 0.004296, -0.007760, -0.004397, 0.999960)
+
+          }},
+
+          {Time = 1.100, Data = {
+
+              ["Head"] = CFrame.new(-0.887491, 1.603334, -2.344924, -0.118423, 0.723469, -0.680124, 0.595328, 0.599918, 0.534493, 0.794708, -0.341601, -0.501745),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.008002, -0.000003, 0.994776, -0.078090, -0.065753, 0.071154, 0.992244, -0.101930, 0.073198, 0.096714, 0.992616),
+
+              ["LeftHand"] = CFrame.new(0.000504, -0.005806, 0.000000, 0.982008, 0.162660, -0.095931, -0.103872, 0.889512, 0.444952, 0.157705, -0.426979, 0.890401),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.016793, 0.002427, 1.000000, -0.000000, -0.000000, 0.000000, 0.975293, -0.220914, 0.000000, 0.220914, 0.975293),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.037766, -0.004360, 1.000000, -0.000000, 0.000000, 0.000000, 0.954617, 0.297823, 0.000000, -0.297836, 0.954621),
+
+              ["LeftUpperArm"] = CFrame.new(-0.038259, 0.057576, 0.182977, 0.923482, -0.202326, -0.325954, 0.115152, 0.956636, -0.267558, 0.365953, 0.209551, 0.906734),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, 0.000000, -0.000100, 0.992187, 0.045097, -0.116324, -0.064687, 0.983220, -0.170555, 0.106680, 0.176762, 0.978458),
+
+              ["LowerTorso"] = CFrame.new(-0.247829, -0.079788, -0.018136, 0.872778, 0.035664, 0.486813, -0.009015, 0.998335, -0.056976, -0.488034, 0.045339, 0.871646),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.002032, -0.000103, 0.902549, 0.329380, 0.277347, -0.341563, 0.939849, -0.004654, -0.262184, -0.090515, 0.960759),
+
+              ["RightHand"] = CFrame.new(-0.000499, 0.001133, 0.000000, 0.999508, -0.026710, 0.016451, 0.022724, 0.978024, 0.207255, -0.021624, -0.206777, 0.978149),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.082750, 0.042454, 1.000000, 0.000000, 0.000000, -0.000000, 0.574190, -0.818722, -0.000000, 0.818722, 0.574190),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, 0.007711, -0.000146, 1.000000, -0.000000, 0.000000, -0.000000, 0.998367, 0.057116, 0.000000, -0.057135, 0.998368),
+
+              ["RightUpperArm"] = CFrame.new(-0.039599, -0.048623, -0.113273, 0.970258, 0.195252, -0.143097, -0.041714, 0.717141, 0.695679, 0.238453, -0.669019, 0.703956),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, 0.000000, -0.000000, 0.912641, -0.408087, -0.023475, 0.399379, 0.877989, 0.263883, -0.087075, -0.250198, 0.964269),
+
+              ["UpperTorso"] = CFrame.new(0.006238, 0.000255, 0.003480, 0.999382, 0.021891, -0.027500, -0.021761, 0.999751, 0.005035, 0.027603, -0.004434, 0.999609)
+
+          }},
+
+          {Time = 1.117, Data = {
+
+              ["Head"] = CFrame.new(-0.976225, 1.469411, -1.964741, -0.059305, 0.763911, -0.642591, 0.862300, 0.363511, 0.352559, 0.502913, -0.533197, -0.680279),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.008203, -0.000003, 0.994142, -0.082680, -0.069619, 0.077515, 0.994250, -0.073882, 0.075322, 0.068049, 0.994834),
+
+              ["LeftHand"] = CFrame.new(0.000501, -0.001868, 0.000000, 0.958648, 0.245343, -0.144230, -0.133485, 0.835204, 0.533497, 0.251349, -0.492179, 0.833414),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.046552, 0.012385, 1.000000, -0.000000, -0.000000, -0.000000, 0.875804, -0.482668, 0.000000, 0.482668, 0.875804),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.038865, -0.004649, 1.000000, -0.000000, 0.000000, 0.000000, 0.951697, 0.307027, -0.000000, -0.307040, 0.951701),
+
+              ["LeftUpperArm"] = CFrame.new(-0.045309, 0.068193, 0.196483, 0.909383, -0.184184, -0.372960, 0.136386, 0.979085, -0.150966, 0.392966, 0.086419, 0.915484),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.973458, 0.028194, -0.227121, -0.077227, 0.974643, -0.210003, 0.215441, 0.221983, 0.950955),
+
+              ["LowerTorso"] = CFrame.new(-0.266965, -0.080744, -0.018627, 0.811616, 0.027660, 0.583536, 0.004761, 0.998532, -0.053954, -0.584171, 0.046569, 0.810293),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.000960, -0.000103, 0.911282, 0.314995, 0.265233, -0.325687, 0.945471, -0.003870, -0.251977, -0.082840, 0.964176),
+
+              ["RightHand"] = CFrame.new(-0.000498, 0.003470, -0.000000, 0.989998, -0.121449, 0.071789, 0.077774, 0.894369, 0.440520, -0.117705, -0.430527, 0.894868),
+
+              ["RightLowerArm"] = CFrame.new(-0.000000, 0.096587, 0.065842, 1.000000, 0.000000, 0.000000, -0.000000, 0.338282, -0.941045, -0.000000, 0.941045, 0.338282),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.003509, -0.000022, 1.000000, -0.000000, 0.000000, -0.000000, 0.999672, 0.025594, 0.000000, -0.025613, 0.999672),
+
+              ["RightUpperArm"] = CFrame.new(-0.078424, -0.022330, -0.080106, 0.967622, 0.252371, -0.004159, -0.182513, 0.710971, 0.679124, 0.174347, -0.656376, 0.734012),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.925764, -0.370929, -0.073308, 0.373745, 0.868381, 0.325934, -0.057238, -0.329129, 0.942546),
+
+              ["UpperTorso"] = CFrame.new(0.006356, 0.000217, 0.004570, 0.997234, 0.036429, -0.064786, -0.036296, 0.999336, 0.003232, 0.064861, -0.000871, 0.997894)
+
+          }},
+
+          {Time = 1.133, Data = {
+
+              ["Head"] = CFrame.new(-1.065118, 1.378686, -1.667235, 0.018050, 0.796034, -0.604983, 0.991687, 0.062847, 0.112280, 0.127400, -0.601981, -0.788282),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.008389, -0.000003, 0.992669, -0.092455, -0.077849, 0.089101, 0.994983, -0.045505, 0.081660, 0.038233, 0.995926),
+
+              ["LeftHand"] = CFrame.new(0.000500, 0.000634, 0.000000, 0.923176, 0.331501, -0.194565, -0.157043, 0.787292, 0.596249, 0.350834, -0.519884, 0.778865),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.070682, 0.028830, 1.000000, -0.000000, -0.000000, -0.000000, 0.710852, -0.703342, 0.000000, 0.703342, 0.710852),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.039892, -0.004927, 1.000000, -0.000000, 0.000000, 0.000000, 0.948877, 0.315634, -0.000000, -0.315646, 0.948881),
+
+              ["LeftUpperArm"] = CFrame.new(-0.054703, 0.075780, 0.214401, 0.890594, -0.150839, -0.429056, 0.151560, 0.987907, -0.032715, 0.428802, -0.035892, 0.902685),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.942308, 0.012927, -0.334498, -0.102344, 0.962531, -0.251104, 0.318719, 0.270864, 0.908327),
+
+              ["LowerTorso"] = CFrame.new(-0.282645, -0.081641, -0.019591, 0.738370, 0.012170, 0.674287, 0.024054, 0.998726, -0.044365, -0.673967, 0.048977, 0.737136),
+
+              ["RightFoot"] = CFrame.new(0.000000, -0.001393, -0.000103, 0.922220, 0.295781, 0.249056, -0.305047, 0.952338, -0.001461, -0.237606, -0.074609, 0.968488),
+
+              ["RightHand"] = CFrame.new(-0.000497, 0.004829, 0.000000, 0.977807, -0.180527, 0.106322, 0.059388, 0.725496, 0.685662, -0.200915, -0.664127, 0.720113),
+
+              ["RightLowerArm"] = CFrame.new(-0.000001, 0.102109, 0.084336, 1.000000, 0.000000, 0.000000, -0.000000, 0.151398, -0.988473, -0.000000, 0.988473, 0.151397),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, -0.001388, -0.000015, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, -0.000008, -0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(-0.121825, -0.014533, -0.011637, 0.954928, 0.264311, 0.135104, -0.294842, 0.791865, 0.534805, 0.034370, -0.550535, 0.834104),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.941637, -0.317325, -0.112368, 0.335831, 0.862513, 0.378541, -0.023200, -0.394179, 0.918738),
+
+              ["UpperTorso"] = CFrame.new(0.006277, 0.000103, 0.005732, 0.993509, 0.056894, -0.098509, -0.057498, 0.998340, -0.003308, 0.098157, 0.008950, 0.995131)
+
+          }},
+
+          {Time = 1.150, Data = {
+
+              ["Head"] = CFrame.new(-1.142910, 1.318804, -1.453446, 0.099857, 0.815966, -0.569410, 0.970031, -0.207237, -0.126857, -0.221513, -0.539678, -0.812207),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.008525, -0.000003, 0.990193, -0.106869, -0.089986, 0.105675, 0.994239, -0.017929, 0.091378, 0.008244, 0.995782),
+
+              ["LeftHand"] = CFrame.new(0.000498, 0.003489, -0.000000, 0.878649, 0.411881, -0.241519, -0.178842, 0.752908, 0.633363, 0.442708, -0.513306, 0.735200),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.088974, 0.049514, 1.000000, -0.000000, -0.000000, -0.000000, 0.502214, -0.864744, 0.000000, 0.864743, 0.502214),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.040641, -0.005135, 1.000000, -0.000000, 0.000000, 0.000000, 0.946763, 0.321918, 0.000000, -0.321930, 0.946768),
+
+              ["LeftUpperArm"] = CFrame.new(-0.067646, 0.076578, 0.239177, 0.864708, -0.094345, -0.493335, 0.153157, 0.984951, 0.080090, 0.478355, -0.144812, 0.866145),
+
+              ["LeftUpperLeg"] = CFrame.new(-0.000000, -0.000000, -0.000100, 0.901470, 0.000628, -0.432842, -0.140609, 0.946188, -0.291460, 0.409367, 0.323617, 0.853053),
+
+              ["LowerTorso"] = CFrame.new(-0.294071, -0.082325, -0.021061, 0.657656, -0.012226, 0.753219, 0.047695, 0.998538, -0.025436, -0.751807, 0.052653, 0.657278),
+
+              ["RightFoot"] = CFrame.new(-0.000000, -0.005714, -0.000103, 0.934436, 0.272425, 0.229389, -0.278878, 0.960317, -0.004452, -0.221488, -0.059796, 0.973325),
+
+              ["RightHand"] = CFrame.new(-0.000496, 0.005214, 0.000000, 0.993485, -0.098024, 0.058127, -0.001440, 0.499213, 0.866480, -0.113952, -0.860917, 0.495816),
+
+              ["RightLowerArm"] = CFrame.new(-0.000001, 0.103210, 0.092396, 1.000000, 0.000000, 0.000000, 0.000000, 0.069974, -0.997549, -0.000000, 0.997549, 0.069973),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, -0.005693, -0.000072, 1.000000, -0.000000, 0.000000, -0.000000, 1.000000, -0.000008, 0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(-0.174730, -0.087601, 0.110380, 0.943698, 0.177620, 0.279080, -0.246514, 0.940163, 0.235211, -0.220603, -0.290765, 0.931016),
+
+              ["RightUpperLeg"] = CFrame.new(-0.000000, -0.000000, -0.000000, 0.958050, -0.254224, -0.132327, 0.286389, 0.866929, 0.407947, 0.011008, -0.428725, 0.903365),
+
+              ["UpperTorso"] = CFrame.new(0.006017, -0.000112, 0.006891, 0.988914, 0.082430, -0.123508, -0.085208, 0.996212, -0.017372, 0.121608, 0.027704, 0.992192)
+
+          }},
+
+          {Time = 1.167, Data = {
+
+              ["Head"] = CFrame.new(-1.198347, 1.277414, -1.324411, 0.176947, 0.830599, -0.528010, 0.860421, -0.391024, -0.326766, -0.477876, -0.396491, -0.783856),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.008572, -0.000003, 0.986598, -0.124819, -0.105100, 0.126360, 0.991951, 0.008122, 0.103234, -0.021291, 0.994428),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.006672, 0.000000, 0.830968, 0.479977, -0.281277, -0.203344, 0.732666, 0.649504, 0.517825, -0.482518, 0.706419),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000499, 0.101074, 0.072686, 1.000000, -0.000000, 0.000000, 0.000000, 0.266866, -0.963734, 0.000000, 0.963734, 0.266866),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.040900, -0.005209, 1.000000, -0.000000, -0.000000, 0.000000, 0.946022, 0.324091, 0.000000, -0.324103, 0.946026),
+
+              ["LeftUpperArm"] = CFrame.new(-0.084944, 0.066769, 0.270685, 0.830112, -0.006187, -0.557562, 0.133538, 0.973045, 0.188018, 0.541369, -0.230533, 0.808563),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, 0.000000, -0.000100, 0.855353, -0.006944, -0.517999, -0.191758, 0.924640, -0.329029, 0.481248, 0.380778, 0.789568),
+
+              ["LowerTorso"] = CFrame.new(-0.300457, -0.082502, -0.023030, 0.575801, -0.046914, 0.816243, 0.074097, 0.997238, 0.005047, -0.814225, 0.057575, 0.577687),
+
+              ["RightFoot"] = CFrame.new(-0.000000, -0.009087, -0.000103, 0.946975, 0.245786, 0.206958, -0.251308, 0.967908, 0.000407, -0.200207, -0.052381, 0.978350),
+
+              ["RightHand"] = CFrame.new(-0.000497, 0.005037, 0.000000, 0.948717, 0.273310, -0.158866, 0.041139, 0.391529, 0.919247, 0.313438, -0.878639, 0.360204),
+
+              ["RightLowerArm"] = CFrame.new(-0.000001, 0.102785, 0.088668, 1.000000, 0.000000, 0.000000, -0.000000, 0.107646, -0.994189, -0.000000, 0.994189, 0.107646),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, -0.009055, -0.000116, 1.000000, 0.000000, -0.000000, -0.000000, 1.000000, -0.000008, 0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(-0.188730, -0.351366, 0.244533, 0.838784, -0.112048, 0.532809, 0.189588, 0.977458, -0.092906, -0.510390, 0.178942, 0.841120),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, 0.000000, 0.000000, 0.973077, -0.186794, -0.135017, 0.226986, 0.878300, 0.420798, 0.039984, -0.440110, 0.897050),
+
+              ["UpperTorso"] = CFrame.new(0.005625, -0.000458, 0.007974, 0.984517, 0.111700, -0.135092, -0.118333, 0.992082, -0.042082, 0.129322, 0.057416, 0.989939)
+
+          }},
+
+          {Time = 1.183, Data = {
+
+              ["Head"] = CFrame.new(-1.220169, 1.242162, -1.281168, 0.250090, 0.848932, -0.465586, 0.730141, -0.481169, -0.485149, -0.635884, -0.218612, -0.740176),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.008518, -0.000003, 0.981881, -0.144959, -0.122058, 0.149839, 0.988200, 0.031768, 0.116006, -0.049476, 0.992014),
+
+              ["LeftHand"] = CFrame.new(0.000494, 0.009033, 0.000000, 0.788453, 0.530752, -0.310881, -0.233031, 0.725489, 0.647584, 0.569243, -0.438142, 0.695692),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000499, 0.106105, 0.096858, 1.000000, -0.000000, 0.000000, 0.000000, 0.020647, -0.999787, 0.000000, 0.999787, 0.020647),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.040605, -0.005125, 1.000000, -0.000000, 0.000000, 0.000000, 0.946867, 0.321615, -0.000000, -0.321627, 0.946871),
+
+              ["LeftUpperArm"] = CFrame.new(-0.106477, 0.042167, 0.305551, 0.787046, 0.117332, -0.605633, 0.084334, 0.952064, 0.294044, 0.611102, -0.282502, 0.739424),
+
+              ["LeftUpperLeg"] = CFrame.new(-0.000000, -0.000000, -0.000100, 0.809231, -0.007188, -0.587447, -0.255207, 0.896350, -0.362515, 0.529164, 0.443290, 0.723526),
+
+              ["LowerTorso"] = CFrame.new(-0.300981, -0.081668, -0.025594, 0.499987, -0.093374, 0.860984, 0.102369, 0.993573, 0.048306, -0.859961, 0.063986, 0.506332),
+
+              ["RightFoot"] = CFrame.new(-0.000000, -0.010524, -0.000103, 0.959023, 0.216733, 0.182495, -0.223049, 0.974699, 0.014574, -0.174710, -0.054666, 0.983099),
+
+              ["RightHand"] = CFrame.new(-0.000497, 0.004349, 0.000000, 0.708760, 0.609463, -0.355271, -0.040302, 0.537770, 0.842129, 0.704297, -0.582545, 0.405710),
+
+              ["RightLowerArm"] = CFrame.new(-0.000001, 0.100357, 0.076711, 1.000000, 0.000000, 0.000000, -0.000000, 0.228449, -0.973556, -0.000000, 0.973556, 0.228448),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, -0.010486, -0.000135, 1.000000, -0.000000, 0.000000, -0.000000, 1.000000, -0.000008, 0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(-0.134271, -0.630767, 0.201383, 0.582740, -0.357457, 0.729820, 0.670795, 0.718539, -0.183679, -0.458746, 0.596596, 0.658502),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.985563, -0.120609, -0.118823, 0.159455, 0.897145, 0.411958, 0.056916, -0.424952, 0.903422),
+
+              ["UpperTorso"] = CFrame.new(0.005177, -0.000967, 0.008915, 0.981129, 0.143977, -0.129059, -0.155076, 0.984618, -0.080486, 0.115485, 0.098981, 0.988365)
+
+          }},
+
+          {Time = 1.200, Data = {
+
+              ["Head"] = CFrame.new(-1.221350, 1.202948, -1.291986, 0.337663, 0.859520, -0.383679, 0.604617, -0.510465, -0.611445, -0.721403, -0.025517, -0.692045),
+
+              ["LeftFoot"] = CFrame.new(0.000000, 0.009816, -0.000003, 0.973230, -0.175813, -0.148039, 0.179420, 0.983708, 0.011273, 0.143636, -0.037530, 0.988917),
+
+              ["LeftHand"] = CFrame.new(0.000493, 0.010750, 0.000000, 0.763216, 0.557610, -0.326459, -0.268525, 0.733261, 0.624680, 0.587703, -0.389101, 0.709366),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000499, 0.104735, 0.119954, 1.000000, -0.000000, 0.000000, 0.000000, -0.215077, -0.976597, 0.000000, 0.976597, -0.215078),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.047813, -0.007377, 1.000000, -0.000000, -0.000000, 0.000000, 0.924027, 0.382317, -0.000000, -0.382327, 0.924031),
+
+              ["LeftUpperArm"] = CFrame.new(-0.129975, -0.002309, 0.336268, 0.740051, 0.271098, -0.615492, -0.004618, 0.917187, 0.398431, 0.672535, -0.292017, 0.680017),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, 0.000000, -0.000100, 0.746741, 0.024723, -0.664655, -0.358297, 0.856868, -0.370663, 0.560358, 0.514943, 0.648724),
+
+              ["LowerTorso"] = CFrame.new(-0.297375, -0.077227, -0.050613, 0.417708, -0.146698, 0.896660, 0.177390, 0.981055, 0.077869, -0.891097, 0.126532, 0.435817),
+
+              ["RightFoot"] = CFrame.new(-0.000000, -0.023710, -0.000104, 0.973036, 0.176439, 0.148566, -0.183593, 0.982351, 0.035793, -0.139622, -0.062088, 0.988254),
+
+              ["RightHand"] = CFrame.new(-0.000498, 0.003280, 0.000000, 0.587168, 0.699277, -0.407735, -0.306748, 0.658359, 0.687366, 0.749092, -0.278524, 0.601066),
+
+              ["RightLowerArm"] = CFrame.new(-0.000000, 0.095470, 0.063216, 1.000000, 0.000000, 0.000000, -0.000000, 0.364779, -0.931094, -0.000000, 0.931094, 0.364779),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, -0.023627, -0.000309, 1.000000, -0.000000, 0.000000, -0.000000, 1.000000, -0.000008, -0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(-0.165371, -0.742595, 0.071315, 0.485273, -0.441328, 0.754810, 0.838134, 0.480712, -0.257777, -0.249081, 0.757724, 0.603169),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, 0.000000, 0.000000, 0.997570, -0.000137, -0.069674, 0.028881, 0.910850, 0.411732, 0.063406, -0.412737, 0.908638),
+
+              ["UpperTorso"] = CFrame.new(0.004552, -0.001598, 0.009770, 0.967291, 0.222856, -0.121175, -0.235385, 0.966613, -0.101258, 0.094564, 0.126469, 0.987453)
+
+          }},
+
+          {Time = 1.217, Data = {
+
+              ["Head"] = CFrame.new(-1.222374, 1.158669, -1.322429, 0.448346, 0.842115, -0.299713, 0.484334, -0.510685, -0.710367, -0.751270, 0.173329, -0.636829),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.011447, -0.000003, 0.957172, -0.221473, -0.186485, 0.219855, 0.975084, -0.029579, 0.188378, -0.012689, 0.982012),
+
+              ["LeftHand"] = CFrame.new(0.000492, 0.012237, 0.000000, 0.773688, 0.546834, -0.319971, -0.304401, 0.763754, 0.569230, 0.555650, -0.343004, 0.757362),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000498, 0.098632, 0.139805, 1.000000, -0.000000, 0.000000, 0.000000, -0.418266, -0.908324, 0.000000, 0.908324, -0.418267),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, 0.056914, -0.010898, 1.000000, -0.000000, -0.000000, 0.000000, 0.888239, 0.459374, -0.000000, -0.459381, 0.888243),
+
+              ["LeftUpperArm"] = CFrame.new(-0.149196, -0.072857, 0.348752, 0.701609, 0.440409, -0.560165, -0.145714, 0.858191, 0.492215, 0.697505, -0.263719, 0.666288),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, 0.000000, -0.000100, 0.632891, 0.071751, -0.770908, -0.483105, 0.814680, -0.320776, 0.605027, 0.575455, 0.550276),
+
+              ["LowerTorso"] = CFrame.new(-0.300406, -0.066225, -0.098735, 0.289057, -0.179396, 0.940353, 0.290858, 0.952307, 0.092269, -0.912057, 0.246838, 0.327449),
+
+              ["RightFoot"] = CFrame.new(0.000000, -0.056514, -0.000103, 0.984851, 0.132644, 0.111690, -0.138952, 0.989002, 0.050688, -0.103733, -0.065423, 0.992450),
+
+              ["RightHand"] = CFrame.new(-0.000498, 0.002307, -0.000000, 0.589103, 0.698051, -0.407043, -0.512355, 0.712200, 0.479861, 0.624860, -0.074136, 0.777206),
+
+              ["RightLowerArm"] = CFrame.new(-0.000000, 0.091310, 0.055394, 1.000000, 0.000000, 0.000000, -0.000000, 0.443881, -0.896086, -0.000000, 0.896086, 0.443881),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, -0.056317, -0.000743, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, -0.000008, 0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(-0.265790, -0.765059, -0.063500, 0.515568, -0.488215, 0.704156, 0.855482, 0.339686, -0.390850, -0.048372, 0.803903, 0.592791),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, 0.000000, 0.000000, 0.983026, 0.180755, -0.031420, -0.149645, 0.889052, 0.432664, 0.106140, -0.420612, 0.901008),
+
+              ["UpperTorso"] = CFrame.new(0.003292, -0.002043, 0.010710, 0.928892, 0.337285, -0.152969, -0.353354, 0.930823, -0.093321, 0.110911, 0.140738, 0.983815)
+
+          }},
+
+          {Time = 1.233, Data = {
+
+              ["Head"] = CFrame.new(-1.223252, 1.110478, -1.369478, 0.572654, 0.791073, -0.215107, 0.377257, -0.487249, -0.787569, -0.727836, 0.369854, -0.577463),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.011337, -0.000003, 0.936604, -0.268036, -0.225693, 0.269200, 0.962728, -0.026196, 0.224288, -0.036220, 0.973846),
+
+              ["LeftHand"] = CFrame.new(0.000491, 0.013452, 0.000000, 0.841406, 0.466523, -0.272752, -0.313381, 0.832410, 0.457043, 0.440259, -0.299081, 0.846592),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000498, 0.090667, 0.154279, 1.000000, -0.000000, 0.000000, 0.000000, -0.566850, -0.823820, 0.000000, 0.823821, -0.566851),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.056305, -0.010638, 1.000000, -0.000000, 0.000000, 0.000000, 0.890892, 0.454208, -0.000000, -0.454215, 0.890896),
+
+              ["LeftUpperArm"] = CFrame.new(-0.153392, -0.173282, 0.315968, 0.693217, 0.593827, -0.408435, -0.346565, 0.771525, 0.533520, 0.631936, -0.228296, 0.740633),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.475817, 0.074336, -0.876397, -0.563770, 0.790588, -0.239014, 0.675101, 0.607820, 0.418092),
+
+              ["LowerTorso"] = CFrame.new(-0.318928, -0.055132, -0.137787, 0.102328, -0.168749, 0.980333, 0.364006, 0.923507, 0.120972, -0.925759, 0.344468, 0.155926),
+
+              ["RightFoot"] = CFrame.new(0.000000, -0.092294, -0.000104, 0.990679, 0.104201, 0.087741, -0.108587, 0.992987, 0.046775, -0.082247, -0.055850, 0.995045),
+
+              ["RightHand"] = CFrame.new(-0.000498, 0.002998, 0.000000, 0.971966, 0.203309, -0.118102, -0.197667, 0.978565, 0.057787, 0.127319, -0.032821, 0.991319),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.094341, 0.060930, 1.000000, 0.000000, -0.000000, 0.000000, 0.387917, -0.921694, -0.000000, 0.921694, 0.387917),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, -0.091975, -0.001215, 1.000000, 0.000000, -0.000000, -0.000000, 1.000000, -0.000008, 0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(-0.525681, -0.593492, -0.192097, 0.855879, -0.349618, 0.381100, 0.506149, 0.414893, -0.756094, 0.106230, 0.840019, 0.532056),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.937475, 0.341815, -0.065606, -0.272557, 0.838195, 0.472383, 0.216458, -0.424961, 0.878948),
+
+              ["UpperTorso"] = CFrame.new(0.001210, -0.001996, 0.011593, 0.880488, 0.408259, -0.240969, -0.436601, 0.896386, -0.076628, 0.184717, 0.172678, 0.967503)
+
+          }},
+
+          {Time = 1.250, Data = {
+
+              ["Head"] = CFrame.new(-1.223995, 1.059527, -1.430113, 0.699305, 0.702682, -0.131186, 0.288722, -0.445543, -0.847426, -0.653920, 0.554733, -0.514451),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.008715, -0.000003, 0.920878, -0.298220, -0.251108, 0.319657, 0.946295, 0.048434, 0.223165, -0.124860, 0.966747),
+
+              ["LeftHand"] = CFrame.new(0.000491, 0.014201, -0.000000, 0.952174, 0.263896, -0.154030, -0.213363, 0.935064, 0.283077, 0.218728, -0.236673, 0.946648),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000497, 0.085521, 0.161235, 1.000000, -0.000000, 0.000000, 0.000000, -0.638602, -0.769536, 0.000000, 0.769537, -0.638603),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.041696, -0.005437, 1.000000, -0.000000, -0.000000, -0.000000, 0.943703, 0.330782, 0.000000, -0.330794, 0.943707),
+
+              ["LeftUpperArm"] = CFrame.new(-0.137084, -0.282420, 0.196293, 0.725832, 0.670120, -0.155263, -0.564840, 0.709451, 0.421469, 0.392586, -0.218217, 0.893453),
+
+              ["LeftUpperLeg"] = CFrame.new(-0.000000, -0.000000, -0.000100, 0.332223, 0.017152, -0.943045, -0.568586, 0.801382, -0.185719, 0.752554, 0.597907, 0.275997),
+
+              ["LowerTorso"] = CFrame.new(-0.346833, -0.056747, -0.141160, -0.101797, -0.129456, 0.986346, 0.341596, 0.926662, 0.156877, -0.934318, 0.352901, -0.050110),
+
+              ["RightFoot"] = CFrame.new(0.000000, -0.107458, -0.000104, 0.992001, 0.096558, 0.081305, -0.098969, 0.994748, 0.026144, -0.078349, -0.033966, 0.996346),
+
+              ["RightHand"] = CFrame.new(-0.000497, 0.004252, 0.000000, 0.997514, 0.061083, -0.035142, -0.062617, 0.997051, -0.044356, 0.032330, 0.046446, 0.998398),
+
+              ["RightLowerArm"] = CFrame.new(-0.000001, 0.100066, 0.075745, 1.000000, 0.000000, 0.000000, -0.000000, 0.238238, -0.971207, -0.000000, 0.971207, 0.238237),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, -0.107088, -0.001415, 1.000000, 0.000000, 0.000000, -0.000000, 1.000000, -0.000008, 0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(-0.646404, -0.537049, -0.265396, 0.912105, -0.259953, 0.316998, 0.395240, 0.352282, -0.848342, 0.108857, 0.899067, 0.424062),
+
+              ["RightUpperLeg"] = CFrame.new(-0.000000, -0.000000, 0.000000, 0.891019, 0.419500, -0.173510, -0.275984, 0.804028, 0.526665, 0.360442, -0.421377, 0.832177),
+
+              ["UpperTorso"] = CFrame.new(-0.001242, -0.001579, 0.012033, 0.854522, 0.383798, -0.349989, -0.433299, 0.898301, -0.072852, 0.286435, 0.213904, 0.933917)
+
+          }},
+
+          {Time = 1.267, Data = {
+
+              ["Head"] = CFrame.new(-1.224614, 1.006966, -1.501315, 0.815468, 0.576651, -0.049845, 0.222199, -0.391410, -0.892987, -0.534452, 0.717127, -0.447315),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, 0.000907, -0.000003, 0.916827, -0.305436, -0.257182, 0.361826, 0.907912, 0.211639, 0.168850, -0.287063, 0.942903),
+
+              ["LeftHand"] = CFrame.new(0.000491, 0.014226, 0.000000, 0.999126, -0.035971, 0.021291, 0.032426, 0.988422, 0.148226, -0.026377, -0.147405, 0.988724),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000497, 0.087240, 0.159281, 1.000000, -0.000000, 0.000000, 0.000000, -0.618960, -0.785422, 0.000000, 0.785423, -0.618961),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, 0.004276, 0.000067, 1.000000, 0.000000, 0.000000, 0.000000, 0.999555, 0.029810, 0.000000, -0.029828, 0.999556),
+
+              ["LeftUpperArm"] = CFrame.new(-0.120731, -0.325809, 0.001906, 0.758538, 0.645212, 0.091217, -0.651617, 0.750238, 0.111973, 0.003812, -0.144374, 0.989516),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.251779, -0.022193, -0.967531, -0.515985, 0.842712, -0.153600, 0.818760, 0.537906, 0.200729),
+
+              ["LowerTorso"] = CFrame.new(-0.366747, -0.070152, -0.104697, -0.256199, -0.104374, 0.960973, 0.228359, 0.959477, 0.165093, -0.939263, 0.261744, -0.221982),
+
+              ["RightFoot"] = CFrame.new(-0.000000, -0.091500, -0.000104, 0.990695, 0.104112, 0.087666, -0.104975, 0.994461, 0.005259, -0.086629, -0.014399, 0.996136),
+
+              ["RightHand"] = CFrame.new(-0.000496, 0.004851, 0.000000, 0.992082, -0.108237, 0.063707, 0.112950, 0.990712, -0.075714, -0.054918, 0.082310, 0.995092),
+
+              ["RightLowerArm"] = CFrame.new(-0.000000, 0.102188, 0.084787, 1.000000, 0.000000, 0.000000, -0.000000, 0.146847, -0.989159, -0.000000, 0.989159, 0.146846),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, -0.091184, -0.001205, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000, -0.000008, -0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(-0.718110, -0.581108, -0.332003, 0.868044, -0.172010, 0.465737, 0.492167, 0.174651, -0.852801, 0.065349, 0.969489, 0.236262),
+
+              ["RightUpperLeg"] = CFrame.new(-0.000000, -0.000000, 0.000000, 0.865359, 0.394240, -0.309399, -0.167946, 0.809812, 0.562142, 0.472174, -0.434487, 0.766987),
+
+              ["UpperTorso"] = CFrame.new(-0.003203, -0.001305, 0.012014, 0.868601, 0.272620, -0.413777, -0.340565, 0.935007, -0.098880, 0.359927, 0.226805, 0.904993)
+
+          }},
+
+          {Time = 1.283, Data = {
+
+              ["Head"] = CFrame.new(-1.225121, 0.953948, -1.580065, 0.908206, 0.417698, 0.026286, 0.179216, -0.331376, -0.926321, -0.378212, 0.846001, -0.375816),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.035278, -0.000003, 0.922342, -0.295561, -0.248866, 0.355938, 0.900545, 0.249686, 0.150313, -0.318847, 0.935800),
+
+              ["LeftHand"] = CFrame.new(0.000491, 0.013717, 0.000000, 0.949585, -0.270631, 0.158266, 0.255987, 0.960746, 0.106947, -0.180996, -0.061041, 0.981588),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000498, 0.094387, 0.149144, 1.000000, -0.000000, 0.000000, 0.000000, -0.515507, -0.856885, 0.000000, 0.856885, -0.515508),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.034754, -0.000360, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, -0.000007, -0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.115888, -0.281420, -0.152518, 0.768223, 0.605375, 0.208216, -0.562838, 0.793661, -0.230903, -0.305036, 0.060193, 0.950437),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.235219, -0.191854, -0.952820, -0.440351, 0.852902, -0.280439, 0.866466, 0.485542, 0.116137),
+
+              ["LowerTorso"] = CFrame.new(-0.373256, -0.081163, -0.049777, -0.325810, -0.106458, 0.939423, 0.083635, 0.986499, 0.140799, -0.941729, 0.124442, -0.312507),
+
+              ["RightFoot"] = CFrame.new(0.000000, -0.056556, -0.000104, 0.988445, 0.115949, 0.097633, -0.116498, 0.993191, -0.000092, -0.096975, -0.011269, 0.995223),
+
+              ["RightHand"] = CFrame.new(-0.000497, 0.004247, 0.000000, 0.964220, -0.228669, 0.134130, 0.240385, 0.967487, -0.078648, -0.111783, 0.108076, 0.987838),
+
+              ["RightLowerArm"] = CFrame.new(-0.000001, 0.100051, 0.075695, 1.000000, 0.000000, 0.000000, -0.000000, 0.238728, -0.971087, -0.000000, 0.971087, 0.238727),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, -0.056359, -0.000743, 1.000000, -0.000000, -0.000000, -0.000000, 1.000000, -0.000008, 0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(-0.743891, -0.664459, -0.447135, 0.733380, -0.017970, 0.679580, 0.673180, -0.120163, -0.729651, 0.094773, 0.992592, -0.076029),
+
+              ["RightUpperLeg"] = CFrame.new(-0.000000, -0.000000, 0.000000, 0.859891, 0.294871, -0.416698, -0.014676, 0.830238, 0.557221, 0.510267, -0.473029, 0.718239),
+
+              ["UpperTorso"] = CFrame.new(-0.004146, -0.001355, 0.011955, 0.908356, 0.134881, -0.395850, -0.203345, 0.969582, -0.136242, 0.365433, 0.204251, 0.908152)
+
+          }},
+
+          {Time = 1.300, Data = {
+
+              ["Head"] = CFrame.new(-1.225527, 0.901623, -1.663343, 0.967146, 0.236117, 0.094219, 0.158920, -0.272256, -0.949011, -0.198426, 0.932805, -0.300835),
+
+              ["LeftFoot"] = CFrame.new(-0.000000, -0.063508, -0.000003, 0.930141, -0.280895, -0.236517, 0.339934, 0.902251, 0.265337, 0.138862, -0.327170, 0.934696),
+
+              ["LeftHand"] = CFrame.new(0.000491, 0.013018, 0.000000, 0.891697, -0.390831, 0.228315, 0.383101, 0.920308, 0.079166, -0.241059, 0.016875, 0.970363),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000498, 0.102188, 0.133161, 1.000000, -0.000000, 0.000000, 0.000000, -0.352478, -0.935820, 0.000000, 0.935820, -0.352478),
+
+              ["LeftLowerLeg"] = CFrame.new(0.000000, -0.062888, -0.000732, 1.000000, 0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.107724, -0.212836, -0.225434, 0.784552, 0.579346, 0.220988, -0.425671, 0.762373, -0.487435, -0.450869, 0.288350, 0.844732),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, 0.000000, -0.000100, 0.249833, -0.310147, -0.917276, -0.374481, 0.842652, -0.386907, 0.892943, 0.440167, 0.094379),
+
+              ["LowerTorso"] = CFrame.new(-0.374274, -0.083989, -0.004603, -0.332701, -0.115350, 0.935951, -0.027716, 0.993258, 0.112561, -0.942625, 0.011509, -0.333655),
+
+              ["RightFoot"] = CFrame.new(0.000000, -0.022939, -0.000103, 0.987447, 0.120826, 0.101738, -0.122771, 0.992350, 0.013048, -0.099379, -0.025360, 0.994726),
+
+              ["RightHand"] = CFrame.new(-0.000500, 0.001529, 0.000000, 0.959579, -0.242721, 0.142464, 0.266131, 0.947220, -0.178741, -0.091559, 0.209428, 0.973528),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.086396, 0.047548, 1.000000, 0.000000, 0.000000, -0.000000, 0.522958, -0.852359, 0.000000, 0.852358, 0.522958),
+
+              ["RightLowerLeg"] = CFrame.new(-0.000000, -0.022859, -0.000299, 1.000000, 0.000000, 0.000000, -0.000000, 1.000000, -0.000008, 0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(-0.762950, -0.711255, -0.601810, 0.590019, 0.238599, 0.771329, 0.785248, -0.391777, -0.479475, 0.187788, 0.888584, -0.418515),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000000, 0.867310, 0.184777, -0.462200, 0.104987, 0.839755, 0.532723, 0.486570, -0.510557, 0.708927),
+
+              ["UpperTorso"] = CFrame.new(-0.004281, -0.001484, 0.012042, 0.947136, 0.032850, -0.319147, -0.086272, 0.984183, -0.154727, 0.309017, 0.174081, 0.934989)
+
+          }},
+
+          {Time = 1.317, Data = {
+
+              ["Head"] = CFrame.new(-1.225844, 0.851141, -1.748131, 0.987385, 0.046403, 0.151386, 0.157932, -0.220128, -0.962601, -0.011343, 0.974367, -0.224680),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000492, 0.012228, 0.000000, 0.858746, -0.442501, 0.258357, 0.451427, 0.891896, 0.027108, -0.242421, 0.093350, 0.965669),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000499, 0.107149, 0.113978, 1.000000, -0.000000, 0.000000, -0.000000, -0.156918, -0.987612, 0.000000, 0.987612, -0.156919),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.093403, -0.154800, -0.246406, 0.813194, 0.550283, 0.189483, -0.309599, 0.684707, -0.659792, -0.492813, 0.477876, 0.727166),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(-0.000000, -0.004090, -0.000103, 0.989355, 0.111315, 0.093730, -0.115310, 0.992591, 0.038315, -0.088767, -0.048698, 0.994860),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.002246, 0.000000, 0.976188, -0.186963, 0.110007, 0.216430, 0.873667, -0.435737, -0.014642, 0.449167, 0.893327),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.045890, 0.012087, 1.000000, 0.000000, 0.000000, 0.000000, 0.878777, -0.477233, -0.000000, 0.477232, 0.878777),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, -0.004075, -0.000050, 1.000000, 0.000000, 0.000000, -0.000000, 1.000000, -0.000008, -0.000000, -0.000011, 1.000000),
+
+              ["RightUpperArm"] = CFrame.new(-0.802801, -0.721391, -0.751670, 0.496488, 0.538779, 0.680600, 0.826826, -0.532265, -0.181803, 0.264309, 0.653001, -0.709740),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.884392, 0.129703, -0.448360, 0.139075, 0.843750, 0.518410, 0.445543, -0.520829, 0.728165),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.971765, -0.000083, -0.235952, -0.037403, 0.987302, -0.154391, 0.232969, 0.158857, 0.959422)
+
+          }},
+
+          {Time = 1.333, Data = {
+
+              ["Head"] = CFrame.new(-1.226082, 0.803656, -1.831410, 0.971046, -0.135947, 0.196440, 0.170917, -0.179150, -0.968862, 0.166906, 0.974384, -0.150727),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000493, 0.011320, 0.000000, 0.845675, -0.460937, 0.269021, 0.489148, 0.871026, -0.045249, -0.213466, 0.169856, 0.962071),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000499, 0.107943, 0.094367, 1.000000, -0.000000, 0.000000, -0.000000, 0.042909, -0.999079, 0.000000, 0.999079, 0.042908),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.076963, -0.113753, -0.241040, 0.846073, 0.512915, 0.145182, -0.227506, 0.593745, -0.771822, -0.482080, 0.619988, 0.619042),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.001285, -0.000103, 0.992323, 0.094606, 0.079661, -0.098830, 0.993806, 0.050840, -0.074355, -0.058306, 0.995525),
+
+              ["RightHand"] = CFrame.new(-0.000527, -0.040102, -0.000000, 0.999032, -0.037596, 0.022831, 0.043363, 0.754809, -0.654513, 0.007374, 0.654866, 0.755706),
+
+              ["RightLowerArm"] = CFrame.new(-0.000000, -0.039249, 0.000107, 1.000000, 0.000000, 0.000000, -0.000000, 1.000000, -0.000001, -0.000000, 0.000000, 1.000000),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.004750, -0.000048, 1.000000, 0.000000, 0.000000, -0.000000, 0.999393, 0.034813, -0.000000, -0.034832, 0.999394),
+
+              ["RightUpperArm"] = CFrame.new(-0.869017, -0.717606, -0.864821, 0.467431, 0.742390, 0.479964, 0.842053, -0.539215, 0.013971, 0.269176, 0.397625, -0.877177),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.903686, 0.111335, -0.413468, 0.121263, 0.859536, 0.496487, 0.410667, -0.498801, 0.763246),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.985935, 0.007073, -0.166979, -0.032734, 0.987926, -0.151431, 0.163892, 0.154767, 0.974262)
+
+          }},
+
+          {Time = 1.350, Data = {
+
+              ["Head"] = CFrame.new(-1.226252, 0.760317, -1.910159, 0.926530, -0.298029, 0.229610, 0.191797, -0.150868, -0.969769, 0.323661, 0.942559, -0.082623),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000493, 0.010312, 0.000000, 0.844600, -0.462435, 0.269823, 0.506904, 0.852893, -0.124986, -0.172331, 0.242336, 0.954764),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000499, 0.105064, 0.076885, 1.000000, -0.000000, -0.000000, 0.000000, 0.220987, -0.975277, 0.000000, 0.975277, 0.220986),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.061276, -0.089731, -0.222418, 0.877448, 0.469554, 0.098002, -0.179462, 0.510831, -0.840741, -0.444836, 0.720119, 0.532494),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.003006, -0.000103, 0.994376, 0.081016, 0.068217, -0.084667, 0.995029, 0.052446, -0.063626, -0.057913, 0.996291),
+
+              ["RightHand"] = CFrame.new(-0.000555, -0.083777, -0.000000, 0.986240, 0.143123, -0.082740, -0.163600, 0.772989, -0.612966, -0.023772, 0.618064, 0.785765),
+
+              ["RightLowerArm"] = CFrame.new(-0.000002, -0.082762, 0.000330, 1.000000, 0.000000, 0.000000, -0.000000, 1.000000, -0.000001, -0.000000, 0.000000, 1.000000),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.011795, -0.000369, 1.000000, 0.000000, 0.000000, -0.000000, 0.996074, 0.088509, -0.000000, -0.088528, 0.996075),
+
+              ["RightUpperArm"] = CFrame.new(-0.946078, -0.708748, -0.954265, 0.475306, 0.760520, 0.442372, 0.847292, -0.531120, 0.002723, 0.237023, 0.373524, -0.896828),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.918754, 0.091134, -0.384166, 0.106914, 0.879222, 0.464269, 0.380078, -0.467615, 0.798042),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.994309, 0.013133, -0.105719, -0.028847, 0.988490, -0.148514, 0.102551, 0.150718, 0.983243)
+
+          }},
+
+          {Time = 1.367, Data = {
+
+              ["Head"] = CFrame.new(-1.226366, 0.722277, -1.981361, 0.865917, -0.431789, 0.252479, 0.215041, -0.134369, -0.967317, 0.451602, 0.891910, -0.023500),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000494, 0.009252, -0.000000, 0.851811, -0.452485, 0.263964, 0.507369, 0.838017, -0.200758, -0.130365, 0.304933, 0.943408),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000499, 0.100282, 0.063365, 1.000000, -0.000000, -0.000000, -0.000000, 0.358635, -0.933478, 0.000000, 0.933478, 0.358634),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.047489, -0.082895, -0.195863, 0.905022, 0.422849, 0.046186, -0.165790, 0.450649, -0.877172, -0.391725, 0.786202, 0.477950),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.003863, -0.000103, 0.995766, 0.070316, 0.059208, -0.073984, 0.995318, 0.062218, -0.054553, -0.066321, 0.996305),
+
+              ["RightHand"] = CFrame.new(-0.000542, -0.063817, 0.000000, 0.960736, 0.239962, -0.139299, -0.276270, 0.780804, -0.560379, -0.025704, 0.576857, 0.816438),
+
+              ["RightLowerArm"] = CFrame.new(-0.000001, -0.062855, 0.000225, 1.000000, 0.000000, 0.000000, -0.000000, 1.000000, -0.000001, -0.000000, -0.000000, 1.000000),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.015602, -0.000673, 1.000000, 0.000000, 0.000000, -0.000000, 0.992969, 0.118352, -0.000000, -0.118371, 0.992972),
+
+              ["RightUpperArm"] = CFrame.new(-1.018020, -0.692600, -1.052237, 0.491688, 0.752931, 0.437422, 0.836772, -0.547549, 0.001912, 0.240949, 0.365082, -0.899254),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.930244, 0.078020, -0.358549, 0.095744, 0.891678, 0.442437, 0.354230, -0.445896, 0.822005),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998405, 0.018084, -0.053481, -0.025724, 0.988977, -0.145817, 0.050254, 0.146960, 0.987865)
+
+          }},
+
+          {Time = 1.383, Data = {
+
+              ["Head"] = CFrame.new(-1.226435, 0.690686, -2.041996, 0.801992, -0.534172, 0.267339, 0.236474, -0.127068, -0.963293, 0.548534, 0.835772, 0.024410),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000495, 0.008022, 0.000000, 0.860396, -0.440217, 0.256766, 0.500607, 0.824430, -0.264025, -0.095457, 0.355703, 0.929711),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.094932, 0.053409, 1.000000, -0.000000, 0.000000, -0.000000, 0.460064, -0.887886, 0.000000, 0.887886, 0.460064),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.037325, -0.084310, -0.169774, 0.925351, 0.379109, -0.001393, -0.168621, 0.408281, -0.897148, -0.339549, 0.830411, 0.441728),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.004258, -0.000103, 0.996682, 0.062264, 0.052427, -0.066119, 0.994965, 0.075333, -0.047471, -0.078536, 0.995779),
+
+              ["RightHand"] = CFrame.new(-0.000508, -0.011783, -0.000000, 0.948409, 0.274147, -0.159261, -0.316400, 0.786267, -0.530735, -0.020279, 0.553740, 0.832440),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, -0.011095, -0.000028, 1.000000, 0.000000, 0.000000, -0.000000, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017423, -0.000853, 1.000000, 0.000000, 0.000000, -0.000000, 0.991141, 0.132797, -0.000000, -0.132816, 0.991143),
+
+              ["RightUpperArm"] = CFrame.new(-1.079697, -0.671830, -1.152436, 0.509785, 0.731754, 0.452388, 0.814495, -0.579825, 0.020054, 0.276979, 0.358245, -0.891595),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.938682, 0.069569, -0.337692, 0.087434, 0.899386, 0.428331, 0.333515, -0.431584, 0.838151),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.999695, 0.021936, -0.011330, -0.023336, 0.989375, -0.143501, 0.008062, 0.143722, 0.989585)
+
+          }},
+
+          {Time = 1.400, Data = {
+
+              ["Head"] = CFrame.new(-1.226471, 0.666695, -2.089045, 0.746168, -0.605633, 0.276482, 0.253412, -0.125659, -0.959162, 0.615643, 0.785760, 0.059712),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.006919, -0.000000, 0.865442, -0.432787, 0.252403, 0.496154, 0.810316, -0.311802, -0.069582, 0.395075, 0.916009),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.089784, 0.045950, 1.000000, -0.000000, -0.000000, 0.000000, 0.536002, -0.844217, 0.000000, 0.844217, 0.536001),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.031015, -0.084861, -0.151167, 0.937971, 0.345113, -0.033282, -0.169721, 0.373321, -0.912046, -0.302334, 0.861121, 0.408736),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.004372, -0.000103, 0.997255, 0.056643, 0.047695, -0.060704, 0.994226, 0.088506, -0.042404, -0.091144, 0.994933),
+
+              ["RightHand"] = CFrame.new(-0.000502, -0.003681, 0.000000, 0.936366, 0.303454, -0.176452, -0.347677, 0.871011, -0.347076, 0.048368, 0.386335, 0.921088),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.032869, 0.006666, 1.000000, 0.000000, 0.000000, 0.000000, 0.932990, -0.359904, -0.000000, 0.359903, 0.932990),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017958, -0.000910, 1.000000, 0.000000, 0.000000, -0.000000, 0.990560, 0.137065, -0.000000, -0.137083, 0.990562),
+
+              ["RightUpperArm"] = CFrame.new(-1.127219, -0.653813, -1.231134, 0.525311, 0.614502, 0.588588, 0.793875, -0.602919, -0.079064, 0.306285, 0.508799, -0.804558),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.944466, 0.064509, -0.322214, 0.081694, 0.903665, 0.420384, 0.318293, -0.423353, 0.848207),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.999498, 0.024702, 0.019835, -0.021647, 0.989672, -0.141706, -0.023130, 0.141206, 0.989710)
+
+          }},
+
+          {Time = 1.417, Data = {
+
+              ["Head"] = CFrame.new(-1.226484, 0.651456, -2.119487, 0.707673, -0.647991, 0.281614, 0.264310, -0.126846, -0.956060, 0.655240, 0.751011, 0.081505),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000497, 0.006060, 0.000001, 0.868086, -0.428824, 0.250074, 0.493534, 0.799721, -0.341866, -0.053389, 0.420186, 0.905865),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.085974, 0.041329, 1.000000, -0.000000, -0.000000, -0.000000, 0.583030, -0.812451, 0.000000, 0.812451, 0.583029),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.027556, -0.085010, -0.139893, 0.944888, 0.323309, -0.051549, -0.170019, 0.350013, -0.921187, -0.279785, 0.879183, 0.385691),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(-0.000000, 0.004349, -0.000103, 0.997569, 0.053301, 0.044881, -0.057517, 0.993467, 0.098579, -0.039332, -0.100905, 0.994117),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001876, 0.000000, 0.927205, 0.323756, -0.188344, -0.364104, 0.897044, -0.250481, 0.087857, 0.300821, 0.949624),
+
+              ["RightLowerArm"] = CFrame.new(-0.000000, 0.049975, 0.014235, 1.000000, 0.000000, 0.000000, 0.000000, 0.857282, -0.514847, -0.000000, 0.514847, 0.857282),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017848, -0.000898, 1.000000, 0.000000, 0.000000, -0.000000, 0.990681, 0.136183, -0.000000, -0.136201, 0.990684),
+
+              ["RightUpperArm"] = CFrame.new(-1.157739, -0.641149, -1.282477, 0.536074, 0.546376, 0.643505, 0.778772, -0.614276, -0.127199, 0.325790, 0.569332, -0.754799),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.947862, 0.061935, -0.312603, 0.078309, 0.905590, 0.416873, 0.308909, -0.419609, 0.853520),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998884, 0.026386, 0.039178, -0.020635, 0.989858, -0.140555, -0.042490, 0.139589, 0.989297)
+
+          }},
+
+          {Time = 1.433, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.450, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.467, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.483, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.500, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.517, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.533, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.550, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.567, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.583, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.600, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.617, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.633, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.650, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.667, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.683, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.700, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.717, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.733, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.750, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.767, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.783, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.800, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.817, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.833, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.850, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.867, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.883, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.900, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.917, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.933, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.950, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.967, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 1.983, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.000, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.017, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.033, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.050, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.067, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.083, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.100, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.117, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.133, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.150, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.167, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.183, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.200, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.217, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.233, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.250, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.267, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.283, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.300, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.317, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.333, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.350, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.367, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.383, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.400, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.417, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.433, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.450, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.467, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.483, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.500, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.517, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.533, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.550, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.567, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.583, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.600, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.617, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.633, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.650, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.667, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.683, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.700, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.717, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.733, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.750, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.767, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.783, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.800, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.817, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.833, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.850, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.867, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.883, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.900, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.917, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.933, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.950, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.967, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 2.983, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 3.000, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 3.017, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 3.033, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 3.050, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 3.067, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 3.083, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 3.100, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 3.117, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 3.133, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 3.150, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 3.167, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 3.183, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 3.200, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 3.217, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 3.233, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 3.250, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 3.267, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 3.283, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 3.300, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 3.317, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+          {Time = 3.333, Data = {
+
+              ["Head"] = CFrame.new(-1.226485, 0.646121, -2.130306, 0.693592, -0.662276, 0.283408, 0.268163, -0.127771, -0.954863, 0.668594, 0.738285, 0.088977),
+
+              ["LeftFoot"] = CFrame.new(0.000000, -0.073825, -0.000003, 0.933689, -0.273920, -0.230644, 0.331916, 0.903737, 0.270385, 0.134374, -0.328979, 0.934717),
+
+              ["LeftHand"] = CFrame.new(0.000496, 0.005648, 0.000000, 0.868916, -0.427571, 0.249337, 0.492641, 0.795799, -0.352152, -0.047852, 0.428821, 0.902120),
+
+              ["LeftLowerArm"] = CFrame.new(-0.000500, 0.084496, 0.039774, 1.000000, -0.000000, -0.000000, 0.000000, 0.598895, -0.800828, 0.000000, 0.800827, 0.598895),
+
+              ["LeftLowerLeg"] = CFrame.new(-0.000000, -0.073168, -0.000869, 1.000000, -0.000000, -0.000000, 0.000000, 1.000000, -0.000007, 0.000000, -0.000010, 1.000000),
+
+              ["LeftUpperArm"] = CFrame.new(-0.026441, -0.085028, -0.136061, 0.947117, 0.315693, -0.057502, -0.170056, 0.341841, -0.924244, -0.272121, 0.885146, 0.377448),
+
+              ["LeftUpperLeg"] = CFrame.new(0.000000, -0.000000, -0.000100, 0.260161, -0.349860, -0.899954, -0.347333, 0.835746, -0.425304, 0.900931, 0.423233, 0.095911),
+
+              ["LowerTorso"] = CFrame.new(-0.374623, -0.083707, 0.012777, -0.326220, -0.118420, 0.937847, -0.069267, 0.992450, 0.101221, -0.942753, -0.031941, -0.331960),
+
+              ["RightFoot"] = CFrame.new(0.000000, 0.004314, -0.000103, 0.997671, 0.052180, 0.043937, -0.056460, 0.993124, 0.102574, -0.038281, -0.104800, 0.993755),
+
+              ["RightHand"] = CFrame.new(-0.000501, -0.001440, 0.000000, 0.923680, 0.331186, -0.192696, -0.369482, 0.903061, -0.219010, 0.101481, 0.273491, 0.956506),
+
+              ["RightLowerArm"] = CFrame.new(0.000000, 0.054875, 0.017118, 1.000000, -0.000000, 0.000000, -0.000000, 0.828421, -0.560106, -0.000000, 0.560106, 0.828421),
+
+              ["RightLowerLeg"] = CFrame.new(0.000000, 0.017683, -0.000881, 1.000000, 0.000000, 0.000000, -0.000000, 0.990860, 0.134876, -0.000000, -0.134895, 0.990862),
+
+              ["RightUpperArm"] = CFrame.new(-1.168481, -0.636446, -1.300790, 0.540021, 0.523504, 0.659030, 0.773072, -0.618113, -0.142467, 0.332772, 0.586413, -0.738500),
+
+              ["RightUpperLeg"] = CFrame.new(0.000000, -0.000000, 0.000000, 0.948993, 0.061199, -0.309299, 0.077178, 0.906052, 0.416079, 0.305705, -0.418718, 0.855110),
+
+              ["UpperTorso"] = CFrame.new(-0.004213, -0.001529, 0.012112, 0.998585, 0.026960, 0.045835, -0.020293, 0.989922, -0.140150, -0.049152, 0.139022, 0.989069)
+
+          }},
+
+      }
+}
